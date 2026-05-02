@@ -1,0 +1,881 @@
+{
+  "id": "social",
+  "title": "سوشيال فيديوهات",
+  "emoji": "",
+  "description": "",
+  "gradientColors": [
+    "#1E3A5F",
+    "#2563EB"
+  ],
+  "items": [
+    {
+      "title": "سوشيال فيديوهات",
+      "subtitle": "",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "يوفون بالنذر ويخافون يوما",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%8A%D9%88%D9%81%D9%88%D9%86%20%D8%A8%D8%A7%D9%84%D9%86%D8%B0%D8%B1%20%D9%88%D9%8A%D8%AE%D8%A7%D9%81%D9%88%D9%86%20%D9%8A%D9%88%D9%85%D8%A7.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/%D8%A7%D9%84%D9%82%D9%8F%D8%B1%D8%A2%D9%86_%D9%86%D8%B9%D9%8A%D9%85%D9%8C_%D9%85%D9%8F%D8%B9%D8%AC%D9%8E%D9%91...5t7neC_2.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "آراء المشايخ والعلماء في الشيخ المنشاوي ",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A2%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%8A%D8%AE%20%D9%88%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/7f0351e2232520322d9929a5e5b6dc1a.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "أفتمارونه على ما يرى - تقليد المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A3%D9%81%D8%AA%D9%85%D8%A7%D8%B1%D9%88%D9%86%D9%87%20%D8%B9%D9%84%D9%89%20%D9%85%D8%A7%20%D9%8A%D8%B1%D9%89%20-%20%D8%AA%D9%82%D9%84%D9%8A%D8%AF%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1757076527384.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "أقم الصلاة - الشيخ المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A3%D9%82%D9%85%20%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1758145849368.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "إذ يتلقى المتلقيان - الشيخ عبد الباسط",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A5%D8%B0%20%D9%8A%D8%AA%D9%84%D9%82%D9%89%20%D8%A7%D9%84%D9%85%D8%AA%D9%84%D9%82%D9%8A%D8%A7%D9%86%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1a9c3ed19e79509f676d73bcee567e3a.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "الآخرة هي دار القرار",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D8%A9%20%D9%87%D9%8A%20%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/moham_quran_1_576p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A3%D9%A0%D9%A4_%D9%A0%D9%A0%D9%A1%D9%A7%D9%A5%D9%A2.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "الآن نستمع إلى قرآن السهرة",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A7%D9%84%D8%A2%D9%86%20%D9%86%D8%B3%D8%AA%D9%85%D8%B9%20%D8%A5%D9%84%D9%89%20%D9%82%D8%B1%D8%A2%D9%86%20%D8%A7%D9%84%D8%B3%D9%87%D8%B1%D8%A9.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/_quran_306_480p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A2%D9%A8_%D9%A2%D9%A3%D9%A4%D9%A5%D9%A2%D9%A7.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "اللذين إذا ذكر الله وجلت قلوبهم - الشيخ المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A7%D9%84%D9%84%D8%B0%D9%8A%D9%86%20%D8%A5%D8%B0%D8%A7%20%D8%B0%D9%83%D8%B1%20%D8%A7%D9%84%D9%84%D9%87%20%D9%88%D8%AC%D9%84%D8%AA%20%D9%82%D9%84%D9%88%D8%A8%D9%87%D9%85%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "المنشاوي الصغير",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20%D8%A7%D9%84%D8%B5%D8%BA%D9%8A%D8%B1.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/dd63568ba8872f68ed1852d426fc7312.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلميذ الشيخ سيد سعيد",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%AA%D9%84%D9%85%D9%8A%D8%B0%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D9%8A%D8%AF%20%D8%B3%D8%B9%D9%8A%D8%AF.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/mhmoudsrhan_2268776706.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "خرافة ما شاء الله- قلد كل المشايخ تقريبا ❤❤",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%AE%D8%B1%D8%A7%D9%81%D8%A9%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87-%20%D9%82%D9%84%D8%AF%20%D9%83%D9%84%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%8A%D8%AE%20%D8%AA%D9%82%D8%B1%D9%8A%D8%A8%D8%A7%20%E2%9D%A4%E2%9D%A4.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764440505734.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "شاب ما شاء الله",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B4%D8%A7%D8%A8%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/elminshawi91_2239281297.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "شاب مقلد للمنشاوي ",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B4%D8%A7%D8%A8%20%D9%85%D9%82%D9%84%D8%AF%20%D9%84%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764614127848.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "شباب آسيويون ما شاء الله ",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B4%D8%A8%D8%A7%D8%A8%20%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D9%88%D9%86%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764622713804.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "شباب متقنون ما شاء الله ",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1758320825220.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "طفل صغير ما شاء الله",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B7%D9%81%D9%84%20%D8%B5%D8%BA%D9%8A%D8%B1%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20%20(1).mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764614665495.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "لقد كان لكم في رسول الله اسوة حسنة",
+          "subtitle": "طفل صغير",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B7%D9%81%D9%84%20%D8%B5%D8%BA%D9%8A%D8%B1-%20%D9%84%D9%82%D8%AF%20%D9%83%D8%A7%D9%86%20%D9%84%D9%83%D9%85%20%D9%81%D9%8A%20%D8%B1%D8%B3%D9%88%D9%84%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D8%B3%D9%88%D8%A9%20%D8%AD%D8%B3%D9%86%D8%A9.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1757714123592.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "عليه الصلاة والسلام ",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B9%D9%84%D9%8A%D9%87%20%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9%20%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1766204746560.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "عينا فيها تسمى سلسبيا - الشيخ محمد اللحيدان",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%B9%D9%8A%D9%86%D8%A7%20%D9%81%D9%8A%D9%87%D8%A7%20%D8%AA%D8%B3%D9%85%D9%89%20%D8%B3%D9%84%D8%B3%D8%A8%D9%8A%D8%A7%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%AF%D8%A7%D9%86.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1746828732083.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "غير المغضوب عليهم- المنشاوي.",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D8%BA%D9%8A%D8%B1%20%D8%A7%D9%84%D9%85%D8%BA%D8%B6%D9%88%D8%A8%20%D8%B9%D9%84%D9%8A%D9%87%D9%85-%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1766091720488.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "فاذكروني أذكركم - الشيخ محمد اللحيدان",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%81%D8%A7%D8%B0%D9%83%D8%B1%D9%88%D9%86%D9%8A%20%D8%A3%D8%B0%D9%83%D8%B1%D9%83%D9%85%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%AF%D8%A7%D9%86.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1748116602618.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "فلما تجلى ربه للجبل - مقلد",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%81%D9%84%D9%85%D8%A7%20%D8%AA%D8%AC%D9%84%D9%89%20%D8%B1%D8%A8%D9%87%20%D9%84%D9%84%D8%AC%D8%A8%D9%84%20-%20%D9%85%D9%82%D9%84%D8%AF.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/_2267889960.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "فنظر نظرة في النجوم - الشيخ المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%81%D9%86%D8%B8%D8%B1%20%D9%86%D8%B8%D8%B1%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%86%D8%AC%D9%88%D9%85%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/xxiy_112_576p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A2%D9%A0_%D9%A1%D9%A4%D9%A2%D9%A1%D9%A2%D9%A0.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "قال لا تختصمو لدي - الشيخ المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%82%D8%A7%D9%84%20%D9%84%D8%A7%20%D8%AA%D8%AE%D8%AA%D8%B5%D9%85%D9%88%20%D9%84%D8%AF%D9%8A%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/ea4a2e91f55b5520264a5494c96923c8.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "قال له صاحبه",
+          "subtitle": "الشيخ أحمد نعينع",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%82%D8%A7%D9%84%20%D9%84%D9%87%20%D8%B5%D8%A7%D8%AD%D8%A8%D9%87%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%8A%D9%86%D8%B9%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/519f7275c4fb4104d72bbafba7cbd6db.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "أسلك-يدك-في-جيبك-تخرج-بيضاء-ياسر-الدوسري",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%83%D8%B1%D9%88%D9%85%D8%A7-%D8%A3%D8%B3%D9%84%D9%83-%D9%8A%D8%AF%D9%83-%D9%81%D9%8A-%D8%AC%D9%8A%D8%A8%D9%83-%D8%AA%D8%AE%D8%B1%D8%AC-%D8%A8%D9%8A%D8%B6%D8%A7%D8%A1-%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف تقنع ملحد بوجود الله",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%83%D9%8A%D9%81%20%D8%AA%D9%82%D9%86%D8%B9%20%D9%85%D9%84%D8%AD%D8%AF%20%D8%A8%D9%88%D8%AC%D9%88%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/ismaelarrifi_2267261593.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما شاء الله كل صوت احلى من التاني",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20%D9%83%D9%84%20%D8%B5%D9%88%D8%AA%20%D8%A7%D8%AD%D9%84%D9%89%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AA%D8%A7%D9%86%D9%8A.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764622547044.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما ودعك ربك وما قلى - الشيخ المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D8%A7%20%D9%88%D8%AF%D8%B9%D9%83%20%D8%B1%D8%A8%D9%83%20%D9%88%D9%85%D8%A7%20%D9%82%D9%84%D9%89%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "مسلمات مؤمنات",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D8%B3%D9%84%D9%85%D8%A7%D8%AA%20%D9%85%D8%A4%D9%85%D9%86%D8%A7%D8%AA.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/8543156184b758b44a71f0c6f927405d.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "مقلد",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D9%82%D9%84%D8%AF%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": " ما شاء الله",
+          "subtitle": "مقلد للشيخ أحمد نعينع",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D9%82%D9%84%D8%AF%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A3%D8%AD%D9%85%D8%AF%20%D9%86%D8%B9%D9%8A%D9%86%D8%B9%20-%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1763845443965.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "مقلد للشيخ محمود صديق المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D9%82%D9%84%D8%AF%20%D9%84%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%B5%D8%AF%D9%8A%D9%82%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/17df1915167642db62e6a4431691fde4.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "مقلد محترف ما شاء الله",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%85%D9%82%D9%84%D8%AF%20%D9%85%D8%AD%D8%AA%D8%B1%D9%81%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/faawhaa_2263099306.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "هاني رضوان - مقلد ما شاء الله",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%87%D8%A7%D9%86%D9%8A%20%D8%B1%D8%B6%D9%88%D8%A7%D9%86%20-%20%D9%85%D9%82%D9%84%D8%AF%20%D9%85%D8%A7%20%D8%B4%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D9%87%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1755900541752.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وأما اذا ما ابتلاه",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D8%A3%D9%85%D8%A7%20%D8%A7%D8%B0%D8%A7%20%D9%85%D8%A7%20%D8%A7%D8%A8%D8%AA%D9%84%D8%A7%D9%87%20-%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D8%A7%D9%88%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1758490268736.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وأوحينا إلى أم موسى - الشيخ ياسر الدوسري",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D8%A3%D9%88%D8%AD%D9%8A%D9%86%D8%A7%20%D8%A5%D9%84%D9%89%20%D8%A3%D9%85%20%D9%85%D9%88%D8%B3%D9%89%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وتزودو - الأصلية ",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D8%AA%D8%B2%D9%88%D8%AF%D9%88%20-%20%D8%A7%D9%84%D8%A3%D8%B5%D9%84%D9%8A%D8%A9%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1761423743192.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ودانية عليهم - المشهورة",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9%20%D8%B9%D9%84%D9%8A%D9%87%D9%85%20-%20%D8%A7%D9%84%D9%85%D8%B4%D9%87%D9%88%D8%B1%D8%A9%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/fb389a5586d4fd9a0ae1f514aacd78f7.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وغلقت الأبواب - الشيخ عبد الباسط",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D8%BA%D9%84%D9%82%D8%AA%20%D8%A7%D9%84%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/72ffec056095bdf0b11c702ee946bfc0.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ولا تكونو كاللذين قالو سمعنا وهم لا يسمعون",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D9%84%D8%A7%20%D8%AA%D9%83%D9%88%D9%86%D9%88%20%D9%83%D8%A7%D9%84%D9%84%D8%B0%D9%8A%D9%86%20%D9%82%D8%A7%D9%84%D9%88%20%D8%B3%D9%85%D8%B9%D9%86%D8%A7%20%D9%88%D9%87%D9%85%20%D9%84%D8%A7%20%D9%8A%D8%B3%D9%85%D8%B9%D9%88%D9%86.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/19207f4f389bf307706a466604058136.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ومن الناس من يعبد الله على حرف",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D9%85%D9%86%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3%20%D9%85%D9%86%20%D9%8A%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%84%D9%89%20%D8%AD%D8%B1%D9%81%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ويسألونك عن الجبال",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D9%8A%D8%B3%D8%A3%D9%84%D9%88%D9%86%D9%83%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%AC%D8%A8%D8%A7%D9%84.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1750604969232.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ويومئذ-يفرح-المؤمنون-بنصر-الله- الشيخ ياسر الدوسري",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D9%8A%D9%88%D9%85%D8%A6%D8%B0-%D9%8A%D9%81%D8%B1%D8%AD-%D8%A7%D9%84%D9%85%D8%A4%D9%85%D9%86%D9%88%D9%86-%D8%A8%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وَإِنَّهَا-لَكَبِيرَةٌ-إِلَّا-عَلى- الخاشعين",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%88%D9%8E%D8%A5%D9%90%D9%86%D9%8E%D9%91%D9%87%D9%8E%D8%A7-%D9%84%D9%8E%D9%83%D9%8E%D8%A8%D9%90%D9%8A%D8%B1%D9%8E%D8%A9%D9%8C-%D8%A5%D9%90%D9%84%D9%8E%D9%91%D8%A7-%D8%B9%D9%8E%D9%84%D9%89-%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B4%D8%B9%D9%8A%D9%86.mp3",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "يا ليتها كانت القاضية - الشيخ محمد اللحيدان VS الشيخ ياسر الدوسري",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://github.com/hozifa460/islamic-audios/raw/refs/heads/main/social_telawat/%D9%8A%D8%A7%20%D9%84%D9%8A%D8%AA%D9%87%D8%A7%20%D9%83%D8%A7%D9%86%D8%AA%20%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A%D8%A9%20-%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%AF%D8%A7%D9%86%20VS%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D9%8A%D8%A7%D8%B3%D8%B1%20%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A%20.mp3",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/quran_2009_7_576p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A1%D9%A8_%D9%A1%D9%A4%D9%A2%D9%A7%D9%A1%D9%A7.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "قل لز كان البحر مدادا لكلمات ربي",
+          "subtitle": "الشيخ على عبدالله الجابر",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/-%D9%82%D9%8F%D9%84-%D9%84%D9%8E%D9%88-%D9%83%D8%A7%D9%86%D9%8E-%D8%A7%D9%84%D8%A8%D9%8E%D8%AD%D8%B1%D9%8F-%D9%85%D9%90%D8%AF%D8%A7%D8%AF%D9%8B%D8%A7-%D9%84%D9%90%D9%83%D9%8E%D9%84%D9%90%D9%85%D8%A7%D8%AA%D9%90_16.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/-%D9%82%D9%8F%D9%84-%D9%84%D9%8E%D9%88-%D9%83%D8%A7%D9%86%D9%8E-%D8%A7%D9%84%D8%A8%D9%8E%D8%AD%D8%B1%D9%8F-%D9%85%D9%90%D8%AF%D8%A7%D8%AF%D9%8B%D8%A7-%D9%84%D9%90%D9%83%D9%8E%D9%84%D9%90%D9%85%D8%A7%D8%AA%D9%90_16.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ولا تخزني يوم يبعثون",
+          "subtitle": "الشيخ ياسر الدوسري",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/-%D9%88%D9%84%D8%A7-%D8%AA%D8%AE%D8%B2%D9%86%D9%8A-%D9%8A%D9%88%D9%85-%D9%8A%D8%A8%D8%B9%D8%AB%D9%88%D9%86-%D9%83%D8%B1%D9%88%D9%85%D8%A7-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-%D9%82_2.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/-%D9%88%D9%84%D8%A7-%D8%AA%D8%AE%D8%B2%D9%86%D9%8A-%D9%8A%D9%88%D9%85-%D9%8A%D8%A8%D8%B9%D8%AB%D9%88%D9%86-%D9%83%D8%B1%D9%88%D9%85%D8%A7-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%B3%D9%88%D8%AF%D8%A7%D8%A1-%D9%82_2.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "يا ايها الانسان ماغرك بربك الكريم",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/1733836141738.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1733836141738.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "لا أقسم بهذا البلد",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/1733836224118.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1733836224118.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ولقد خلقنا الانسان ونعلم ما توسوس به نفسه",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/1733945355297.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1733945355297.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "يوم ندعو كل أناس بامامهم",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/1734028262628.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1734028262628.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ولا تكونوا كاللذين نسوا الله فأنساهم أنفسهم",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/1734897425619.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1734897425619.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "أدخلو الجنة",
+          "subtitle": "الشيخ محمد اللحيدان",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/1a0a51a545299adfaa6926cd99074071.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/1a0a51a545299adfaa6926cd99074071.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "لا أقسم بهذا البلد 2",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/37414f0cd21fd0d5913ce929eed6a91c.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/37414f0cd21fd0d5913ce929eed6a91c.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "واصبر",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/44b505f13e2c7a36dee54b8af4cd3877.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/44b505f13e2c7a36dee54b8af4cd3877.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "دعائي",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/482154a5bd6f8178a501ead0b6df1942.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/482154a5bd6f8178a501ead0b6df1942.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وهو بالأفق الأعلى",
+          "subtitle": "الشيخ أحمد نعينع",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/4a4712a0beb82b2c546744cacc4c558d.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/4a4712a0beb82b2c546744cacc4c558d.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "مقطع من حفل ختام القرآن الكريم في ليلة القدر 1968م",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/6766dce8261009b27b4969134bb6daca.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/6766dce8261009b27b4969134bb6daca.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "واحد يقطع تلاوة الشيخ المنشاوي",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/77f0d67c7269fed1c9f79621693bdabf.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/77f0d67c7269fed1c9f79621693bdabf.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "والسماء والطارق",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/810bca32d6b1406b8dd734a6a4f2f052.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/810bca32d6b1406b8dd734a6a4f2f052.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ق المنشاوي",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/9070c850dde8a6903f930f245dfdbb6d.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/9070c850dde8a6903f930f245dfdbb6d.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "كلا ان الانسان ليطغى",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/9aafb11949cb44005f74c945d0dc8492.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/9aafb11949cb44005f74c945d0dc8492.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ألم تر كيف فعل ربك بعاد",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/9b3c3a3261c6b1f4a4be8d5a8b8ced1b.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/9b3c3a3261c6b1f4a4be8d5a8b8ced1b.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وما تلك بيمينك يا موسى",
+          "subtitle": "الشيخ كامل يوسف البهتيمي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/VID_20241214_184309_802.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/VID_20241214_184309_802.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما يبدل القول لدي",
+          "subtitle": "الشيخ ياسر الدوسري",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/VID_20241226_213412_461.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/VID_20241226_213412_461.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "قل أذلك خير أم جنة الخلد",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/VID_20250102_115233_406.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/VID_20250102_115233_406.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "الهدوء اللذي يسبق الصاعقة",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/ae142c6651c8a6cdb8b63344f0db5a24.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/ae142c6651c8a6cdb8b63344f0db5a24.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ما ودعك ربك وما قلى",
+          "subtitle": "الشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/baqrt_l_1024p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A1%D9%A6_%D9%A1%D9%A6%D9%A1%D9%A6%D9%A1%D9%A4.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/baqrt_l_1024p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A1%D9%A6_%D9%A1%D9%A6%D9%A1%D9%A6%D9%A1%D9%A4.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ولم أدر ما حسابية",
+          "subtitle": "الشيخ محمد اللحيدان",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/c25905f614c171d03d61475de9b1e356.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/c25905f614c171d03d61475de9b1e356.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "اقتربت الساعة وانشق القمر",
+          "subtitle": "الشيخ عبد الباسط عبد الصمد",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/ccaadf490eaa4e4532d8094d411bc292.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/ccaadf490eaa4e4532d8094d411bc292.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وما تلك بيمينك يا موسى",
+          "subtitle": "مقلد للشيخ البهتيمي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/instagram_1763416062917.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1763416062917.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "واذا النفوس زوجت",
+          "subtitle": "الشيخ أحمد نعينع",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/instagram_1763582033311.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1763582033311.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "صوت المنشاوي العادي",
+          "subtitle": "ما شاء الله",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764614235285.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764614235285.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "لا أقسم بهذا البلد الأصلية",
+          "subtitle": "الشيخ محمود صديق المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764713967596.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1764713967596.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "الا تنصره فقد نصره الله",
+          "subtitle": "الشيخ أحمد نعينع",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/instagram_1765235768751.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/instagram_1765235768751.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "وقرآن الفجر",
+          "subtitle": "الشيخ ياسر الدوسري",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/lv_7481303415134424373_20250330133716.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/lv_7481303415134424373_20250330133716.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "طفل افريقي ماشاء الله",
+          "subtitle": "جمال الأفارقة",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/o_5sa_960p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A1%D9%A6_%D9%A1%D9%A6%D9%A1%D9%A6%D9%A3%D9%A7.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/o_5sa_960p_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A1%D9%A6_%D9%A1%D9%A6%D9%A1%D9%A6%D9%A3%D9%A7.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "ملخص الحياة",
+          "subtitle": "الشيخ ياسر الدوسري",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1757278133679.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1757278133679.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "يضاعف له العذاب",
+          "subtitle": "الشيخ محمد اللحيدان",
+          "emoji": "",
+          "audioUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1761907953397.mp4",
+          "imageUrl": "",
+          "videoUrl": "https://archive.org/download/instagram_1764622547044/tiktok_1761907953397.mp4",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        },
+        {
+          "title": "",
+          "subtitle": "",
+          "emoji": "",
+          "audioUrl": "",
+          "imageUrl": "",
+          "videoUrl": "",
+          "videoSource": "direct",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
