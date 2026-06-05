@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "lastUpdated": "",
+  "channels": {
+    "zein_khair_allah": {
+      "channelId": "REPLACE_WITH_YOUR_CHANNEL_ID",
+      "channelName": "Zein Khair Allah",
+      "pinned": [],
+      "videos": [],
+      "blacklist": []
+    }
+  }
+}
