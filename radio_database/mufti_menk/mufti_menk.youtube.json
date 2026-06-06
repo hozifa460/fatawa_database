@@ -1,0 +1,172 @@
+{
+  "id": "mufti_menk",
+  "title": "Mufti Menk",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة Mufti Menk على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات Mufti Menk",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "Adhan: The Believers Reminder #muftimenk #motivation #call #prayer #allah #heart #time #love #daily",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kGY_WmKU0Qg",
+          "imageUrl": "https://i.ytimg.com/vi/kGY_WmKU0Qg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kGY_WmKU0Qg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "NEW | How 5 Days of Hajj Transforms You! | Mufti Menk | Zimbabwe - 2026",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_Dlqh6vUmko",
+          "imageUrl": "https://i.ytimg.com/vi/_Dlqh6vUmko/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_Dlqh6vUmko",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Allah Loves Sadaqah #muftimenk #motivation #charity #money #halal #help #poor #zakat #respect #love",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1RWspCjknbU",
+          "imageUrl": "https://i.ytimg.com/vi/1RWspCjknbU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1RWspCjknbU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "The Importance of Friday Prayer #muftimenk #motivation #jumuah #unity #faith #allah #peace #ease",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_b9OCASYWno",
+          "imageUrl": "https://i.ytimg.com/vi/_b9OCASYWno/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_b9OCASYWno",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Real Success is the Hereafter #muftimenk #motivation #world #future #life #earth #jannah #best #dua",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=phBqYm5Ls80",
+          "imageUrl": "https://i.ytimg.com/vi/phBqYm5Ls80/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=phBqYm5Ls80",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Pay Them Whats Right #muftimenk #motivation #job #work #pay #medical #money #future #balance #heart",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=RfIeLPf4Ugc",
+          "imageUrl": "https://i.ytimg.com/vi/RfIeLPf4Ugc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=RfIeLPf4Ugc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Allah Calls You Towards Greatness #muftimenk #motivation #islam #life #success #future #heart #happy",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8JgP1f5ubkQ",
+          "imageUrl": "https://i.ytimg.com/vi/8JgP1f5ubkQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8JgP1f5ubkQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Smiling Is Sadaqah #muftimenk #motivation #charity #happy #money #support #family #love #care #life",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PsPJf0BYpLE",
+          "imageUrl": "https://i.ytimg.com/vi/PsPJf0BYpLE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PsPJf0BYpLE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Union Is Strength #muftimenk #motivation #race #country #develop #knowledge #respect #love #kindness",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7kpwt3pe0a8",
+          "imageUrl": "https://i.ytimg.com/vi/7kpwt3pe0a8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7kpwt3pe0a8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "United As One Ummah #muftimenk #motivational #islam #family #love #heart #support #unity #help #dua",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Wjm2gU8BSnM",
+          "imageUrl": "https://i.ytimg.com/vi/Wjm2gU8BSnM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Wjm2gU8BSnM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "May Allah Grant Them Success #muftimenk #motivation #future #life #prophet #umrah #travel #islam",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9d5gZhAJJn0",
+          "imageUrl": "https://i.ytimg.com/vi/9d5gZhAJJn0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9d5gZhAJJn0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "Is It Wrong To Write Duas on Arafah? #muftimenk #hajj #makkah #allah #motivation #islam #dua #ask",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=T_2N_76h23o",
+          "imageUrl": "https://i.ytimg.com/vi/T_2N_76h23o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=T_2N_76h23o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "How To Make Dua on The Day of Arafah #muftimenk #hajj #makkah #allah #motivation #islam #dua #ask",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZxOK3JKah2M",
+          "imageUrl": "https://i.ytimg.com/vi/ZxOK3JKah2M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZxOK3JKah2M",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "The Most Valuable Days #muftimenk #hajj #makkah #allah #motivation #islam #special #muslim #life",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=p7jVWZxopNM",
+          "imageUrl": "https://i.ytimg.com/vi/p7jVWZxopNM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=p7jVWZxopNM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "450k+ Muslims trust Wahed for halal investing built on research and Shariah guidance. www.wahed.com",
+          "subtitle": "Mufti Menk",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Q95ahJeawtw",
+          "imageUrl": "https://i.ytimg.com/vi/Q95ahJeawtw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Q95ahJeawtw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

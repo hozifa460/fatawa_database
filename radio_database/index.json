@@ -1,13 +1,14 @@
 {
   "files": [
-    "menshawy/1_menshawy.json",
     "abd_albaset/2_abd_el_baset.json",
-    "social/1_social_videos.json",
-    "majd_channel/1_majd_channel.json",
-    "alshaarawy/1_alshaarawy.json",
     "abo_ishak/1_abo_ishak_alhowini.json",
+    "alshaarawy/1_alshaarawy.json",
+    "haytham_talaat/haytham_talaat",
+    "majd_channel/1_majd_channel.json",
+    "menshawy/1_menshawy.json",
+    "mufti_menk/mufti_menk.youtube.json",
+    "social/1_social_videos.json",
     "zein_khair_allah/zein_khair_allah.json",
-    "zein_khair_allah/zein_khair_allah.youtube.json",
-    "haytham_talaat/haytham_talaat"
+    "zein_khair_allah/zein_khair_allah.youtube.json"
   ]
 }
