@@ -1,0 +1,100 @@
+name: Sync YouTube Videos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # كل 6 ساعات تلقائياً
+  workflow_dispatch:         # أو اضغط "Run" يدوياً من GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # ══════════════════════════════════════════════════════
+      # ⬇️⬇️⬇️ غيّر السطر التالي فقط — ضع channel ID الحقيقي ⬇️⬇️⬇️
+      # ══════════════════════════════════════════════════════
+      - name: Sync YouTube RSS to JSON
+        env:
+          YOUTUBE_CHANNELS_JSON: '{"zein_khair_allah":"UCQKqsmz6fY_4l5ilNpJ5iSw"}'
+        run: |
+          python3 << 'PYEOF'
+          import json
+          import os
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          ns = {'atom': 'http://www.w3.org/2005/Atom'}
+          channels_map = json.loads(os.environ['YOUTUBE_CHANNELS_JSON'])
+
+          json_path = Path('youtube_videos.json')
+          if json_path.exists():
+              data = json.loads(json_path.read_text(encoding='utf-8'))
+          else:
+              data = {'version': 1, 'channels': {}}
+
+          added_total = 0
+          for category_id, channel_id in channels_map.items():
+              if not channel_id or 'xxxxx' in channel_id:
+                  print(f'⏭️  {category_id}: channelId not set, skipping')
+                  continue
+              try:
+                  url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  rss = urllib.request.urlopen(req, timeout=15).read()
+                  root = ET.fromstring(rss)
+
+                  channel_data = data['channels'].setdefault(category_id, {
+                      'channelId': channel_id,
+                      'channelName': category_id.replace('_', ' ').title(),
+                      'pinned': [],
+                      'videos': [],
+                      'blacklist': [],
+                  })
+                  channel_data['channelId'] = channel_id
+                  channel_data.setdefault('pinned', [])
+                  channel_data.setdefault('blacklist', [])
+
+                  existing_ids = {v.get('videoId') for v in channel_data.get('videos', [])}
+                  existing_ids.update({v.get('videoId') for v in channel_data.get('pinned', [])})
+                  blacklist = set(channel_data.get('blacklist', []))
+
+                  new_videos = []
+                  for entry in root.findall('atom:entry', ns)[:15]:
+                      vid_el = entry.find('atom:id', ns)
+                      title_el = entry.find('atom:title', ns)
+                      if vid_el is None or title_el is None:
+                          continue
+                      vid = vid_el.text.split(':')[-1] if vid_el.text else ''
+                      if not vid or vid in existing_ids or vid in blacklist:
+                          continue
+                      new_videos.append({
+                          'videoId': vid,
+                          'title': title_el.text or '',
+                          'subtitle': '',
+                      })
+
+                  if new_videos:
+                      channel_data.setdefault('videos', []).extend(new_videos)
+                      added_total += len(new_videos)
+                  print(f'✅ {category_id}: +{len(new_videos)} new (total: {len(channel_data.get("videos", []))})')
+              except Exception as e:
+                  print(f'❌ {category_id}: {e}')
+
+          data['lastUpdated'] = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          json_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
+          print(f'\n💾 Saved: {added_total} new videos')
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add youtube_videos.json
+          git diff --staged --quiet || git commit -m "chore: auto-sync YouTube videos"
+          git push
