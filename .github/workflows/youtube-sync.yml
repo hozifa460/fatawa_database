@@ -2,7 +2,7 @@ name: Sync YouTube Videos
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # كل 6 ساعات
+    - cron: '0 */3 * * *'   # كل 3 ساعات
   workflow_dispatch:
 
 jobs:
@@ -15,132 +15,25 @@ jobs:
       - uses: actions/checkout@v4
 
       # ══════════════════════════════════════════════════════
-      # اقرأ manifest وعدّث ملفات {categoryId}/{categoryId}.{type}.json
+      # Sync YouTube RSS → <categoryId>.youtube.json
+      # + auto-update index.json
       # ══════════════════════════════════════════════════════
-      - name: Sync YouTube RSS to per-channel files
+      - name: Sync YouTube channels
         run: |
           # قفل بسيط لمنع التضارب مع GitLab CI
           if [ -f .sync.lock ]; then
-            echo "⚠️ Another sync in progress, exiting"
+            echo "Another sync in progress, exiting"
             exit 0
           fi
           touch .sync.lock
           trap 'rm -f .sync.lock' EXIT
 
-          python3 << 'PYEOF'
-          import json
-          import os
-          import re
-          import urllib.request
-          import xml.etree.ElementTree as ET
-          from datetime import datetime, timezone
-          from pathlib import Path
-
-          ns = {'atom': 'http://www.w3.org/2005/Atom'}
-          manifest_path = Path('radio_database/youtube_channels.json')
-          if not manifest_path.exists():
-              print(f'❌ Manifest not found: {manifest_path}')
-              exit(1)
-          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
-          channels = manifest.get('channels', [])
-          if not channels:
-              print('ℹ️  No channels in manifest')
-              exit(0)
-          print(f'📋 Found {len(channels)} channels in manifest')
-
-          for ch in channels:
-              category_id = ch.get('categoryId', '').strip()
-              channel_id = ch.get('channelId', '').strip()
-              if not category_id or not channel_id or 'xxxxx' in channel_id:
-                  print(f'⏭️  {category_id or "<no id>"}: incomplete config, skipping')
-                  continue
-
-              # 1) اجلب RSS
-              try:
-                  url = f'https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}'
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                  rss = urllib.request.urlopen(req, timeout=15).read()
-                  root = ET.fromstring(rss)
-              except Exception as e:
-                  print(f'❌ {category_id}: RSS fetch failed: {e}')
-                  continue
-
-              # 2) صنّف الفيديوهات
-              live, shorts, videos = [], [], []
-              for entry in root.findall('atom:entry', ns)[:15]:
-                  vid_el = entry.find('atom:id', ns)
-                  title_el = entry.find('atom:title', ns)
-                  pub_el = entry.find('atom:published', ns)
-                  if vid_el is None or title_el is None:
-                      continue
-                  vid = vid_el.text.split(':')[-1] if vid_el.text else ''
-                  if not vid:
-                      continue
-                  item = {
-                      'videoId': vid,
-                      'title': title_el.text or '',
-                      'subtitle': '',
-                      'publishedAt': pub_el.text if pub_el is not None else '',
-                  }
-                  title_lower = item['title'].lower()
-                  if re.search(r'#?shorts?\b|شورتس|شورت', title_lower):
-                      shorts.append(item)
-                  elif re.search(r'\blive\b|بث\s*مباشر|لايف', title_lower):
-                      live.append(item)
-                  else:
-                      videos.append(item)
-
-              # 3) اكتب 3 ملفات
-              folder = Path(f'radio_database/{category_id}')
-              folder.mkdir(parents=True, exist_ok=True)
-              updated_at = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-
-              for type_name, items in [('videos', videos), ('live', live), ('shorts', shorts)]:
-                  file_path = folder / f'{category_id}.{type_name}.json'
-                  # اقرأ الموجود للحفاظ على pinned/blacklist
-                  existing_items = []
-                  pinned = []
-                  blacklist = []
-                  if file_path.exists():
-                      try:
-                          old = json.loads(file_path.read_text(encoding='utf-8'))
-                          existing_items = old.get('items', [])
-                          pinned = old.get('pinned', [])
-                          blacklist = old.get('blacklist', [])
-                      except Exception:
-                          pass
-
-                  # ادمج القديم مع الجديد (تجنب التكرار)
-                  existing_ids = {x.get('videoId') for x in existing_items}
-                  merged = list(existing_items)
-                  for it in items:
-                      if it['videoId'] in existing_ids:
-                          continue
-                      merged.append(it)
-                      existing_ids.add(it['videoId'])
-
-                  data = {
-                      'categoryId': category_id,
-                      'channelId': channel_id,
-                      'channelName': ch.get('channelName', category_id),
-                      'lastUpdated': updated_at,
-                      'pinned': pinned,
-                      'blacklist': blacklist,
-                      'items': merged,
-                  }
-                  file_path.write_text(
-                      json.dumps(data, ensure_ascii=False, indent=2),
-                      encoding='utf-8',
-                  )
-                  print(f'  ✅ {category_id}.{type_name}: {len(merged)} items')
-
-          print('\n💾 Sync complete')
-          PYEOF
+          python3 tools/youtube_sync/sync_youtube.py --folder radio_database
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "actions@github.com"
           git add radio_database/
-          git diff --staged --quiet || git commit -m "chore: auto-sync YouTube videos"
+          git diff --staged --quiet || git commit -m "chore: auto-sync YouTube channels"
           git push
