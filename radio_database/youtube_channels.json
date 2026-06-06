@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "channels": []
+  "channels": [
+    {
+      "categoryId": "mufti_menk",
+      "channelId": "UCNB_OaI4524fASt8h0IL8dw",
+      "channelName": "Mufti Menk"
+    }
+  ]
 }
