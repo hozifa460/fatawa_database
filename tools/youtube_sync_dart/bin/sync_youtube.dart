@@ -60,7 +60,15 @@ Future<int> main(List<String> args) async {
     }
     print('  [INFO] RSS returned ${raw.length} entries (limit=$limit)');
 
-    print('  [INFO] fetching youtube_explode_dart metadata...');
+    print('  [INFO] fetching live tab playlist (UULV)...');
+    final liveIds = await fetchLiveTabVideoIds(ch.channelId);
+    print('  [INFO] live tab: ${liveIds.length} videos');
+
+    print('  [INFO] fetching shorts tab playlist (UUSH)...');
+    final shortsIds = await fetchShortsTabVideoIds(ch.channelId);
+    print('  [INFO] shorts tab: ${shortsIds.length} videos');
+
+    print('  [INFO] fetching youtube_explode_dart metadata (fallback)...');
     final meta = await fetchVideoMetadata(raw.map((e) => e.videoId));
     print('  [INFO] metadata: ${meta.length}/${raw.length} succeeded');
 
@@ -69,6 +77,8 @@ Future<int> main(List<String> args) async {
       channelName: ch.channelName,
       limit: limit,
       metadataMap: meta,
+      liveVideoIds: liveIds,
+      shortsVideoIds: shortsIds,
     );
     print(
       '  [INFO] classified: live=${buckets.live.length} '

@@ -70,18 +70,32 @@ class ClassifiedBuckets {
 }
 
 // ══════════════════════════════════════════════════════════
-//  Classification helpers (mirrors Dart `classifyBucketByMetadata`
-//  in lib/screens/radio/data/recitation_categories_data.dart)
+//  Classification helpers
+//
+//  PRIMARY signal: YouTube's own auto-generated playlists
+//  (UULV = live tab, UUSH = shorts tab). These are 100%
+//  authoritative — what YouTube itself puts in those tabs
+//  is what it considers a "live broadcast" or a "short".
+//  No title keywords needed.
+//
+//  Fallback: youtube_explode_dart metadata (duration, isLive)
+//  catches things the playlists might miss (e.g. videos
+//  recently added to the channel but not yet sorted).
+//
+//  Last-resort: title-based heuristic for streams that have
+//  no metadata AND no playlist entry. Mirrors the Dart
+//  `classifyBucketByMetadata` in
+//  lib/screens/radio/data/recitation_categories_data.dart.
 // ══════════════════════════════════════════════════════════
 
 final _shortsRe = RegExp(
   r'(?:^|#|-\s*)shorts?\b|#short|شورتس|شورت',
 );
 
-final _liveNegRe = RegExp(r'not\s+live|ليس\s+بث|لا\s+بث|غير\s*مباشر');
 // بث ككلمة مستقلة + Arabic debate/call-in keywords.
 // NOTE: \b does NOT work in Dart for Arabic letters even with unicode: true.
 // Use (?<!\p{L}) / (?!\p{L}) lookarounds to bound words by Unicode letters.
+final _liveNegRe = RegExp(r'not\s+live|ليس\s+بث|لا\s+بث|غير\s*مباشر');
 final _liveRe = RegExp(
   r'\b(live|streaming|live\s*now|live\s*stream|on\s*air|stream)\b'
   r'|(?<!\p{L})بث(?!\p{L})'
@@ -114,37 +128,48 @@ bool _isLive(String title) {
 
 /// Classify a video into 'live' / 'videos' / 'shorts'.
 ///
-/// Priority:
-/// 1. isShort=true or shorts in title → 'shorts' (shorts wins everything)
-/// 2. isLive=true or liveStatus='is_live'/'was_live' → 'live'
-/// 3. liveStatus='not_live' + duration > 1h → 'live' (recorded broadcast)
-/// 4. liveStatus='not_live' + duration ≤ 1h → 'videos'
-/// 5. No metadata: fall back to title heuristic
-/// 6. Default → 'videos'
+/// Priority (most authoritative first):
+/// 1. `liveVideoIds` set (YouTube UULV playlist) → 'live'
+/// 2. `shortsVideoIds` set (YouTube UUSH playlist) → 'shorts'
+/// 3. Shorts wins everything (title/duration) → 'shorts'
+/// 4. isLive metadata → 'live'
+/// 5. Long not-live + duration > 1h → 'live' (recorded broadcast)
+/// 6. Title-based live (fallback)
+/// 7. Default → 'videos'
 String classifyBucketByMetadata({
   required String title,
+  required String videoId,
   bool? isLive,
   String? liveStatus,
   Duration? duration,
   bool isShort = false,
+  Set<String>? liveVideoIds,
+  Set<String>? shortsVideoIds,
 }) {
-  // 1. Shorts wins everything (even over isLive metadata)
+  // 1. YouTube's own Live tab playlist — most authoritative.
+  if (liveVideoIds != null && liveVideoIds.contains(videoId)) return 'live';
+  // 2. YouTube's own Shorts tab playlist.
+  if (shortsVideoIds != null && shortsVideoIds.contains(videoId)) {
+    return 'shorts';
+  }
+  // 3. Shorts by title/duration — also covers shorts that aren't in
+  //    the shorts tab yet (newly uploaded).
   if (isShort || _isShorts(title)) return 'shorts';
-  // 2. Real metadata: live
+  // 4. Currently-airing live metadata.
   if (isLive == true ||
       (liveStatus != null &&
           (liveStatus == 'is_live' || liveStatus == 'was_live'))) {
     return 'live';
   }
-  // 3. Long video + not_live = recorded broadcast
+  // 5. Long video + not_live = recorded broadcast (rare fallback).
   if (liveStatus == 'not_live' &&
       duration != null &&
       duration.inSeconds > 3600) {
     return 'live';
   }
-  // 4. Title-based live (fallback)
+  // 6. Title heuristic (last resort).
   if (_isLive(title)) return 'live';
-  // 5. Default
+  // 7. Default
   return 'videos';
 }
 
@@ -172,6 +197,50 @@ Future<List<RawEntry>> fetchRss(String channelId) async {
     return RawEntry(videoId, title);
   }).where((e) => e.videoId.isNotEmpty).toList();
 }
+
+/// YouTube auto-generates playlists for each channel tab.
+///   UU<rest>   = uploads (all uploaded videos)
+///   UULV<rest> = live broadcasts (live tab)
+///   UUSH<rest> = shorts
+/// Returns the playlist ID for the requested tab.
+String _tabPlaylistId(String channelId, String prefix) {
+  // Channel IDs always start with "UC" and have 24 chars total.
+  // We replace "UC" with the tab prefix and keep the rest.
+  assert(channelId.startsWith('UC') && channelId.length == 24);
+  return '$prefix${channelId.substring(2)}';
+}
+
+/// Fetch the set of video IDs in a YouTube auto-generated playlist
+/// (live tab / shorts tab). Returns an empty set on failure so the
+/// caller can fall back to metadata-based classification.
+Future<Set<String>> fetchPlaylistVideoIds(String playlistId) async {
+  final url =
+      'https://www.youtube.com/feeds/videos.xml?playlist_id=$playlistId';
+  try {
+    final resp = await http.get(
+      Uri.parse(url),
+      headers: {'User-Agent': 'Mozilla/5.0'},
+    );
+    if (resp.statusCode != 200) return <String>{};
+    final doc = xml.XmlDocument.parse(resp.body);
+    final ids = <String>{};
+    for (final entry in doc.findAllElements('entry')) {
+      final idEl = entry.findElements('id').firstOrNull;
+      final idText = idEl?.innerText ?? '';
+      final videoId = idText.split(':').last;
+      if (videoId.length == 11) ids.add(videoId);
+    }
+    return ids;
+  } catch (_) {
+    return <String>{};
+  }
+}
+
+Future<Set<String>> fetchLiveTabVideoIds(String channelId) =>
+    fetchPlaylistVideoIds(_tabPlaylistId(channelId, 'UULV'));
+
+Future<Set<String>> fetchShortsTabVideoIds(String channelId) =>
+    fetchPlaylistVideoIds(_tabPlaylistId(channelId, 'UUSH'));
 
 // ══════════════════════════════════════════════════════════
 //  Metadata fetch via youtube_explode_dart
@@ -237,16 +306,21 @@ ClassifiedBuckets classifyEntries({
   required String channelName,
   required int limit,
   Map<String, VideoMeta>? metadataMap,
+  Set<String>? liveVideoIds,
+  Set<String>? shortsVideoIds,
 }) {
   final out = ClassifiedBuckets();
   for (final e in entries) {
     final meta = metadataMap?[e.videoId];
     final bucketStr = classifyBucketByMetadata(
       title: e.title,
+      videoId: e.videoId,
       isLive: meta?.isLive,
       liveStatus: meta?.liveStatus,
       duration: meta?.duration,
       isShort: meta?.isShort ?? false,
+      liveVideoIds: liveVideoIds,
+      shortsVideoIds: shortsVideoIds,
     );
     final bucket = Bucket.values.firstWhere((b) => b.name == bucketStr);
     final sub = buildSubItem(
