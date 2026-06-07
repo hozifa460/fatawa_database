@@ -59,6 +59,9 @@ def _is_shorts(title: str) -> bool:
 
 _LIVE_NEG_RE = re.compile(r"not\s+live|ليس\s+بث|لا\s+بث|غير\s*مباشر")
 # بث ككلمة مستقلة: يطابق "بث طاريء" / "بث عاجل" / "بث مباشر" / "البث" / "بث حي"
+# + Arabic broadcast keywords. NOTE: "حوار" (singular) is excluded because
+#   it appears in regular short clips (e.g. "حوار بين مسلم ودرزي"). Only
+#   plurals + "مع" (with person) + "تحاور" (debate verb) are matched.
 _LIVE_RE = re.compile(
     r"\b(live|streaming|live\s*now|live\s*stream|on\s*air|stream)\b"
     r"|\bبث\b"
@@ -66,6 +69,18 @@ _LIVE_RE = re.compile(
     r"|لايف"
     r"|مباشر"
     r"|على\s*الهواء"
+    r"|\bحوارات\b"
+    r"|\bتحاور\b"
+    r"|\bاتصال\b"
+    r"|\bاتصالات\b"
+    r"|\bلقاء\b"
+    r"|\bلقاءات\b"
+    r"|\bمكالمة\b"
+    r"|\bمكالمات\b"
+    r"|حواري\s*مع"
+    r"|حوارنا\s*مع"
+    r"|حواره\s*مع"
+    r"|حوارها\s*مع"
 )
 
 
