@@ -1,0 +1,82 @@
+{
+  "id": "mahmoud_nassar",
+  "title": "جديد الشيخ محمود نصار",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ محمود نصار على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد الشيخ محمود نصار",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "الحج...ودليل صدق الإسلام 🕋",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=k3Ak9nI8DB4",
+          "imageUrl": "https://i.ytimg.com/vi/k3Ak9nI8DB4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=k3Ak9nI8DB4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هل نأكل الحيوان حي أم ميت ؟!",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qLCnnc8sI90",
+          "imageUrl": "https://i.ytimg.com/vi/qLCnnc8sI90/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qLCnnc8sI90",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الله أكبر الكبار 🔺️ الله أحسن الخالقين",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Zk2rAAfYBQ0",
+          "imageUrl": "https://i.ytimg.com/vi/Zk2rAAfYBQ0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Zk2rAAfYBQ0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أكبر كبيرا...وأكبر صغيرا 😀",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=YCL6_Srn_Hw",
+          "imageUrl": "https://i.ytimg.com/vi/YCL6_Srn_Hw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YCL6_Srn_Hw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الصاروخ التلحودي والإبل وانقلاب الدليل 🔥",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=K7jyGYwQRjo",
+          "imageUrl": "https://i.ytimg.com/vi/K7jyGYwQRjo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=K7jyGYwQRjo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "العبط التلحودي والمرأة...والغائط !!",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=XSay2jIrpFk",
+          "imageUrl": "https://i.ytimg.com/vi/XSay2jIrpFk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XSay2jIrpFk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

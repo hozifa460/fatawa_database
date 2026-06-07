@@ -1,0 +1,32 @@
+{
+  "id": "othman_alkhames",
+  "title": "جديد الشيخ عثمان الخميس",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ عثمان الخميس على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الشيخ عثمان الخميس",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "بث مباشر/ قراءه صحيح مسلم / يوم السبت 20 ذو الحجه 1447ه‍",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=V1bP3kUDeEk",
+          "imageUrl": "https://i.ytimg.com/vi/V1bP3kUDeEk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=V1bP3kUDeEk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

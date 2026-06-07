@@ -1,0 +1,52 @@
+{
+  "id": "mahmoud_dawood",
+  "title": "جديد محمود داوود",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد محمود داوود على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد محمود داوود",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "حوار مفتوح بين مسلم و مسيحي .. هل المسيح هو الله ؟!✋",
+          "subtitle": "جديد محمود داوود",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=rtvz_d6leFI",
+          "imageUrl": "https://i.ytimg.com/vi/rtvz_d6leFI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rtvz_d6leFI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا يرفض المحل عمل تورتة الصليب؟ 🤔 نعم لقبول الآخر ..لا للتعصب ✋",
+          "subtitle": "جديد محمود داوود",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vt8wLTcXG0g",
+          "imageUrl": "https://i.ytimg.com/vi/vt8wLTcXG0g/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vt8wLTcXG0g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "القس أرسانيوس البراموسي يعترف بعبادة العيش في الكنيسة😱🔥",
+          "subtitle": "جديد محمود داوود",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yz1aQKk6MeU",
+          "imageUrl": "https://i.ytimg.com/vi/yz1aQKk6MeU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yz1aQKk6MeU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

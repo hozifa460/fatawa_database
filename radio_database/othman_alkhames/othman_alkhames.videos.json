@@ -1,0 +1,162 @@
+{
+  "id": "othman_alkhames",
+  "title": "جديد الشيخ عثمان الخميس",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ عثمان الخميس على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الشيخ عثمان الخميس",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "5198- دعاء الشيخ لمن قصَّر في جنب الله - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dIxanRzT4QI",
+          "imageUrl": "https://i.ytimg.com/vi/dIxanRzT4QI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dIxanRzT4QI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5197- حكم إخراج الزكاة بسعر الذهب بالأمس وليس اليوم؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=P7twibz3zJs",
+          "imageUrl": "https://i.ytimg.com/vi/P7twibz3zJs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=P7twibz3zJs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5196- هل يُلقَّن الكافر الشهادتين عند الموت؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BdRIlZk3fqY",
+          "imageUrl": "https://i.ytimg.com/vi/BdRIlZk3fqY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BdRIlZk3fqY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5195- هل تكفي آية فقط بعد الفاتحة في صلاة الشفع والوتر؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Vmq1dWz3fAg",
+          "imageUrl": "https://i.ytimg.com/vi/Vmq1dWz3fAg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Vmq1dWz3fAg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5194- إذا شك الأمين الشرعي في موافقة البنت على الزواج فهل له أن يسألها؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=boLh4yXb_OQ",
+          "imageUrl": "https://i.ytimg.com/vi/boLh4yXb_OQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=boLh4yXb_OQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5193- لا ولاية لكافر على مسلمة إلا في ثلاث صور - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=UFx4TksPyEs",
+          "imageUrl": "https://i.ytimg.com/vi/UFx4TksPyEs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=UFx4TksPyEs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5192- لا تصح ولاية المرأة في النكاح - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=X87W-5RyKmE",
+          "imageUrl": "https://i.ytimg.com/vi/X87W-5RyKmE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=X87W-5RyKmE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5191- شُروطُ وليِّ النكاحِ السبعة - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3woHKDYLxyA",
+          "imageUrl": "https://i.ytimg.com/vi/3woHKDYLxyA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3woHKDYLxyA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5190- اشتراط الوليّ في النكاح - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LaSo4RBj9iE",
+          "imageUrl": "https://i.ytimg.com/vi/LaSo4RBj9iE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LaSo4RBj9iE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5189- شروط صحة النكاح الستة إجمالاً - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=M5-NHQuqSsY",
+          "imageUrl": "https://i.ytimg.com/vi/M5-NHQuqSsY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=M5-NHQuqSsY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5188- ما حكم تزويج الأب ابنته البكر بدون رضاها والراجح في ذلك؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=4KdCWe8rHl8",
+          "imageUrl": "https://i.ytimg.com/vi/4KdCWe8rHl8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4KdCWe8rHl8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5187- رضا الزوجة بالنكاح، وإذن الثيّب والبِكر - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=t6TeI01TPwc",
+          "imageUrl": "https://i.ytimg.com/vi/t6TeI01TPwc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=t6TeI01TPwc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5186- اشتراط رضا الزوج المكلَّف بالنكاح - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DvebVEve-LA",
+          "imageUrl": "https://i.ytimg.com/vi/DvebVEve-LA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DvebVEve-LA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5185- اشتراط تعيين الزوج والزوجة عند العقد - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fWekTk0MX2c",
+          "imageUrl": "https://i.ytimg.com/vi/fWekTk0MX2c/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fWekTk0MX2c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

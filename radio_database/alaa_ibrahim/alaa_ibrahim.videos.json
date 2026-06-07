@@ -1,0 +1,42 @@
+{
+  "id": "alaa_ibrahim",
+  "title": "جديد الشيخ علاء ابراهيم",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ علاء ابراهيم على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الشيخ علاء ابراهيم",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "التعليق على فيلم برشامة",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7_hLLo4A0TM",
+          "imageUrl": "https://i.ytimg.com/vi/7_hLLo4A0TM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7_hLLo4A0TM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "صلاة جنازة والدة الممثل أحمد حلمي",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3frFACHmFKE",
+          "imageUrl": "https://i.ytimg.com/vi/3frFACHmFKE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3frFACHmFKE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
