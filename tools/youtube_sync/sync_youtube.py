@@ -41,6 +41,7 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from typing import Any, Dict, List, Optional
 
 NS = {"atom": "http://www.w3.org/2005/Atom"}
 
@@ -98,6 +99,45 @@ def fetch_rss(channel_id):
     return ET.fromstring(rss)
 
 
+def fetch_video_metadata(video_ids: List[str]) -> Dict[str, Dict[str, Any]]:
+    """Fetch real YouTube metadata (is_live, live_status, duration) for each
+    video using yt-dlp. Returns dict mapping videoId → metadata.
+
+    Falls back to empty dict on import error or fetch failure (CI then uses
+    title heuristics as a fallback).
+    """
+    out: Dict[str, Dict[str, Any]] = {}
+    try:
+        from yt_dlp import YoutubeDL  # type: ignore
+    except ImportError:
+        print("[WARN] yt-dlp not installed, falling back to title heuristics")
+        return out
+    ydl_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "extract_flat": False,
+        "ignoreerrors": True,
+    }
+    try:
+        with YoutubeDL(ydl_opts) as ydl:
+            for vid in video_ids:
+                url = f"https://www.youtube.com/watch?v={vid}"
+                try:
+                    info = ydl.extract_info(url, download=False) or {}
+                    out[vid] = {
+                        "is_live": info.get("is_live", False),
+                        "live_status": info.get("live_status"),
+                        "duration": info.get("duration"),  # seconds or None
+                        "is_short": info.get("is_short", False),
+                    }
+                except Exception as e:
+                    print(f"  [WARN] yt-dlp {vid}: {e}")
+    except Exception as e:
+        print(f"[WARN] yt-dlp global error: {e}")
+    return out
+
+
 def entries_to_subitems(root, channel_name, limit=15):
     """Return list of subItem dicts (videoId, title, etc.) — unclassified."""
     subitems = []
@@ -129,21 +169,79 @@ def build_subitem(video_id: str, title: str, channel_name: str) -> dict:
     }
 
 
-def classify_subitems(raw_items, channel_name, limit):
-    """Split raw RSS entries into 3 buckets: live / videos / shorts."""
+def classify_subitems(raw_items, channel_name, limit, metadata_map=None):
+    """Split raw RSS entries into 3 buckets: live / videos / shorts.
+
+    If `metadata_map` is provided (dict: videoId → {is_live, live_status,
+    duration, is_short}), uses real YouTube metadata via yt-dlp. Otherwise
+    falls back to title heuristics.
+    """
     live, videos, shorts = [], [], []
     for entry in raw_items:
         sub = build_subitem(entry["videoId"], entry["title"], channel_name)
-        if _is_shorts(entry["title"]):
-            if len(shorts) < limit:
-                shorts.append(sub)
-        elif _is_live(entry["title"]):
-            if len(live) < limit:
-                live.append(sub)
+        meta = (metadata_map or {}).get(entry["videoId"]) if metadata_map else None
+        if meta is not None:
+            bucket = classify_bucket_by_metadata(
+                title=entry["title"],
+                is_live=meta.get("is_live"),
+                live_status=meta.get("live_status"),
+                duration_sec=meta.get("duration"),
+                is_short=meta.get("is_short", False),
+            )
         else:
-            if len(videos) < limit:
-                videos.append(sub)
+            bucket = classify_bucket_by_metadata(
+                title=entry["title"],
+                is_live=None,
+                live_status=None,
+                duration_sec=None,
+            )
+        if bucket == "shorts" and len(shorts) < limit:
+            shorts.append(sub)
+        elif bucket == "live" and len(live) < limit:
+            live.append(sub)
+        elif len(videos) < limit:
+            videos.append(sub)
     return live, videos, shorts
+
+
+def classify_bucket_by_metadata(
+    title: str,
+    is_live=None,
+    live_status=None,
+    duration_sec=None,
+    is_short: bool = False,
+) -> str:
+    """Classify a video into 'live' / 'videos' / 'shorts'.
+
+    Priority:
+    1. is_live=True or live_status='is_live'/'was_live' → 'live'
+    2. is_short=True or shorts in title → 'shorts'
+    3. live_status='not_live' with duration > 3600s → 'live' (recorded broadcast)
+    4. live_status='not_live' with duration <= 3600s → 'videos'
+    5. No metadata: fall back to title heuristic (بث keyword → 'live')
+    6. Default → 'videos'
+    """
+    # 1. Real metadata: live (currently or was)
+    if is_live is True or live_status in ("is_live", "was_live"):
+        return "live"
+    # 2. Real metadata: short
+    if is_short:
+        return "shorts"
+    # 3. Title-based shorts (fallback if no metadata)
+    if _is_shorts(title):
+        return "shorts"
+    # 4. Long video + not_live status = recorded broadcast (likely live)
+    if (
+        live_status == "not_live"
+        and duration_sec is not None
+        and duration_sec > 3600
+    ):
+        return "live"
+    # 5. Title-based live (fallback if no metadata)
+    if _is_live(title):
+        return "live"
+    # 6. Default
+    return "videos"
 
 
 # ══════════════════════════════════════════════════════════
@@ -272,8 +370,16 @@ def main():
         if not raw:
             print(f"[WARN] {category_id}: no entries, skipping")
             continue
+        # Fetch real YouTube metadata via yt-dlp for accurate classification
+        video_ids = [r["videoId"] for r in raw]
+        print(f"  [INFO] fetching yt-dlp metadata for {len(video_ids)} videos...")
+        metadata_map = fetch_video_metadata(video_ids)
+        if metadata_map:
+            print(f"  [INFO] yt-dlp: {len(metadata_map)}/{len(video_ids)} succeeded")
+        else:
+            print("  [INFO] yt-dlp unavailable, using title heuristics")
         live, videos, shorts = classify_subitems(
-            raw, channel_name, args.limit
+            raw, channel_name, args.limit, metadata_map=metadata_map
         )
         print(
             f"  [INFO] classified: live={len(live)} "

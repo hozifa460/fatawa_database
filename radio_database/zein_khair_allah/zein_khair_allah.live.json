@@ -1,0 +1,112 @@
+{
+  "id": "zein_khair_allah",
+  "title": "الشيخ زين خير الله",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة الشيخ زين خير الله على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — الشيخ زين خير الله",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JhGOdvFHbHQ",
+          "imageUrl": "https://i.ytimg.com/vi/JhGOdvFHbHQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JhGOdvFHbHQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "التشيع والنصرانية لقاء مع الدكتور عاصم هيثم",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=809mdJ5y4xQ",
+          "imageUrl": "https://i.ytimg.com/vi/809mdJ5y4xQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=809mdJ5y4xQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حوارات مع النصارى والملحدين قوية جدا",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1XbMJKo3z8o",
+          "imageUrl": "https://i.ytimg.com/vi/1XbMJKo3z8o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1XbMJKo3z8o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Aj4fOZbew4E",
+          "imageUrl": "https://i.ytimg.com/vi/Aj4fOZbew4E/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Aj4fOZbew4E",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zCAL1zYeVUc",
+          "imageUrl": "https://i.ytimg.com/vi/zCAL1zYeVUc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zCAL1zYeVUc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LAuFPVfdM04",
+          "imageUrl": "https://i.ytimg.com/vi/LAuFPVfdM04/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LAuFPVfdM04",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=L1s65id4oaM",
+          "imageUrl": "https://i.ytimg.com/vi/L1s65id4oaM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=L1s65id4oaM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2XKAEBkO1D8",
+          "imageUrl": "https://i.ytimg.com/vi/2XKAEBkO1D8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2XKAEBkO1D8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SFcSKQ4vv1A",
+          "imageUrl": "https://i.ytimg.com/vi/SFcSKQ4vv1A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SFcSKQ4vv1A",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
