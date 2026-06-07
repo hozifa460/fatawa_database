@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 */3 * * *'   # كل 3 ساعات
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/youtube_sync/sync_youtube.py'
+      - 'radio_database/youtube_channels.json'
+      - '.github/workflows/youtube-sync.yml'
 
 jobs:
   sync:
