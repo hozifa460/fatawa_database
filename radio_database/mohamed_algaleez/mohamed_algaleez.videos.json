@@ -1,0 +1,42 @@
+{
+  "id": "mohamed_algaleez",
+  "title": "جديد الشيخ محمد الغليظ",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ محمد الغليظ على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الشيخ محمد الغليظ",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "(9) هل أنت أمين؟ | كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AQ8l8r7RsaQ",
+          "imageUrl": "https://i.ytimg.com/vi/AQ8l8r7RsaQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AQ8l8r7RsaQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "(8) كيف تحفظ يمينك؟ | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ovntsYn4hrY",
+          "imageUrl": "https://i.ytimg.com/vi/ovntsYn4hrY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ovntsYn4hrY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
