@@ -1,0 +1,102 @@
+{
+  "id": "tajweed_menshawy",
+  "title": "جديد التجويد والشيخ المنشاوي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد التجويد والشيخ المنشاوي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد التجويد والشيخ المنشاوي",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "الفقرات التاسعة إلى الثالثة عشرة من المصحف المرتل النادر | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SmqT7h-gWqk",
+          "imageUrl": "https://i.ytimg.com/vi/SmqT7h-gWqk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SmqT7h-gWqk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "في هدوء الليل.. الراحة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lg-uqyirseI",
+          "imageUrl": "https://i.ytimg.com/vi/lg-uqyirseI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lg-uqyirseI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
+          "imageUrl": "https://i.ytimg.com/vi/YGeGNGj6kOs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الصباح ✦ تلاوة تملأ يومك بالبركة والتيسير بإذن الله | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=XlF0qMCIcvU",
+          "imageUrl": "https://i.ytimg.com/vi/XlF0qMCIcvU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XlF0qMCIcvU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سورة الكهف | الفقرة الثالثة والعشرون من المصحف المرتل النادر | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SRE0t-hsdtQ",
+          "imageUrl": "https://i.ytimg.com/vi/SRE0t-hsdtQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SRE0t-hsdtQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=C7CNlR8sHNI",
+          "imageUrl": "https://i.ytimg.com/vi/C7CNlR8sHNI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=C7CNlR8sHNI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لأول مرة | سورة آل عمران كاملة | الفقرات مجمعة من المصحف المرتل النادر | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=62wXatM35jI",
+          "imageUrl": "https://i.ytimg.com/vi/62wXatM35jI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=62wXatM35jI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AaxbRxEPzQw",
+          "imageUrl": "https://i.ytimg.com/vi/AaxbRxEPzQw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AaxbRxEPzQw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

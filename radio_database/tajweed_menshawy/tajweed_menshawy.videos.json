@@ -1,0 +1,52 @@
+{
+  "id": "tajweed_menshawy",
+  "title": "جديد التجويد والشيخ المنشاوي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد التجويد والشيخ المنشاوي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد التجويد والشيخ المنشاوي",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "تلاوة تهدئ الروح وتشرح الصدر للشيخ المنشاوي | من سورة الفتح والحجرات وق | جودة فائفة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=50qxkoQEsec",
+          "imageUrl": "https://i.ytimg.com/vi/50qxkoQEsec/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=50qxkoQEsec",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أجمل تلاوة بالأداء الباكي المؤثر | سورة الأنفال كاملة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=y5h9K_H168U",
+          "imageUrl": "https://i.ytimg.com/vi/y5h9K_H168U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=y5h9K_H168U",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن يوم الجمعة بصوت رائع تطيب له القلوب | الشيخ المنشاوي | سورة الكهف كاملة – Surah Al-Kahf",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Fl7s89iOd5k",
+          "imageUrl": "https://i.ytimg.com/vi/Fl7s89iOd5k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Fl7s89iOd5k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

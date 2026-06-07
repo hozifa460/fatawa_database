@@ -1,0 +1,62 @@
+{
+  "id": "tajweed_menshawy",
+  "title": "جديد التجويد والشيخ المنشاوي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد التجويد والشيخ المنشاوي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد التجويد والشيخ المنشاوي",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "( ولولا إذ دخلت جنتك قلت ماشاء الله ) || سورة الكهف | محمد صديق #المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Li8bk3yD_60",
+          "imageUrl": "https://i.ytimg.com/vi/Li8bk3yD_60/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Li8bk3yD_60",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "( إن الله وملائكته يصلون على النبي )| من سورة الأحزاب  محمد صديق #المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Qj0L3ZgOdTo",
+          "imageUrl": "https://i.ytimg.com/vi/Qj0L3ZgOdTo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Qj0L3ZgOdTo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "( وقال الشيطان لما قضي الأمر )  ترتيل هادئ من سورة إبراهيم #المنشاوي #قرآن",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nyGqadmUPwk",
+          "imageUrl": "https://i.ytimg.com/vi/nyGqadmUPwk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nyGqadmUPwk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "( قالوا إنا كنا في أهلنا مشفقين ) || من سورة الطور || محمد صديق #المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AtreqkKzLaY",
+          "imageUrl": "https://i.ytimg.com/vi/AtreqkKzLaY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AtreqkKzLaY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
