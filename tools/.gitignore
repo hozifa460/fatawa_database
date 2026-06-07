@@ -1,0 +1,6 @@
+# Dart pub
+tools/youtube_sync_dart/.dart_tool/
+tools/youtube_sync_dart/.packages
+
+# Python (legacy — migrated to Dart)
+tools/youtube_sync/__pycache__/

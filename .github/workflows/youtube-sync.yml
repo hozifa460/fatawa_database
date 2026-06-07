@@ -7,8 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'tools/youtube_sync/sync_youtube.py'
-      - 'tools/requirements.txt'
+      - 'tools/youtube_sync_dart/**'
       - 'radio_database/youtube_channels.json'
       - '.github/workflows/youtube-sync.yml'
 
@@ -21,20 +20,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Dart
+        uses: dart-lang/setup-dart@v1
         with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          pip install -r tools/requirements.txt
-          python3 -c "import yt_dlp; print('[CI] yt-dlp version:', yt_dlp.version.__version__)"
-          python3 -c "import requests; print('[CI] requests:', requests.__version__)"
+          sdk: stable
 
       # ══════════════════════════════════════════════════════
-      # Sync YouTube RSS → 3 files per channel (live/videos/shorts)
+      # Sync YouTube RSS + youtube_explode_dart metadata
+      # → 3 files per channel (live/videos/shorts)
       # + auto-update index.json
       # ══════════════════════════════════════════════════════
       - name: Sync YouTube channels
@@ -47,7 +40,9 @@ jobs:
           touch .sync.lock
           trap 'rm -f .sync.lock' EXIT
 
-          python3 tools/youtube_sync/sync_youtube.py --folder radio_database
+          cd tools/youtube_sync_dart
+          dart pub get
+          dart run bin/sync_youtube.dart --folder ../../radio_database
 
       - name: Commit changes
         run: |
