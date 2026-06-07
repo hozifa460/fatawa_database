@@ -1,0 +1,72 @@
+{
+  "id": "telawat_1",
+  "title": "جديد التلاوات والمنشاوي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد التلاوات والمنشاوي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد التلاوات والمنشاوي",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "النمل التاريخية طلبوها منه في لندن فكانت الأقوي بين التلاوات لأيوب عاصف | Ayuub Asif - Surah An-Naml",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0S2qE0yEqkk",
+          "imageUrl": "https://i.ytimg.com/vi/0S2qE0yEqkk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0S2qE0yEqkk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المصحف المرتل النادر للمنشاوي سورة مريم وطه كاملة | Surah Maryam and Surah Taha - Al Minshawi HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=IK1Eo6bf4WE",
+          "imageUrl": "https://i.ytimg.com/vi/IK1Eo6bf4WE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=IK1Eo6bf4WE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سورة البقرة للشيخ ماهر المعيقلي (النسخة الأصلية) Maher Al Muaiqly - Surat Al-Baqarah",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=XOwt4whGa1Y",
+          "imageUrl": "https://i.ytimg.com/vi/XOwt4whGa1Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XOwt4whGa1Y",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناجاة وبكاء المنشاوي لا يقارن .. قرآن يوم الجمعة بطريقة لا مثيل لها ! ستبكي من قلبك",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=w9XfK4NS0AA",
+          "imageUrl": "https://i.ytimg.com/vi/w9XfK4NS0AA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=w9XfK4NS0AA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناجاة وبكاء المنشاوي لا يقارن .. قرآن يوم الجمعة بطريقة لا مثيل لها ! ستبكي من قلبك",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=YW3ZnT3JGA4",
+          "imageUrl": "https://i.ytimg.com/vi/YW3ZnT3JGA4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YW3ZnT3JGA4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
