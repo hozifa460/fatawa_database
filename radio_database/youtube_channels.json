@@ -2,14 +2,14 @@
   "version": 1,
   "channels": [
     {
-      "categoryId": "zein_khaira_alah",
+      "categoryId": "zein_khair_allah",
       "channelId": "UCQKqsmz6fY_4l5ilNpJ5iSw",
-      "channelName": "جديد الشيخ زين خير الله"
+      "channelName": "الشيخ زين خير الله"
     },
     {
-      "categoryId": "haythem_talat",
+      "categoryId": "haytham_talaat",
       "channelId": "UCLj8UFOcdFrvlh24Lw7jrgA",
-      "channelName": "جديد الدكتور هيثم طلعت"
+      "channelName": "الدكتور هيثم طلعت"
     }
   ]
 }
