@@ -1,0 +1,52 @@
+{
+  "id": "moaz_alian",
+  "title": "جديد معاذ عليان",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد معاذ عليان على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد معاذ عليان",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "معاذ عليان يؤدب القس اثناسيوس موريس بعد تطاوله على الله في الإسلام🔥كلامه امبارح وبنعلق عليها اليوم",
+          "subtitle": "جديد معاذ عليان",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=IfiAF_aJs3M",
+          "imageUrl": "https://i.ytimg.com/vi/IfiAF_aJs3M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=IfiAF_aJs3M",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تعرض لأول مرة🔥وجع الحقيقة🔥عجز  كهنة امام سؤال معاذ عليان:الصنية فيها الله😳 يا مسيحي بتعبد لقمة!",
+          "subtitle": "جديد معاذ عليان",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=G5AFdlfqyrs",
+          "imageUrl": "https://i.ytimg.com/vi/G5AFdlfqyrs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=G5AFdlfqyrs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تورتة الصليب وتورتة تحريف الإنجيل🔥لو حد جالك وقالك اعملي تورتة  صـ.ـفع الإله هترضى؟ معاذ عليان",
+          "subtitle": "جديد معاذ عليان",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=QUVT3ncDPHM",
+          "imageUrl": "https://i.ytimg.com/vi/QUVT3ncDPHM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QUVT3ncDPHM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

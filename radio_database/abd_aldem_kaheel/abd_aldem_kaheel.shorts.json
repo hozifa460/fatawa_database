@@ -1,0 +1,102 @@
+{
+  "id": "abd_aldem_kaheel",
+  "title": "جديد عبد الدائم كحيل",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد عبد الدائم كحيل على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد عبد الدائم كحيل",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "احفظ هذا الدعاء.. ينجيك من جميع أنواع البلاء بإذن الله",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WlxAgnRerOE",
+          "imageUrl": "https://i.ytimg.com/vi/WlxAgnRerOE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WlxAgnRerOE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "دعاء مهم كان النبي ﷺ يقوله قبل النوم.. احفظه الآن!",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=RJtL3qFF0n0",
+          "imageUrl": "https://i.ytimg.com/vi/RJtL3qFF0n0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=RJtL3qFF0n0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حقيقة الأبراج.. هل تحدث القرآن عنها؟ أم هي مجرد خرافات؟",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AWAmCU4D6IE",
+          "imageUrl": "https://i.ytimg.com/vi/AWAmCU4D6IE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AWAmCU4D6IE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أمر لا يصدق في هذه الحشرة العجيبة!!",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qqph4exkk1M",
+          "imageUrl": "https://i.ytimg.com/vi/qqph4exkk1M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qqph4exkk1M",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لن تصدق ماذا يحدث في وادي النار.. معجزة نبوية مذهلة",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=g4-_iI9toFM",
+          "imageUrl": "https://i.ytimg.com/vi/g4-_iI9toFM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=g4-_iI9toFM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا نهى ﷺ عن التنفس أو النفخ في الاناء؟ الإجابة سوف تذهلك!",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1801U_UJia0",
+          "imageUrl": "https://i.ytimg.com/vi/1801U_UJia0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1801U_UJia0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا أمرنا النبي ﷺ بخلع الحذاء قبل الدخول إلى المساجد؟",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=XpicN2BWY08",
+          "imageUrl": "https://i.ytimg.com/vi/XpicN2BWY08/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XpicN2BWY08",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "إياك أن تغادر المجلس من دون هذا الذكر المهم",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BBtxgjpA-RY",
+          "imageUrl": "https://i.ytimg.com/vi/BBtxgjpA-RY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BBtxgjpA-RY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

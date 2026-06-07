@@ -1,0 +1,32 @@
+{
+  "id": "asem_haythem",
+  "title": "جديد الدكتور عاصم هيثم",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الدكتور عاصم هيثم على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد الدكتور عاصم هيثم",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "اقلاك",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0Qi_POH8ttk",
+          "imageUrl": "https://i.ytimg.com/vi/0Qi_POH8ttk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0Qi_POH8ttk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

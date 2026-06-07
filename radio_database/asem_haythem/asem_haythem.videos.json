@@ -1,0 +1,62 @@
+{
+  "id": "asem_haythem",
+  "title": "جديد الدكتور عاصم هيثم",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الدكتور عاصم هيثم على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الدكتور عاصم هيثم",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "يريد اثبات ان خلافه ابو بكر شرعيه ",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=18LPG4D6JZ4",
+          "imageUrl": "https://i.ytimg.com/vi/18LPG4D6JZ4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=18LPG4D6JZ4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تدمير معمم حول الناسخ والمنسوخ",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Noo-LpCHeAs",
+          "imageUrl": "https://i.ytimg.com/vi/Noo-LpCHeAs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Noo-LpCHeAs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الحوار بموضوع الأذان",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LXIvHarEE0A",
+          "imageUrl": "https://i.ytimg.com/vi/LXIvHarEE0A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LXIvHarEE0A",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اية التطيهر ماضية أم حاضرة",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=iRI0VbQTrhw",
+          "imageUrl": "https://i.ytimg.com/vi/iRI0VbQTrhw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=iRI0VbQTrhw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "moaz_alian",
+  "title": "جديد معاذ عليان",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد معاذ عليان على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد معاذ عليان",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "معاذ عليان يحاصر القس بيشوي بركات💥والقس: معنديش فكرة😳 سؤال يهدم رواية الانجيل رأسًا على عقب",
+          "subtitle": "جديد معاذ عليان",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DKbBUd7wKvc",
+          "imageUrl": "https://i.ytimg.com/vi/DKbBUd7wKvc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DKbBUd7wKvc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

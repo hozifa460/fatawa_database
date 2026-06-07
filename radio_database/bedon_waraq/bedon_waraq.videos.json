@@ -1,0 +1,62 @@
+{
+  "id": "bedon_waraq",
+  "title": "جديد بودكاست بدون ورق",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد بودكاست بدون ورق على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد بودكاست بدون ورق",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "من الألم إلى المعنى | حسن صفر | بودكاست بدون ورق",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wv5BJX-BBcs",
+          "imageUrl": "https://i.ytimg.com/vi/wv5BJX-BBcs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wv5BJX-BBcs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف نتعامل مع القلق اليومي؟ | د.عمر سليمان | بودكاست بدون ورق",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=iHNhtsSKZQY",
+          "imageUrl": "https://i.ytimg.com/vi/iHNhtsSKZQY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=iHNhtsSKZQY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أسرار عالم الطيران | فراس مال الله | بودكاست بدون ورق",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WLjNDN0V9R8",
+          "imageUrl": "https://i.ytimg.com/vi/WLjNDN0V9R8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WLjNDN0V9R8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "القبلة الأولى: الرواية التاريخية للمسجد الأقصى | د.عبدالله معروف | بدون ورق",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wOze96CJCto",
+          "imageUrl": "https://i.ytimg.com/vi/wOze96CJCto/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wOze96CJCto",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
