@@ -2,7 +2,7 @@ name: Sync YouTube Videos
 
 on:
   schedule:
-    - cron: '0 */3 * * *'   # كل 3 ساعات
+    - cron: '0 * * * *'   # كل ساعة
   workflow_dispatch:
   push:
     branches: [main]
