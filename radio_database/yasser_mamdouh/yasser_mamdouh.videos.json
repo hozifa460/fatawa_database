@@ -1,0 +1,32 @@
+{
+  "id": "yasser_mamdouh",
+  "title": "جديد ياسر ممدوح",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد ياسر ممدوح على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد ياسر ممدوح",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "خش هتجيبك! #فيديو_الجمعة_ياسر_ممدوح",
+          "subtitle": "جديد ياسر ممدوح",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=M7ZqHNnTQs0",
+          "imageUrl": "https://i.ytimg.com/vi/M7ZqHNnTQs0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=M7ZqHNnTQs0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
