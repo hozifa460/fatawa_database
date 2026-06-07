@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "( ورحمتي وسعت كل شيء ) تلاوة خاشعة مهيبة !! محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=B2lQy5gjjqA",
+          "imageUrl": "https://i.ytimg.com/vi/B2lQy5gjjqA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=B2lQy5gjjqA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "( ولولا إذ دخلت جنتك قلت ماشاء الله ) || سورة الكهف | محمد صديق #المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Qj0L3ZgOdTo",
           "imageUrl": "https://i.ytimg.com/vi/Qj0L3ZgOdTo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Qj0L3ZgOdTo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "( وقال الشيطان لما قضي الأمر )  ترتيل هادئ من سورة إبراهيم #المنشاوي #قرآن",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=nyGqadmUPwk",
-          "imageUrl": "https://i.ytimg.com/vi/nyGqadmUPwk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=nyGqadmUPwk",
           "videoSource": "youtube",
           "mediaType": "both"
         }

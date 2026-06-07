@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
+          "imageUrl": "https://i.ytimg.com/vi/CRO1MFR-Lu0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
+          "imageUrl": "https://i.ytimg.com/vi/YGeGNGj6kOs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الفقرات التاسعة إلى الثالثة عشرة من المصحف المرتل النادر | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=lg-uqyirseI",
           "imageUrl": "https://i.ytimg.com/vi/lg-uqyirseI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=lg-uqyirseI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
-          "imageUrl": "https://i.ytimg.com/vi/YGeGNGj6kOs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=62wXatM35jI",
           "imageUrl": "https://i.ytimg.com/vi/62wXatM35jI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=62wXatM35jI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=AaxbRxEPzQw",
-          "imageUrl": "https://i.ytimg.com/vi/AaxbRxEPzQw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=AaxbRxEPzQw",
           "videoSource": "youtube",
           "mediaType": "both"
         }
