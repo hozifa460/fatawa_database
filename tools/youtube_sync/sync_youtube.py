@@ -1,33 +1,25 @@
-"""YouTube sync — generates a SINGLE <categoryId>.youtube.json per channel
-(matches the OLD mp3 schema with subItems[]) and auto-updates index.json.
+"""YouTube sync — generates 3 SEPARATE files per channel
+(<categoryId>.live.json / .videos.json / .shorts.json) and auto-updates
+index.json. Also deletes the OLD single <categoryId>.youtube.json file
+(if present) and removes its path from index.json.
+
+Each file matches the RecitationCategory schema (same `id`), so the Dart
+cascade merge in `_fetchYouTubeChannels` automatically concatenates the
+`items[]` arrays from the 3 files into one in-memory category.
 
 Used by both GitHub Actions (.github/workflows/youtube-sync.yml) and
 GitLab CI (radio_islam/.gitlab-ci.yml).
 
 Idempotent: re-runs are safe.
-  - If a channel's file already exists, it is overwritten with fresh RSS data.
+  - If a file already exists, it is overwritten with fresh RSS data.
   - If a path is already in index.json, it is NOT re-added.
+  - Old .youtube.json files are removed in the same commit.
 
-Output schema per channel (matches zein_khair_allah.json mp3):
-{
-  "id": "<categoryId>",
-  "title": "<channelName>",
-  "emoji": "🎥",
-  "items": [
-    {
-      "title": "...",
-      "subtitle": "يوتيوب",
-      "subItems": [
-        { "title": "...", "subtitle": "<channelName>",
-          "audioUrl": "https://www.youtube.com/watch?v=<id>",
-          "imageUrl": "https://i.ytimg.com/vi/<id>/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=<id>",
-          "videoSource": "youtube", "mediaType": "both" },
-        ...
-      ]
-    }
-  ]
-}
+Classification (same logic as Dart `parseYouTubeRss`):
+  - Shorts: title contains "shorts" / "شورتس" / "شورت" / "#short"
+  - Live:   title contains "live" / "بث" / "مباشر" / "لايف" / "on air"
+            AND not negated by "not live" / "ليس بث" / "لا بث" / "غير مباشر"
+  - Videos: everything else
 """
 import sys
 import io
@@ -45,12 +37,47 @@ if sys.platform == "win32":
 
 import argparse
 import json
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
 NS = {"atom": "http://www.w3.org/2005/Atom"}
 
+
+# ══════════════════════════════════════════════════════════
+#  Classification helpers (mirror Dart `parseYouTubeRss`)
+# ══════════════════════════════════════════════════════════
+
+_SHORTS_RE = re.compile(r"(?:^|#|-\s*)shorts?\b|#short|شورتس|شورت")
+
+
+def _is_shorts(title: str) -> bool:
+    return bool(_SHORTS_RE.search(title.lower()))
+
+
+_LIVE_NEG_RE = re.compile(r"not\s+live|ليس\s+بث|لا\s+بث|غير\s*مباشر")
+# بث ككلمة مستقلة: يطابق "بث طاريء" / "بث عاجل" / "بث مباشر" / "البث" / "بث حي"
+_LIVE_RE = re.compile(
+    r"\b(live|streaming|live\s*now|live\s*stream|on\s*air|stream)\b"
+    r"|\bبث\b"
+    r"|ال\s*بث"
+    r"|لايف"
+    r"|مباشر"
+    r"|على\s*الهواء"
+)
+
+
+def _is_live(title: str) -> bool:
+    lower = title.lower()
+    if _LIVE_NEG_RE.search(lower):
+        return False
+    return bool(_LIVE_RE.search(lower))
+
+
+# ══════════════════════════════════════════════════════════
+#  Folder / RSS / entries
+# ══════════════════════════════════════════════════════════
 
 def detect_folder(cwd):
     """Detect data folder from CWD. Prefer --folder if given."""
@@ -72,8 +99,10 @@ def fetch_rss(channel_id):
 
 
 def entries_to_subitems(root, channel_name, limit=15):
+    """Return list of subItem dicts (videoId, title, etc.) — unclassified."""
     subitems = []
-    for entry in root.findall("atom:entry", NS)[:limit]:
+    for entry in root.findall("atom:entry", NS)[: limit * 3]:
+        # Pull `limit*3` so we have enough for each bucket after classification
         vid_el = entry.find("atom:id", NS)
         title_el = entry.find("atom:title", NS)
         if vid_el is None or title_el is None:
@@ -82,22 +111,46 @@ def entries_to_subitems(root, channel_name, limit=15):
         if not vid:
             continue
         title = title_el.text or ""
-        subitems.append(
-            {
-                "title": title,
-                "subtitle": channel_name,
-                "emoji": "",
-                "audioUrl": f"https://www.youtube.com/watch?v={vid}",
-                "imageUrl": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
-                "videoUrl": f"https://www.youtube.com/watch?v={vid}",
-                "videoSource": "youtube",
-                "mediaType": "both",
-            }
-        )
+        subitems.append({"videoId": vid, "title": title})
     return subitems
 
 
-def build_category(category_id, channel_name, subitems):
+def build_subitem(video_id: str, title: str, channel_name: str) -> dict:
+    youtube_url = f"https://www.youtube.com/watch?v={video_id}"
+    return {
+        "title": title,
+        "subtitle": channel_name,
+        "emoji": "",
+        "audioUrl": youtube_url,
+        "imageUrl": f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg",
+        "videoUrl": youtube_url,
+        "videoSource": "youtube",
+        "mediaType": "both",
+    }
+
+
+def classify_subitems(raw_items, channel_name, limit):
+    """Split raw RSS entries into 3 buckets: live / videos / shorts."""
+    live, videos, shorts = [], [], []
+    for entry in raw_items:
+        sub = build_subitem(entry["videoId"], entry["title"], channel_name)
+        if _is_shorts(entry["title"]):
+            if len(shorts) < limit:
+                shorts.append(sub)
+        elif _is_live(entry["title"]):
+            if len(live) < limit:
+                live.append(sub)
+        else:
+            if len(videos) < limit:
+                videos.append(sub)
+    return live, videos, shorts
+
+
+# ══════════════════════════════════════════════════════════
+#  File builders
+# ══════════════════════════════════════════════════════════
+
+def _base_category(category_id, channel_name):
     return {
         "id": category_id,
         "title": channel_name,
@@ -105,6 +158,28 @@ def build_category(category_id, channel_name, subitems):
         "description": f"فيديوهات قناة {channel_name} على يوتيوب",
         "gradientColors": ["#8B0000", "#FF6347"],
         "imageUrl": "",
+    }
+
+
+def build_live_file(category_id, channel_name, subitems):
+    return {
+        **_base_category(category_id, channel_name),
+        "items": [
+            {
+                "title": f"بثوث مباشرة — {channel_name}",
+                "subtitle": "يوتيوب",
+                "emoji": "🔴",
+                "imageUrl": "",
+                "audioUrl": "",
+                "subItems": subitems,
+            }
+        ],
+    }
+
+
+def build_videos_file(category_id, channel_name, subitems):
+    return {
+        **_base_category(category_id, channel_name),
         "items": [
             {
                 "title": f"فيديوهات {channel_name}",
@@ -118,6 +193,26 @@ def build_category(category_id, channel_name, subitems):
     }
 
 
+def build_shorts_file(category_id, channel_name, subitems):
+    return {
+        **_base_category(category_id, channel_name),
+        "items": [
+            {
+                "title": f"شورتس — {channel_name}",
+                "subtitle": "يوتيوب",
+                "emoji": "📱",
+                "imageUrl": "",
+                "audioUrl": "",
+                "subItems": subitems,
+            }
+        ],
+    }
+
+
+# ══════════════════════════════════════════════════════════
+#  Main
+# ══════════════════════════════════════════════════════════
+
 def load_or_init_index(index_path):
     if not index_path.exists():
         return {"files": []}
@@ -130,7 +225,7 @@ def main():
         "--folder", default=None, help="radio_database or radio_islam"
     )
     parser.add_argument(
-        "--limit", type=int, default=15, help="Max items per channel"
+        "--limit", type=int, default=15, help="Max items per type per channel"
     )
     args = parser.parse_args()
 
@@ -155,6 +250,7 @@ def main():
     index_data = load_or_init_index(index_path)
     existing_files = set(index_data.get("files", []))
     index_changed = False
+    files_to_delete = []  # old .youtube.json to remove
 
     for ch in channels:
         category_id = ch.get("categoryId", "").strip()
@@ -172,33 +268,71 @@ def main():
             print(f"[ERROR] {category_id}: RSS fetch failed: {e}")
             continue
 
-        subitems = entries_to_subitems(root, channel_name, limit=args.limit)
-        if not subitems:
-            print(f"[WARN] {category_id}: no subItems, skipping")
+        raw = entries_to_subitems(root, channel_name, limit=args.limit)
+        if not raw:
+            print(f"[WARN] {category_id}: no entries, skipping")
             continue
-
-        category = build_category(category_id, channel_name, subitems)
-        channel_dir = cwd / folder / category_id
-        channel_dir.mkdir(parents=True, exist_ok=True)
-        file_path = channel_dir / f"{category_id}.youtube.json"
-        file_path.write_text(
-            json.dumps(category, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
+        live, videos, shorts = classify_subitems(
+            raw, channel_name, args.limit
         )
         print(
-            f"  [OK] {file_path.relative_to(cwd)}: "
-            f"{len(subitems)} subItems"
+            f"  [INFO] classified: live={len(live)} "
+            f"videos={len(videos)} shorts={len(shorts)}"
         )
 
-        rel_path = f"{category_id}/{category_id}.youtube.json"
-        if rel_path in existing_files:
-            print(f"  [INFO] index.json: {rel_path} already present")
-        else:
-            index_data.setdefault("files", []).append(rel_path)
-            existing_files.add(rel_path)
-            index_changed = True
-            print(f"  [OK] index.json: added {rel_path}")
+        channel_dir = cwd / folder / category_id
+        channel_dir.mkdir(parents=True, exist_ok=True)
 
+        # 1) Mark old single .youtube.json for deletion
+        old_file = channel_dir / f"{category_id}.youtube.json"
+        if old_file.exists():
+            files_to_delete.append(old_file)
+            old_rel = f"{category_id}/{category_id}.youtube.json"
+            if old_rel in existing_files:
+                existing_files.discard(old_rel)
+                index_data["files"] = [
+                    f for f in index_data.get("files", []) if f != old_rel
+                ]
+                index_changed = True
+                print(f"  [INFO] removed old {old_rel} from index.json")
+
+        # 2) Write up to 3 files (only if non-empty)
+        buckets = [
+            ("live", "🔴", live, build_live_file),
+            ("videos", "🎙️", videos, build_videos_file),
+            ("shorts", "📱", shorts, build_shorts_file),
+        ]
+        for kind, emoji, subs, builder in buckets:
+            if not subs:
+                print(f"  [SKIP] {kind}: empty")
+                continue
+            file_path = channel_dir / f"{category_id}.{kind}.json"
+            payload = builder(category_id, channel_name, subs)
+            file_path.write_text(
+                json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+            rel_path = f"{category_id}/{category_id}.{kind}.json"
+            print(
+                f"  [OK] {rel_path}: {len(subs)} subItems {emoji}"
+            )
+            if rel_path in existing_files:
+                print(f"  [INFO] index.json: {rel_path} already present")
+            else:
+                index_data.setdefault("files", []).append(rel_path)
+                existing_files.add(rel_path)
+                index_changed = True
+                print(f"  [OK] index.json: added {rel_path}")
+
+    # 3) Delete old .youtube.json files
+    for old in files_to_delete:
+        try:
+            old.unlink()
+            print(f"  [DEL] {old.relative_to(cwd)}")
+        except Exception as e:
+            print(f"  [WARN] could not delete {old}: {e}")
+
+    # 4) Finalize index.json
     if index_changed:
         index_data["files"] = sorted(set(index_data["files"]))
         index_path.write_text(
