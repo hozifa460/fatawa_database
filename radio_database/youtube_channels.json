@@ -4,7 +4,7 @@
     {
       "categoryId": "zein_khair_allah",
       "channelId": "UCQKqsmz6fY_4l5ilNpJ5iSw",
-      "channelName": "الشيخ زين خير الله"
+      "channelName": "جديد الشيخ زين خير الله"
     },
     {
       "categoryId": "haytham_talaat",
@@ -45,6 +45,31 @@
       "categoryId": "mahmoud_dawood",
       "channelId": "UCJwJ-F8Cs7P8NJu01NoAbIA",
       "channelName": "جديد محمود داوود"
+    },
+    {
+      "categoryId": "abd_aldem_kaheel",
+      "channelId": "UCjbEAXhy8db1GD4UmqTiX-Q",
+      "channelName": "جديد عبد الدائم كحيل"
+    },
+    {
+      "categoryId": "mohamed_faramawy",
+      "channelId": "UCM2RnVqp7peU8k6rrQXt40Q",
+      "channelName": "جديد محمد فرماوي"
+    },
+    {
+      "categoryId": "moaz_alian",
+      "channelId": "UCZgb3h-QHvK8abuJzs73vag",
+      "channelName": "جديد معاذ عليان"
+    },
+    {
+      "categoryId": "asem_haythem",
+      "channelId": "UCUfOhnWkH4lk33RZOczlVcw",
+      "channelName": "جديد الدكتور عاصم هيثم"
+    },
+    {
+      "categoryId": "bedon_waraq",
+      "channelId": "UC7mCgzz-LYRt-a3mCvUbccg",
+      "channelName": "جديد بودكاست بدون ورق"
     }
   ]
 }
