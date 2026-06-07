@@ -283,18 +283,20 @@ def main():
         channel_dir = cwd / folder / category_id
         channel_dir.mkdir(parents=True, exist_ok=True)
 
-        # 1) Mark old single .youtube.json for deletion
+        # 1) Mark old single .youtube.json for deletion (transition period)
+        #    - Always remove the index entry, even if file is already gone
+        #    - Delete the file from disk if it still exists
         old_file = channel_dir / f"{category_id}.youtube.json"
+        old_rel = f"{category_id}/{category_id}.youtube.json"
         if old_file.exists():
             files_to_delete.append(old_file)
-            old_rel = f"{category_id}/{category_id}.youtube.json"
-            if old_rel in existing_files:
-                existing_files.discard(old_rel)
-                index_data["files"] = [
-                    f for f in index_data.get("files", []) if f != old_rel
-                ]
-                index_changed = True
-                print(f"  [INFO] removed old {old_rel} from index.json")
+        if old_rel in existing_files:
+            existing_files.discard(old_rel)
+            index_data["files"] = [
+                f for f in index_data.get("files", []) if f != old_rel
+            ]
+            index_changed = True
+            print(f"  [INFO] removed legacy {old_rel} from index.json")
 
         # 2) Write up to 3 files (only if non-empty)
         buckets = [
