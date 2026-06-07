@@ -30,6 +30,8 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           pip install -r tools/requirements.txt
+          python3 -c "import yt_dlp; print('[CI] yt-dlp version:', yt_dlp.version.__version__)"
+          python3 -c "import requests; print('[CI] requests:', requests.__version__)"
 
       # ══════════════════════════════════════════════════════
       # Sync YouTube RSS → 3 files per channel (live/videos/shorts)

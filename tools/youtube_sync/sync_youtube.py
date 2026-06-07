@@ -373,11 +373,27 @@ def main():
         # Fetch real YouTube metadata via yt-dlp for accurate classification
         video_ids = [r["videoId"] for r in raw]
         print(f"  [INFO] fetching yt-dlp metadata for {len(video_ids)} videos...")
+        try:
+            import yt_dlp  # type: ignore  # noqa: F401
+            print(f"  [CI] yt-dlp module loaded: {yt_dlp.version.__version__}")
+        except ImportError:
+            print("  [CI] yt-dlp NOT installed")
         metadata_map = fetch_video_metadata(video_ids)
         if metadata_map:
-            print(f"  [INFO] yt-dlp: {len(metadata_map)}/{len(video_ids)} succeeded")
+            # Show breakdown of metadata quality
+            live_meta = sum(
+                1 for m in metadata_map.values()
+                if m.get("is_live") or m.get("live_status") in ("is_live", "was_live")
+            )
+            short_meta = sum(
+                1 for m in metadata_map.values() if m.get("is_short")
+            )
+            print(
+                f"  [CI] yt-dlp: {len(metadata_map)}/{len(video_ids)} "
+                f"succeeded (live={live_meta}, short={short_meta})"
+            )
         else:
-            print("  [INFO] yt-dlp unavailable, using title heuristics")
+            print("  [CI] yt-dlp returned empty, using title heuristics")
         live, videos, shorts = classify_subitems(
             raw, channel_name, args.limit, metadata_map=metadata_map
         )
