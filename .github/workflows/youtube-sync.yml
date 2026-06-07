@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - 'tools/youtube_sync/sync_youtube.py'
+      - 'tools/requirements.txt'
       - 'radio_database/youtube_channels.json'
       - '.github/workflows/youtube-sync.yml'
 
@@ -20,8 +21,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install -r tools/requirements.txt
+
       # ══════════════════════════════════════════════════════
-      # Sync YouTube RSS → <categoryId>.youtube.json
+      # Sync YouTube RSS → 3 files per channel (live/videos/shorts)
       # + auto-update index.json
       # ══════════════════════════════════════════════════════
       - name: Sync YouTube channels
