@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "الكرم يغطي العيوب🤝",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=s3WwDZtMEt0",
+          "imageUrl": "https://i.ytimg.com/vi/s3WwDZtMEt0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=s3WwDZtMEt0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "احتسِب تؤجر🤝🏻",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=oXrRNWPBeyo",
           "imageUrl": "https://i.ytimg.com/vi/oXrRNWPBeyo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=oXrRNWPBeyo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "لسة في العشر⚠️",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=U8PqQadnylM",
-          "imageUrl": "https://i.ytimg.com/vi/U8PqQadnylM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=U8PqQadnylM",
           "videoSource": "youtube",
           "mediaType": "both"
         }
