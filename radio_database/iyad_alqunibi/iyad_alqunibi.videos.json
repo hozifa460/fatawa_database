@@ -1,0 +1,52 @@
+{
+  "id": "iyad_alqunibi",
+  "title": "جديد الدكتور اياد القنيبي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الدكتور اياد القنيبي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "فيديوهات جديد الدكتور اياد القنيبي",
+      "subtitle": "يوتيوب",
+      "emoji": "🎙️",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "لماذا لم يُحرَّم زواج الأقارب إن كان يزيد الأمراض الوراثية؟",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=d749Z_D62gc",
+          "imageUrl": "https://i.ytimg.com/vi/d749Z_D62gc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=d749Z_D62gc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حتى في البحث العلمي (ومن يتق الله يجعل له مخرجا)",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JlHiaTxTP7s",
+          "imageUrl": "https://i.ytimg.com/vi/JlHiaTxTP7s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JlHiaTxTP7s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا لا يسمع منك أحد؟!",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=rzUnGkGe4SY",
+          "imageUrl": "https://i.ytimg.com/vi/rzUnGkGe4SY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rzUnGkGe4SY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}

@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
-          "imageUrl": "https://i.ytimg.com/vi/CRO1MFR-Lu0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
           "imageUrl": "https://i.ytimg.com/vi/YGeGNGj6kOs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=YGeGNGj6kOs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
+          "imageUrl": "https://i.ytimg.com/vi/CRO1MFR-Lu0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
           "videoSource": "youtube",
           "mediaType": "both"
         },

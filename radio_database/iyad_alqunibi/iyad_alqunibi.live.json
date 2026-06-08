@@ -1,0 +1,42 @@
+{
+  "id": "iyad_alqunibi",
+  "title": "جديد الدكتور اياد القنيبي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الدكتور اياد القنيبي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الدكتور اياد القنيبي",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "لا تنفروا ضيوف الرحمن الصغار من المساجد",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9xagpq5F-lc",
+          "imageUrl": "https://i.ytimg.com/vi/9xagpq5F-lc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9xagpq5F-lc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مجرد تجربة",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3PvWj1C3f4g",
+          "imageUrl": "https://i.ytimg.com/vi/3PvWj1C3f4g/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3PvWj1C3f4g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
