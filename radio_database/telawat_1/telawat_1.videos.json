@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "مناجاة وبكاء المنشاوي من المصحف المرتل النادر - سورة الحجر | Surah Al-Qasas - Al Minshawi HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wZyM3dVBzOw",
-          "imageUrl": "https://i.ytimg.com/vi/wZyM3dVBzOw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wZyM3dVBzOw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "خشوع يبكي قلبك من المصحف المرتل النادر - سورة ابراهيم | Surah Ibrahim - Al Minshawi HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -43,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=0qOciU5vn20",
           "imageUrl": "https://i.ytimg.com/vi/0qOciU5vn20/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=0qOciU5vn20",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مناجاة وبكاء المنشاوي من المصحف المرتل النادر - سورة الحجر | Surah Al-Qasas - Al Minshawi HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wZyM3dVBzOw",
+          "imageUrl": "https://i.ytimg.com/vi/wZyM3dVBzOw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wZyM3dVBzOw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
