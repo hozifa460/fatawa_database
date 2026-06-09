@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
-          "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "دواء القلوب... أرح قلبك وعقلك بهذه التلاوة العذبة | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
           "imageUrl": "https://i.ytimg.com/vi/btqb9llSdCY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
+          "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
