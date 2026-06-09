@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "5223- أيهما يُقدَّم في الولاية: ابن الابن أم الأخ؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=J7FbwTMNGKM",
+          "imageUrl": "https://i.ytimg.com/vi/J7FbwTMNGKM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=J7FbwTMNGKM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5222- فائدة الإشهاد على عقد النكاح - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AZK8CPPhDsI",
+          "imageUrl": "https://i.ytimg.com/vi/AZK8CPPhDsI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AZK8CPPhDsI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5221- هل تصحُّ شهادة أصول الزوجين وفروعهما على النكاح؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Aa7xl6eeqgc",
+          "imageUrl": "https://i.ytimg.com/vi/Aa7xl6eeqgc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Aa7xl6eeqgc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "5220- شروط الشاهدَين في عقد النكاح - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -63,46 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=A6JJpAFIJbI",
           "imageUrl": "https://i.ytimg.com/vi/A6JJpAFIJbI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=A6JJpAFIJbI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5215- حكم قول السيد لأمته: «أعتقتُكِ وجعلتُ عتقَكِ صداقَكِ» - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=RUDC4ZAvLKE",
-          "imageUrl": "https://i.ytimg.com/vi/RUDC4ZAvLKE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=RUDC4ZAvLKE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5214- صورتان لا يتولّى فيهما شخصٌ واحدٌ طرفَي عقد النكاح - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=5GRCwF3fe6Y",
-          "imageUrl": "https://i.ytimg.com/vi/5GRCwF3fe6Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=5GRCwF3fe6Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5213- متى يصحُّ أن يتولّى شخصٌ واحد طرفي عقد النكاح؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=5br_E_6xptg",
-          "imageUrl": "https://i.ytimg.com/vi/5br_E_6xptg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=5br_E_6xptg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5212- إذا استوى أكثر من وليٍّ في النكاح فأيهما يقدَّم؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mqS8TFti0Ow",
-          "imageUrl": "https://i.ytimg.com/vi/mqS8TFti0Ow/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mqS8TFti0Ow",
           "videoSource": "youtube",
           "mediaType": "both"
         }
