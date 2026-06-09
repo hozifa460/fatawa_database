@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "هل الصلاة قبل الفجر بنصف ساعة توافق الثلث الأخير من الليل؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=W8kpgCMLEQo",
+          "imageUrl": "https://i.ytimg.com/vi/W8kpgCMLEQo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=W8kpgCMLEQo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "هل نلغي حفل الزفاف إذا توفي أحد أقارب الزوج أو الزوجة؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -43,26 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=9D-PTJV282o",
           "imageUrl": "https://i.ytimg.com/vi/9D-PTJV282o/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9D-PTJV282o",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "ماذا أفعل إذا دخلت المسجد للصلاة والإمام ساجد؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ZecI-eoNuMk",
-          "imageUrl": "https://i.ytimg.com/vi/ZecI-eoNuMk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ZecI-eoNuMk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "موقفٌ فيه عبرةٌ حصل للشيخ عثمان الخميس وهو في طريقه لصلاة الجمعة - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=oU6rLAvQC8w",
-          "imageUrl": "https://i.ytimg.com/vi/oU6rLAvQC8w/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=oU6rLAvQC8w",
           "videoSource": "youtube",
           "mediaType": "both"
         }
