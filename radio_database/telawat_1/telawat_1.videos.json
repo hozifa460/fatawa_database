@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "يرتل بقلب باكي من المصحف المرتل النادر - سورة الإسراء | Surah Al-Isra - Al Minshawi HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jvlaA3ntmA4",
+          "imageUrl": "https://i.ytimg.com/vi/jvlaA3ntmA4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jvlaA3ntmA4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الفريد العجيب يرتل بقلب باكي من المصحف المرتل النادر - سورة النحل | Surah An-Nahl - Al Minshawi HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=ummyZ0-o-vY",
           "imageUrl": "https://i.ytimg.com/vi/ummyZ0-o-vY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ummyZ0-o-vY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "يرتل بقلب باكي من المصحف المرتل النادر - سورة الإسراء | Surah Al-Isra - Al Minshawi HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=jvlaA3ntmA4",
-          "imageUrl": "https://i.ytimg.com/vi/jvlaA3ntmA4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=jvlaA3ntmA4",
           "videoSource": "youtube",
           "mediaType": "both"
         },

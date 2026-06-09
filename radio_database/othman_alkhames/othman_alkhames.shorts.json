@@ -10,19 +10,19 @@
   "imageUrl": "",
   "items": [
     {
-      "title": "بثوث مباشرة — جديد الشيخ عثمان الخميس",
+      "title": "شورتس — جديد الشيخ عثمان الخميس",
       "subtitle": "يوتيوب",
-      "emoji": "🔴",
+      "emoji": "📱",
       "imageUrl": "",
       "audioUrl": "",
       "subItems": [
         {
-          "title": "بث مباشر/سيره النبي مواقف وعبر / 22 ذي الحجة 1447ه‍",
+          "title": "هل يجوز إكرام الضيف غير المسلم؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=sYtimnnwLj0",
-          "imageUrl": "https://i.ytimg.com/vi/sYtimnnwLj0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=sYtimnnwLj0",
+          "audioUrl": "https://www.youtube.com/watch?v=gEXvNzcMFm4",
+          "imageUrl": "https://i.ytimg.com/vi/gEXvNzcMFm4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=gEXvNzcMFm4",
           "videoSource": "youtube",
           "mediaType": "both"
         }

@@ -35,16 +35,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=Noo-LpCHeAs",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "الحوار بموضوع الأذان",
-          "subtitle": "جديد الدكتور عاصم هيثم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=LXIvHarEE0A",
-          "imageUrl": "https://i.ytimg.com/vi/LXIvHarEE0A/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=LXIvHarEE0A",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
