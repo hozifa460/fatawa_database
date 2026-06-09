@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "الله يحب ..؟",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=y3XoGwa8CIc",
+          "imageUrl": "https://i.ytimg.com/vi/y3XoGwa8CIc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=y3XoGwa8CIc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الكرم يغطي العيوب🤝",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=BKGhLrpnsjE",
           "imageUrl": "https://i.ytimg.com/vi/BKGhLrpnsjE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=BKGhLrpnsjE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "في حاجة لازم نقولهالكم ❤️",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=oXrRNWPBeyo",
-          "imageUrl": "https://i.ytimg.com/vi/oXrRNWPBeyo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=oXrRNWPBeyo",
           "videoSource": "youtube",
           "mediaType": "both"
         }

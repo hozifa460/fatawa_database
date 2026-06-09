@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "بث مباشر/سيره النبي مواقف وعبر /المجلس 4/ 24 ذي الحجة 1447ه‍",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Aceuu3PElUg",
+          "imageUrl": "https://i.ytimg.com/vi/Aceuu3PElUg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Aceuu3PElUg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "بث مباشر/سيره النبي مواقف وعبر /المجلس 3/ 23 ذي الحجة 1447ه‍",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=IzTAAUlEhF0",
           "imageUrl": "https://i.ytimg.com/vi/IzTAAUlEhF0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=IzTAAUlEhF0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "بث مباشر/سيره النبي مواقف وعبر / 22 ذي الحجة 1447ه‍",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=sYtimnnwLj0",
-          "imageUrl": "https://i.ytimg.com/vi/sYtimnnwLj0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=sYtimnnwLj0",
           "videoSource": "youtube",
           "mediaType": "both"
         }

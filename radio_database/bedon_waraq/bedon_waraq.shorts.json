@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما هي فكرة السندات؟ | حمد الماجدي #ترامب #امريكا #اقتصاد #دولار",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KH3R2ArjhgM",
+          "imageUrl": "https://i.ytimg.com/vi/KH3R2ArjhgM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KH3R2ArjhgM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ازدياد الضيق علامة على قرب الانفراج | د. مطلق الجاسر",
           "subtitle": "جديد بودكاست بدون ورق",
           "emoji": "",
@@ -123,16 +133,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=eaKI-cE6mUc",
           "imageUrl": "https://i.ytimg.com/vi/eaKI-cE6mUc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=eaKI-cE6mUc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "قبة الصخرة | د. عبدالله معروف",
-          "subtitle": "جديد بودكاست بدون ورق",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=vzS7HGwnhP4",
-          "imageUrl": "https://i.ytimg.com/vi/vzS7HGwnhP4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vzS7HGwnhP4",
           "videoSource": "youtube",
           "mediaType": "both"
         }
