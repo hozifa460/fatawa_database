@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "سورة البقرة للشيخ ماهر المعيقلي (النسخة الأصلية) Maher Al Muaiqly - Surat Al-Baqarah",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BDqqJNqPtf8",
+          "imageUrl": "https://i.ytimg.com/vi/BDqqJNqPtf8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BDqqJNqPtf8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أرح قلبك وعقلك بهذه التلاوة العذبة بخشوع مهيب من الصوت الباكي | الشيخ محمد صديق المنشاوي HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -63,26 +73,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=XOwt4whGa1Y",
           "imageUrl": "https://i.ytimg.com/vi/XOwt4whGa1Y/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=XOwt4whGa1Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "مناجاة وبكاء المنشاوي لا يقارن .. قرآن يوم الجمعة بطريقة لا مثيل لها ! ستبكي من قلبك",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=w9XfK4NS0AA",
-          "imageUrl": "https://i.ytimg.com/vi/w9XfK4NS0AA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=w9XfK4NS0AA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "مناجاة وبكاء المنشاوي لا يقارن .. قرآن يوم الجمعة بطريقة لا مثيل لها ! ستبكي من قلبك",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=YW3ZnT3JGA4",
-          "imageUrl": "https://i.ytimg.com/vi/YW3ZnT3JGA4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=YW3ZnT3JGA4",
           "videoSource": "youtube",
           "mediaType": "both"
         }

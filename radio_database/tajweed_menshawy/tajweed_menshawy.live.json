@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
-          "imageUrl": "https://i.ytimg.com/vi/CRO1MFR-Lu0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
+          "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
+          "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
           "imageUrl": "https://i.ytimg.com/vi/btqb9llSdCY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
+          "imageUrl": "https://i.ytimg.com/vi/CRO1MFR-Lu0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CRO1MFR-Lu0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
