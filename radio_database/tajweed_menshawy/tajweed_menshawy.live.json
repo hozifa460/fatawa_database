@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "دواء القلوب... أرح قلبك وعقلك بهذه التلاوة العذبة | الشيخ محمد صديق المنشاوي 🎧",
+          "title": "أرح سمعك قليلاً مع الشيخ المنشاوي الباكي المبكي | ناردة تاريخية تأخذك لعالم آخر 💙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
-          "imageUrl": "https://i.ytimg.com/vi/btqb9llSdCY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
+          "audioUrl": "https://www.youtube.com/watch?v=Ggs8oRIL88s",
+          "imageUrl": "https://i.ytimg.com/vi/Ggs8oRIL88s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ggs8oRIL88s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
           "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "دواء القلوب... أرح قلبك وعقلك بهذه التلاوة العذبة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
+          "imageUrl": "https://i.ytimg.com/vi/btqb9llSdCY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -93,16 +103,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=SRE0t-hsdtQ",
           "imageUrl": "https://i.ytimg.com/vi/SRE0t-hsdtQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=SRE0t-hsdtQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=C7CNlR8sHNI",
-          "imageUrl": "https://i.ytimg.com/vi/C7CNlR8sHNI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=C7CNlR8sHNI",
           "videoSource": "youtube",
           "mediaType": "both"
         }

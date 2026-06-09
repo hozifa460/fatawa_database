@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "فيديو محرج #اكسبلور #دويتو",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ot15yH2jvhg",
+          "imageUrl": "https://i.ytimg.com/vi/Ot15yH2jvhg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ot15yH2jvhg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ربنا يبارك في كل ست بيت",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
@@ -123,16 +133,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=1hUc_ECD4g8",
           "imageUrl": "https://i.ytimg.com/vi/1hUc_ECD4g8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=1hUc_ECD4g8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "دخل صحابه دين غير الإسلام بالغلط",
-          "subtitle": "جديد الشيخ علاء ابراهيم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=D3rf7j9wLd4",
-          "imageUrl": "https://i.ytimg.com/vi/D3rf7j9wLd4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=D3rf7j9wLd4",
           "videoSource": "youtube",
           "mediaType": "both"
         }
