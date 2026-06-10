@@ -55,16 +55,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=6nvBxPLCEj0",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "حوار بين مسلم ودرزي لبناني",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=vjNaN482hfk",
-          "imageUrl": "https://i.ytimg.com/vi/vjNaN482hfk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vjNaN482hfk",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }

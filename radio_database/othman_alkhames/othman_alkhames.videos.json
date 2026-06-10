@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "5250- الفرق بين المحرَّمات من النساء على الأبد والمحرَّمات إلى أمد - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=X1Vlk0ZLfKo",
+          "imageUrl": "https://i.ytimg.com/vi/X1Vlk0ZLfKo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=X1Vlk0ZLfKo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5249- حكم تزويج المرأةَ بغير كُفءٍ بغير رضاها - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PxjQVGIk7C0",
+          "imageUrl": "https://i.ytimg.com/vi/PxjQVGIk7C0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PxjQVGIk7C0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "5248- حكم اشتراط الكفاءة في النسب بين الزوجين - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -93,16 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Lnbz9GE8VS4",
           "imageUrl": "https://i.ytimg.com/vi/Lnbz9GE8VS4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Lnbz9GE8VS4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5240- هل الكفاءة في الدين شرطٌ لصحة النكاح؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PDkjHO4OoIo",
-          "imageUrl": "https://i.ytimg.com/vi/PDkjHO4OoIo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PDkjHO4OoIo",
           "videoSource": "youtube",
           "mediaType": "both"
         }
