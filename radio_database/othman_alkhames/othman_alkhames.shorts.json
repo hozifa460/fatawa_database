@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حكم رفع اليدين قبل ركوع الإمام - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7LcFrvU6qio",
+          "imageUrl": "https://i.ytimg.com/vi/7LcFrvU6qio/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7LcFrvU6qio",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما الحل لمن يأتيه الوسواس في الصلاة؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -43,26 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=EQhD0kiA3z4",
           "imageUrl": "https://i.ytimg.com/vi/EQhD0kiA3z4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=EQhD0kiA3z4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "ما المدة المناسبة بين العمرتين؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=oJYSO9dUkIg",
-          "imageUrl": "https://i.ytimg.com/vi/oJYSO9dUkIg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=oJYSO9dUkIg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "ما المقصودُ بأنّ صيام يوم عرفة يُكفِّرُ السَّنَة التي قبله والسَّنَة التي بعده؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=6zIPW_km460",
-          "imageUrl": "https://i.ytimg.com/vi/6zIPW_km460/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=6zIPW_km460",
           "videoSource": "youtube",
           "mediaType": "both"
         }

@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "لماذا تختلف مدة الطيران في الذهاب و العودة؟ | كابتن فراس مال الله",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LK0klLFuwCI",
+          "imageUrl": "https://i.ytimg.com/vi/LK0klLFuwCI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LK0klLFuwCI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما هي فكرة السندات؟ | حمد الماجدي #ترامب #امريكا #اقتصاد #دولار",
           "subtitle": "جديد بودكاست بدون ورق",
           "emoji": "",
@@ -123,16 +133,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=mzAyS0OtWws",
           "imageUrl": "https://i.ytimg.com/vi/mzAyS0OtWws/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=mzAyS0OtWws",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "‎لماذا يُطلَق على بني إسرائيل لقب «أبناء العم»؟ | د. عبدالله معروف",
-          "subtitle": "جديد بودكاست بدون ورق",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=eaKI-cE6mUc",
-          "imageUrl": "https://i.ytimg.com/vi/eaKI-cE6mUc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=eaKI-cE6mUc",
           "videoSource": "youtube",
           "mediaType": "both"
         }

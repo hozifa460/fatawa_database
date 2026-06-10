@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "5246- هل الرجل الفقير كُفءٌ للمرأة الغنية؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KNgK3VAnXdk",
+          "imageUrl": "https://i.ytimg.com/vi/KNgK3VAnXdk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KNgK3VAnXdk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5245- حكم اشتراط الكفاءة في الصناعة والحرفة بين الزوجين - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0zo4Jscj9cs",
+          "imageUrl": "https://i.ytimg.com/vi/0zo4Jscj9cs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0zo4Jscj9cs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5244- هل الكفاءة في الدين بين الزوجين معتبرة؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=S2XJOCEeQYE",
+          "imageUrl": "https://i.ytimg.com/vi/S2XJOCEeQYE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=S2XJOCEeQYE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "5243- الكفاءة بين الزوجين معتبرة في خمسة أشياء - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -83,26 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=tHK5XTmM1yQ",
           "imageUrl": "https://i.ytimg.com/vi/tHK5XTmM1yQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=tHK5XTmM1yQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5236- حكم هجر القريب الملحد إذا تعذّرت دعوته - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=OCeahZzxIos",
-          "imageUrl": "https://i.ytimg.com/vi/OCeahZzxIos/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=OCeahZzxIos",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5235- كيف يتعامل المرء مع أخيه الذي لا يصلّي؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=5Bnqsv-8hWw",
-          "imageUrl": "https://i.ytimg.com/vi/5Bnqsv-8hWw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=5Bnqsv-8hWw",
           "videoSource": "youtube",
           "mediaType": "both"
         }
