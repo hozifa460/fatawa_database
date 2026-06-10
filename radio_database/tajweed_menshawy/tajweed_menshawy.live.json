@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
-          "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أرح سمعك قليلاً مع الشيخ المنشاوي الباكي المبكي | ناردة تاريخية تأخذك لعالم آخر 💙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=Ggs8oRIL88s",
           "imageUrl": "https://i.ytimg.com/vi/Ggs8oRIL88s/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Ggs8oRIL88s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
+          "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
