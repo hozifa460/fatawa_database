@@ -25,16 +25,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=9xagpq5F-lc",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "مجرد تجربة",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=3PvWj1C3f4g",
-          "imageUrl": "https://i.ytimg.com/vi/3PvWj1C3f4g/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=3PvWj1C3f4g",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
