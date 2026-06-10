@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "5248- حكم اشتراط الكفاءة في النسب بين الزوجين - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Fh3Ro2ZnGn0",
+          "imageUrl": "https://i.ytimg.com/vi/Fh3Ro2ZnGn0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Fh3Ro2ZnGn0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "5247- حكم اشتراط الكفاءة في الحرية بين الزوجين - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zm_6WsL7OH8",
+          "imageUrl": "https://i.ytimg.com/vi/zm_6WsL7OH8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zm_6WsL7OH8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "5246- هل الرجل الفقير كُفءٌ للمرأة الغنية؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -83,36 +103,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=PDkjHO4OoIo",
           "imageUrl": "https://i.ytimg.com/vi/PDkjHO4OoIo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=PDkjHO4OoIo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5239- الكفاءَةُ في النِّكاح - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KdfnpflWxTg",
-          "imageUrl": "https://i.ytimg.com/vi/KdfnpflWxTg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KdfnpflWxTg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5238- ما معنى اسم «إبراهيم»؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Q0Vik_ZhxqU",
-          "imageUrl": "https://i.ytimg.com/vi/Q0Vik_ZhxqU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Q0Vik_ZhxqU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "5237- حكم الذبح للقبور ودعاء الأموات - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=tHK5XTmM1yQ",
-          "imageUrl": "https://i.ytimg.com/vi/tHK5XTmM1yQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tHK5XTmM1yQ",
           "videoSource": "youtube",
           "mediaType": "both"
         }

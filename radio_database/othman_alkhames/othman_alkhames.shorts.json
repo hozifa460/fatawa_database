@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "هل يجوز الحج بقرض من البنك؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=y-LgVYS1hLY",
+          "imageUrl": "https://i.ytimg.com/vi/y-LgVYS1hLY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=y-LgVYS1hLY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اشتريت ذهباً وسيارة للوالدة فإذا توفيت هل ترجع لي أو للورثة؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dJ1eUwvMO_U",
+          "imageUrl": "https://i.ytimg.com/vi/dJ1eUwvMO_U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dJ1eUwvMO_U",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "حكم رفع اليدين قبل ركوع الإمام - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -43,16 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=5xXaxR4gB8k",
           "imageUrl": "https://i.ytimg.com/vi/5xXaxR4gB8k/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=5xXaxR4gB8k",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "هل يجوز أن يقنت أكثر من مرة في نفس الليلة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=EQhD0kiA3z4",
-          "imageUrl": "https://i.ytimg.com/vi/EQhD0kiA3z4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=EQhD0kiA3z4",
           "videoSource": "youtube",
           "mediaType": "both"
         }
