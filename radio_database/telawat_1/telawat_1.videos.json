@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "لن يتحمل قلبك جمال ترتيل المنشاوي من المصحف المرتل النادر - سورة طه | Surah Taha - Al Minshawi HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=qg0I6FTYJ08",
-          "imageUrl": "https://i.ytimg.com/vi/qg0I6FTYJ08/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qg0I6FTYJ08",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "يرتل بقلب باكي من المصحف المرتل النادر - سورة الأنبياء | Surah Al-Anbya - Al Minshawi HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=2B01eMmxiZo",
           "imageUrl": "https://i.ytimg.com/vi/2B01eMmxiZo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=2B01eMmxiZo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لن يتحمل قلبك جمال ترتيل المنشاوي من المصحف المرتل النادر - سورة طه | Surah Taha - Al Minshawi HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qg0I6FTYJ08",
+          "imageUrl": "https://i.ytimg.com/vi/qg0I6FTYJ08/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qg0I6FTYJ08",
           "videoSource": "youtube",
           "mediaType": "both"
         },

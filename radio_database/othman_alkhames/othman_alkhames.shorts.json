@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما الحل لمن يأتيه الوسواس في الصلاة؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=6Dde52w3PSQ",
+          "imageUrl": "https://i.ytimg.com/vi/6Dde52w3PSQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6Dde52w3PSQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حكم مسابقات أجمل خيل - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5xXaxR4gB8k",
+          "imageUrl": "https://i.ytimg.com/vi/5xXaxR4gB8k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5xXaxR4gB8k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "هل يجوز أن يقنت أكثر من مرة في نفس الليلة؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -43,26 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=6zIPW_km460",
           "imageUrl": "https://i.ytimg.com/vi/6zIPW_km460/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=6zIPW_km460",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "ماذا يفعل إذا كان معه في العمل نساء؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=_upDqcIAy0c",
-          "imageUrl": "https://i.ytimg.com/vi/_upDqcIAy0c/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=_upDqcIAy0c",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "كيف يُرَدُّ على مَن يقول بأنّ كلامَ اللهِ نَفْسيّ؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ffxA1ST2dCM",
-          "imageUrl": "https://i.ytimg.com/vi/ffxA1ST2dCM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ffxA1ST2dCM",
           "videoSource": "youtube",
           "mediaType": "both"
         }
