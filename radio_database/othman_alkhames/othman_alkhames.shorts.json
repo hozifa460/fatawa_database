@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "هل ذكرت آية الرجم في التوراة؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=blh1FxcLLns",
+          "imageUrl": "https://i.ytimg.com/vi/blh1FxcLLns/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=blh1FxcLLns",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كثير من الناس قد نسي المِنَّة العظيمة مِن الله تعالى علينا وهي اللغة العربية - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8WpqRJ8lTnA",
+          "imageUrl": "https://i.ytimg.com/vi/8WpqRJ8lTnA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8WpqRJ8lTnA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "مكانة اللغة العربية ومنزلتها - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -43,26 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=LDbk4XlEJMg",
           "imageUrl": "https://i.ytimg.com/vi/LDbk4XlEJMg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=LDbk4XlEJMg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "حديث “أنفق بلال، ولا تخْشَ من ذي العرش إقلالاً” - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=67N0uNMKbjY",
-          "imageUrl": "https://i.ytimg.com/vi/67N0uNMKbjY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=67N0uNMKbjY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "هل تجب الصلاة على مريض الزهايمر؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=VoxryH0uVOI",
-          "imageUrl": "https://i.ytimg.com/vi/VoxryH0uVOI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=VoxryH0uVOI",
           "videoSource": "youtube",
           "mediaType": "both"
         }
