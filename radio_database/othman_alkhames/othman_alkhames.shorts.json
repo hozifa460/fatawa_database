@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حكم الصلاة خلف من يستحل ويسمع الغناء - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KBpKJoAU4fM",
+          "imageUrl": "https://i.ytimg.com/vi/KBpKJoAU4fM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KBpKJoAU4fM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "عذاب الآخرة أشقُّ من عذاب الدنيا من أربعة أوجه - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -33,26 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=blh1FxcLLns",
           "imageUrl": "https://i.ytimg.com/vi/blh1FxcLLns/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=blh1FxcLLns",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "كثير من الناس قد نسي المِنَّة العظيمة مِن الله تعالى علينا وهي اللغة العربية - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=8WpqRJ8lTnA",
-          "imageUrl": "https://i.ytimg.com/vi/8WpqRJ8lTnA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=8WpqRJ8lTnA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "مكانة اللغة العربية ومنزلتها - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=eEydbp10eZI",
-          "imageUrl": "https://i.ytimg.com/vi/eEydbp10eZI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=eEydbp10eZI",
           "videoSource": "youtube",
           "mediaType": "both"
         }

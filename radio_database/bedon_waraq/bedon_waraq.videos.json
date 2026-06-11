@@ -35,16 +35,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=iHNhtsSKZQY",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "أسرار عالم الطيران | فراس مال الله | بودكاست بدون ورق",
-          "subtitle": "جديد بودكاست بدون ورق",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=WLjNDN0V9R8",
-          "imageUrl": "https://i.ytimg.com/vi/WLjNDN0V9R8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=WLjNDN0V9R8",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }

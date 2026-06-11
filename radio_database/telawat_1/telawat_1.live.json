@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة أحبها الملايين تهدئ الروح وتشرح الصدر للشيخ عبدالباسط عبدالصمد - سورة الواقعة والضحي والشرح HD",
+          "title": "Surat Al Khaf Maher Al Muaiqly (النسخة الأصلية) سورة الكهف بصوت الشيخ ماهر المعيقلي",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=brni2N1fG6Y",
-          "imageUrl": "https://i.ytimg.com/vi/brni2N1fG6Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=brni2N1fG6Y",
+          "audioUrl": "https://www.youtube.com/watch?v=PhuLalCeduE",
+          "imageUrl": "https://i.ytimg.com/vi/PhuLalCeduE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PhuLalCeduE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=AxyKRet2Qy8",
           "imageUrl": "https://i.ytimg.com/vi/AxyKRet2Qy8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=AxyKRet2Qy8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة أحبها الملايين تهدئ الروح وتشرح الصدر للشيخ عبدالباسط عبدالصمد - سورة الواقعة والضحي والشرح HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=brni2N1fG6Y",
+          "imageUrl": "https://i.ytimg.com/vi/brni2N1fG6Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=brni2N1fG6Y",
           "videoSource": "youtube",
           "mediaType": "both"
         },
