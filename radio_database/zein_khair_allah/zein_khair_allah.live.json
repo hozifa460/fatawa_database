@@ -115,16 +115,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=1XbMJKo3z8o",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "اتصالات المسلمين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Aj4fOZbew4E",
-          "imageUrl": "https://i.ytimg.com/vi/Aj4fOZbew4E/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Aj4fOZbew4E",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
