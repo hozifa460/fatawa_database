@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "نصراني يسأل لماذا الموسيقى حرام ؟ شاهد الجواب ",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Afd5HU2ViuY",
+          "imageUrl": "https://i.ytimg.com/vi/Afd5HU2ViuY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Afd5HU2ViuY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "شاب نصراني قريب من الإسلام والحوار الذي أعجب الجميع ج1",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -53,16 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=iWToH9ffDsk",
           "imageUrl": "https://i.ytimg.com/vi/iWToH9ffDsk/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=iWToH9ffDsk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سؤال لم يخطر ببال النصارى ",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=6nvBxPLCEj0",
-          "imageUrl": "https://i.ytimg.com/vi/6nvBxPLCEj0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=6nvBxPLCEj0",
           "videoSource": "youtube",
           "mediaType": "both"
         }

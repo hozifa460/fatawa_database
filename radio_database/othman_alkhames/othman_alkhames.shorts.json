@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما أفضل كتب التفسير؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BCTWToEBCgU",
+          "imageUrl": "https://i.ytimg.com/vi/BCTWToEBCgU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BCTWToEBCgU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "حكم الصلاة خلف من يستحل ويسمع الغناء - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=AB77i2WKd_A",
           "imageUrl": "https://i.ytimg.com/vi/AB77i2WKd_A/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=AB77i2WKd_A",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "هل ذكرت آية الرجم في التوراة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=blh1FxcLLns",
-          "imageUrl": "https://i.ytimg.com/vi/blh1FxcLLns/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=blh1FxcLLns",
           "videoSource": "youtube",
           "mediaType": "both"
         }
