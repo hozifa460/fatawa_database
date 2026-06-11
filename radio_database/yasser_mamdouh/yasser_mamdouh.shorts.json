@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "واصبر نفسك #نفهم_الآية_صح",
+          "subtitle": "جديد ياسر ممدوح",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WUMm8sHecZ0",
+          "imageUrl": "https://i.ytimg.com/vi/WUMm8sHecZ0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WUMm8sHecZ0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "غششني شكرًا!!! #فيديو_الجمعة_ياسر_ممدوح",
           "subtitle": "جديد ياسر ممدوح",
           "emoji": "",
@@ -143,16 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=HLIJiS8iI9A",
           "imageUrl": "https://i.ytimg.com/vi/HLIJiS8iI9A/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HLIJiS8iI9A",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "صلاة المنافق !!",
-          "subtitle": "جديد ياسر ممدوح",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KH5xdjZIJss",
-          "imageUrl": "https://i.ytimg.com/vi/KH5xdjZIJss/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KH5xdjZIJss",
           "videoSource": "youtube",
           "mediaType": "both"
         }
