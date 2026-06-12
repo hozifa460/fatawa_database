@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "قصّة الحافظ ابن حجر العسقلاني رحمه الله مع اليهودي الفقير - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=4zoLsfYWmVY",
+          "imageUrl": "https://i.ytimg.com/vi/4zoLsfYWmVY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4zoLsfYWmVY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما أفضل كتب التفسير؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=KBpKJoAU4fM",
           "imageUrl": "https://i.ytimg.com/vi/KBpKJoAU4fM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KBpKJoAU4fM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "عذاب الآخرة أشقُّ من عذاب الدنيا من أربعة أوجه - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=AB77i2WKd_A",
-          "imageUrl": "https://i.ytimg.com/vi/AB77i2WKd_A/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=AB77i2WKd_A",
           "videoSource": "youtube",
           "mediaType": "both"
         }
