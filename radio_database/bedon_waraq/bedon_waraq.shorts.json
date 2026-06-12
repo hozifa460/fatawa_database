@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "كيف ينصر الإسلام الضعفاء؟ | وحدان العلي",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KVLJVfKx6Qg",
+          "imageUrl": "https://i.ytimg.com/vi/KVLJVfKx6Qg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KVLJVfKx6Qg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "كيف تنظر إيران إلى العرب؟ | د. عبدالله النفيسي #النفيسي #إيران",
           "subtitle": "جديد بودكاست بدون ورق",
           "emoji": "",
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=tGvH5wqGY4E",
           "imageUrl": "https://i.ytimg.com/vi/tGvH5wqGY4E/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=tGvH5wqGY4E",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "المطبات الجويّة | كابتن فراس مال الله",
-          "subtitle": "جديد بودكاست بدون ورق",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mzAyS0OtWws",
-          "imageUrl": "https://i.ytimg.com/vi/mzAyS0OtWws/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mzAyS0OtWws",
           "videoSource": "youtube",
           "mediaType": "both"
         }

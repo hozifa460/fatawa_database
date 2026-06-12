@@ -95,16 +95,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=Bg_9qVCwCqw",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "بدأت قناة \"عاصم هيثم اشكنتنا\" بثًا مباشرًا",
-          "subtitle": "جديد الدكتور عاصم هيثم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=d4yqjtKoqBo",
-          "imageUrl": "https://i.ytimg.com/vi/d4yqjtKoqBo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=d4yqjtKoqBo",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
