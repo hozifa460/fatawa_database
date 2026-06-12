@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "إذا أصابتك المصائب..! كيف تعلم أنك مبتلى أم معاقب؟",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=QXdPymog4lc",
+          "imageUrl": "https://i.ytimg.com/vi/QXdPymog4lc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QXdPymog4lc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "آية واحدة لعلاج الخوف وضيق الصدر ومشاكل الرزق والنفس",
           "subtitle": "جديد عبد الدائم كحيل",
           "emoji": "",
@@ -73,16 +83,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=XyQpd40nOMA",
           "imageUrl": "https://i.ytimg.com/vi/XyQpd40nOMA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=XyQpd40nOMA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "دعاء ينجيك من 4 أمور خطيرة جداً.. لا تغفل عنه",
-          "subtitle": "جديد عبد الدائم كحيل",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=rIf03o2Q09A",
-          "imageUrl": "https://i.ytimg.com/vi/rIf03o2Q09A/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=rIf03o2Q09A",
           "videoSource": "youtube",
           "mediaType": "both"
         }
