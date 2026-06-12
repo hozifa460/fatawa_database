@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "الله تعالى يُمهل ولا يُهمل - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vrqmEdJ_rhs",
+          "imageUrl": "https://i.ytimg.com/vi/vrqmEdJ_rhs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vrqmEdJ_rhs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "قصّة الحافظ ابن حجر العسقلاني رحمه الله مع اليهودي الفقير - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=BCTWToEBCgU",
           "imageUrl": "https://i.ytimg.com/vi/BCTWToEBCgU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=BCTWToEBCgU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "حكم الصلاة خلف من يستحل ويسمع الغناء - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KBpKJoAU4fM",
-          "imageUrl": "https://i.ytimg.com/vi/KBpKJoAU4fM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KBpKJoAU4fM",
           "videoSource": "youtube",
           "mediaType": "both"
         }

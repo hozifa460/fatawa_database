@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "لزيادة الرزق و البركة بتلاوة عذبة تريح القلب للشيخ ماهر المعيقلي من سورة يس والواقعة والرحمن والملك",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=X4O9UyEGXgY",
+          "imageUrl": "https://i.ytimg.com/vi/X4O9UyEGXgY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=X4O9UyEGXgY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "Surat Al Khaf Maher Al Muaiqly | سورة الكهف بصوت الشيخ ماهر المعيقلي",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=jvlaA3ntmA4",
           "imageUrl": "https://i.ytimg.com/vi/jvlaA3ntmA4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=jvlaA3ntmA4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "الفريد العجيب يرتل بقلب باكي من المصحف المرتل النادر - سورة النحل | Surah An-Nahl - Al Minshawi HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=aqIz6gPa7QA",
-          "imageUrl": "https://i.ytimg.com/vi/aqIz6gPa7QA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=aqIz6gPa7QA",
           "videoSource": "youtube",
           "mediaType": "both"
         }
