@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الجواهر الخالدة ✦ المقطع الذي يبحث عنه عشاق التلاوات النادرة | الشيخ محمد صديق المنشاوي 💙",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
-          "imageUrl": "https://i.ytimg.com/vi/HShibFN_AXE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "قرآن الفجر بصوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
           "imageUrl": "https://i.ytimg.com/vi/LD5vW2ci3MM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الجواهر الخالدة ✦ المقطع الذي يبحث عنه عشاق التلاوات النادرة | الشيخ محمد صديق المنشاوي 💙",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
+          "imageUrl": "https://i.ytimg.com/vi/HShibFN_AXE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
           "videoSource": "youtube",
           "mediaType": "both"
         },

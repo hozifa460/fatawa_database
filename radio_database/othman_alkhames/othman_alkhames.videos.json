@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "213- حكم تحويل صيام الحِمية إلى صيام تطوُّع - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HA1YqFscM9Y",
+          "imageUrl": "https://i.ytimg.com/vi/HA1YqFscM9Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HA1YqFscM9Y",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "212- حكم استغلال الموظَّف معلوماتِ عمله لشراء الأسهم قبل إعلانها - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JD6yO4ignHw",
+          "imageUrl": "https://i.ytimg.com/vi/JD6yO4ignHw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JD6yO4ignHw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "211- المقصود بقوله تعالى:( فاقرؤوا ما تيسّر منه ) - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,26 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=niA685-k9js",
           "imageUrl": "https://i.ytimg.com/vi/niA685-k9js/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=niA685-k9js",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "199- المقصود بالكفاءة في الزواج - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dfCzNmQI-HA",
-          "imageUrl": "https://i.ytimg.com/vi/dfCzNmQI-HA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dfCzNmQI-HA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "198- مكانة الصلاة وخطر التهاون بها - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=HbsqgQU2Z0Q",
-          "imageUrl": "https://i.ytimg.com/vi/HbsqgQU2Z0Q/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=HbsqgQU2Z0Q",
           "videoSource": "youtube",
           "mediaType": "both"
         }
