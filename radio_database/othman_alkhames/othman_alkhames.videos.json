@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "208- هل يُشرع للحاج صيام يوم عرفة؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=oiUkqvXTBQg",
+          "imageUrl": "https://i.ytimg.com/vi/oiUkqvXTBQg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=oiUkqvXTBQg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "207- فضل العمل الصالح في العشر الأُوَل من ذي الحجة - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=NaZm0_nE9WY",
+          "imageUrl": "https://i.ytimg.com/vi/NaZm0_nE9WY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NaZm0_nE9WY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "206- حكم تحويل النسك من القِران إلى الإفراد - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vXmSBLfvnS0",
+          "imageUrl": "https://i.ytimg.com/vi/vXmSBLfvnS0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vXmSBLfvnS0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "205- هل فضل الجلوس بعد الفجر إلى الشروق يشمل المرأة في بيتها؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -123,36 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=mZVreUy9QwE",
           "imageUrl": "https://i.ytimg.com/vi/mZVreUy9QwE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=mZVreUy9QwE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "194- هل يعظُم أجر الطواف كلما اقترب الطائف من الكعبة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=f0WJWKH-sxo",
-          "imageUrl": "https://i.ytimg.com/vi/f0WJWKH-sxo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=f0WJWKH-sxo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "193- هل أجر حج الفريضة كأجر حج النافلة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=MDrhz1VDilU",
-          "imageUrl": "https://i.ytimg.com/vi/MDrhz1VDilU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=MDrhz1VDilU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "192- هل يُؤجَر المريض مرضًا مزمنًا على مجاهدته نفسَه لحضور صلاة الجماعة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=5mrgKoR2bDk",
-          "imageUrl": "https://i.ytimg.com/vi/5mrgKoR2bDk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=5mrgKoR2bDk",
           "videoSource": "youtube",
           "mediaType": "both"
         }
