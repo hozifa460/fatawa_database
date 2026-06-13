@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jnjQAvXWQA4",
+          "imageUrl": "https://i.ytimg.com/vi/jnjQAvXWQA4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jnjQAvXWQA4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "لقاء مع الشيخ أبي مالك وحديث عن أهل السنة والجماعة",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -103,16 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=q4h6AgjgFSA",
           "imageUrl": "https://i.ytimg.com/vi/q4h6AgjgFSA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=q4h6AgjgFSA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "اتصالات المسلمين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=OR1DZ4ugwgY",
-          "imageUrl": "https://i.ytimg.com/vi/OR1DZ4ugwgY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=OR1DZ4ugwgY",
           "videoSource": "youtube",
           "mediaType": "both"
         }

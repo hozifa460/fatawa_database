@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الفجر بصوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
-          "imageUrl": "https://i.ytimg.com/vi/LD5vW2ci3MM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
+          "audioUrl": "https://www.youtube.com/watch?v=dhEA_CqJn04",
+          "imageUrl": "https://i.ytimg.com/vi/dhEA_CqJn04/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dhEA_CqJn04",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
           "imageUrl": "https://i.ytimg.com/vi/HShibFN_AXE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الفجر بصوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
+          "imageUrl": "https://i.ytimg.com/vi/LD5vW2ci3MM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -53,26 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Ggs8oRIL88s",
           "imageUrl": "https://i.ytimg.com/vi/Ggs8oRIL88s/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Ggs8oRIL88s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
-          "imageUrl": "https://i.ytimg.com/vi/2OecWd-26sI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2OecWd-26sI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "دواء القلوب... أرح قلبك وعقلك بهذه التلاوة العذبة | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
-          "imageUrl": "https://i.ytimg.com/vi/btqb9llSdCY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=btqb9llSdCY",
           "videoSource": "youtube",
           "mediaType": "both"
         }
