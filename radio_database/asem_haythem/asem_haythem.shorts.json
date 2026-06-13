@@ -45,16 +45,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=CN_iJXnyCUk",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "أهل السنة",
-          "subtitle": "جديد الدكتور عاصم هيثم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=5_9UqsJIB8A",
-          "imageUrl": "https://i.ytimg.com/vi/5_9UqsJIB8A/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=5_9UqsJIB8A",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }

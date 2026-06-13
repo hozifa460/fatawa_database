@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "صوت أسطوري يهدئ الروح ويشرح الصدر | الشيخ المنشاوي من سورة الحديد | جودة فائفة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JkcXr9Xmqpw",
+          "imageUrl": "https://i.ytimg.com/vi/JkcXr9Xmqpw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JkcXr9Xmqpw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أجمل تلاوة بالأداء الباكي | سورة مريم كاملة - surah maryam | الشيخ محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -43,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=hpJDY9f1svk",
           "imageUrl": "https://i.ytimg.com/vi/hpJDY9f1svk/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=hpJDY9f1svk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أجمل نهاوند ستسمعه في حياتك | راحة وسكينة للقلب | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=G87xurtPv60",
-          "imageUrl": "https://i.ytimg.com/vi/G87xurtPv60/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=G87xurtPv60",
           "videoSource": "youtube",
           "mediaType": "both"
         }
