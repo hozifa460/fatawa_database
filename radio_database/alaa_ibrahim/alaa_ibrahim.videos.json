@@ -25,16 +25,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=F8gsakV-AOU",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "التعليق على فيلم برشامة",
-          "subtitle": "جديد الشيخ علاء ابراهيم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=7_hLLo4A0TM",
-          "imageUrl": "https://i.ytimg.com/vi/7_hLLo4A0TM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=7_hLLo4A0TM",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
