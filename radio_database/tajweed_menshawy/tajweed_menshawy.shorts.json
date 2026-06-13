@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "( ونريد أن نمن على الذين استضعفوا ) | سورة القصص | محمد صديق#المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=i_CijNoXwnw",
+          "imageUrl": "https://i.ytimg.com/vi/i_CijNoXwnw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=i_CijNoXwnw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "( ومن الناس من يعبد الله على حرف ) | سورة الحج محمد صديق #المنشاوي #قرآن",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -53,16 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=OYJ1K_mqWwY",
           "imageUrl": "https://i.ytimg.com/vi/OYJ1K_mqWwY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=OYJ1K_mqWwY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "كل من عليها فان | من سورة الرحمن | محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=yK6ZK95kmWQ",
-          "imageUrl": "https://i.ytimg.com/vi/yK6ZK95kmWQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=yK6ZK95kmWQ",
           "videoSource": "youtube",
           "mediaType": "both"
         }

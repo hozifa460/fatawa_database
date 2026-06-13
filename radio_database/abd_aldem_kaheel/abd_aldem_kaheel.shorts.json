@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "سبحان الله! سمكة الشبح ذات الأنف الطويل.. معجزة الله في المخلوقات",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cxRC4bbuLKg",
+          "imageUrl": "https://i.ytimg.com/vi/cxRC4bbuLKg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cxRC4bbuLKg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "سر مذهل في عدد ركعات الصلاة وعلاقتها العجيبة بالأذان",
           "subtitle": "جديد عبد الدائم كحيل",
           "emoji": "",
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=RJtL3qFF0n0",
           "imageUrl": "https://i.ytimg.com/vi/RJtL3qFF0n0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=RJtL3qFF0n0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "حقيقة الأبراج.. هل تحدث القرآن عنها؟ أم هي مجرد خرافات؟",
-          "subtitle": "جديد عبد الدائم كحيل",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=AWAmCU4D6IE",
-          "imageUrl": "https://i.ytimg.com/vi/AWAmCU4D6IE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=AWAmCU4D6IE",
           "videoSource": "youtube",
           "mediaType": "both"
         }
