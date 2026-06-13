@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "215- حكم القنوت في صلاة الفجر دائمًا - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_Be7wznFzWo",
+          "imageUrl": "https://i.ytimg.com/vi/_Be7wznFzWo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_Be7wznFzWo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "214- حكم نذر المعاوضة وحكم الوفاء به - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WqPF4OQE360",
+          "imageUrl": "https://i.ytimg.com/vi/WqPF4OQE360/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WqPF4OQE360",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "213- حكم تحويل صيام الحِمية إلى صيام تطوُّع - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,26 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=3i6oYXyl2V4",
           "imageUrl": "https://i.ytimg.com/vi/3i6oYXyl2V4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=3i6oYXyl2V4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "201- كيفية المسح في الوضوء بعد عملية زراعة الشعر - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wLu4QJ9oxh4",
-          "imageUrl": "https://i.ytimg.com/vi/wLu4QJ9oxh4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wLu4QJ9oxh4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "200- بيان ضعف حديث: «إذا جاءكم من ترضون دينه وخلقه فزوِّجوه» - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=niA685-k9js",
-          "imageUrl": "https://i.ytimg.com/vi/niA685-k9js/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=niA685-k9js",
           "videoSource": "youtube",
           "mediaType": "both"
         }
