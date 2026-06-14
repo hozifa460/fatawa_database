@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "دعاء لا غنى عنه.. فيه الخير في الدين والدنيا والرزق ويزيد الخير",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wL6GkRZ1uqA",
+          "imageUrl": "https://i.ytimg.com/vi/wL6GkRZ1uqA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wL6GkRZ1uqA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "سبحان الله! سمكة الشبح ذات الأنف الطويل.. معجزة الله في المخلوقات",
           "subtitle": "جديد عبد الدائم كحيل",
           "emoji": "",
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=WlxAgnRerOE",
           "imageUrl": "https://i.ytimg.com/vi/WlxAgnRerOE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=WlxAgnRerOE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "دعاء مهم كان النبي ﷺ يقوله قبل النوم.. احفظه الآن!",
-          "subtitle": "جديد عبد الدائم كحيل",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=RJtL3qFF0n0",
-          "imageUrl": "https://i.ytimg.com/vi/RJtL3qFF0n0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=RJtL3qFF0n0",
           "videoSource": "youtube",
           "mediaType": "both"
         }
