@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "سورة البقرة للشيخ ماهر المعيقلي (النسخة الأصلية) Maher Al Muaiqly - Surat Al-Baqarah",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kIuAxCG1Sfk",
+          "imageUrl": "https://i.ytimg.com/vi/kIuAxCG1Sfk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kIuAxCG1Sfk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لزيادة الرزق و البركة باذن الله ! سورة يس والواقعة والرحمن والملك للشيخ ماهر المعيقلي (جودة عالية)",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Hs4jE-f8Jhk",
+          "imageUrl": "https://i.ytimg.com/vi/Hs4jE-f8Jhk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Hs4jE-f8Jhk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "سورة البقرة لحفظ وتحصين المنزل من الحسد للشيخ ماهر المعيقلي - Maher Al Muaiqly - Surat Al-Baqarah",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -73,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=rUJs19VL_S4",
           "imageUrl": "https://i.ytimg.com/vi/rUJs19VL_S4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=rUJs19VL_S4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سورة البقرة للشيخ ماهر المعيقلي (النسخة الأصلية) Maher Al Muaiqly - Surat Al-Baqarah",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=TQ-r8SqnOkw",
-          "imageUrl": "https://i.ytimg.com/vi/TQ-r8SqnOkw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=TQ-r8SqnOkw",
           "videoSource": "youtube",
           "mediaType": "both"
         }

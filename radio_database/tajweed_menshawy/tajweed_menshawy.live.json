@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dhEA_CqJn04",
-          "imageUrl": "https://i.ytimg.com/vi/dhEA_CqJn04/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dhEA_CqJn04",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الجواهر الخالدة ✦ المقطع الذي يبحث عنه عشاق التلاوات النادرة | الشيخ محمد صديق المنشاوي 💙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
           "imageUrl": "https://i.ytimg.com/vi/HShibFN_AXE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dhEA_CqJn04",
+          "imageUrl": "https://i.ytimg.com/vi/dhEA_CqJn04/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dhEA_CqJn04",
           "videoSource": "youtube",
           "mediaType": "both"
         },
