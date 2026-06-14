@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "و إذ أوحيت إلى الحواريين  #نفهم_الآية_صح",
+          "subtitle": "جديد ياسر ممدوح",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=eeqvwa-gHB0",
+          "imageUrl": "https://i.ytimg.com/vi/eeqvwa-gHB0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eeqvwa-gHB0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "واصبر نفسك #نفهم_الآية_صح",
           "subtitle": "جديد ياسر ممدوح",
           "emoji": "",
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=iKdlJIKVaVo",
           "imageUrl": "https://i.ytimg.com/vi/iKdlJIKVaVo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=iKdlJIKVaVo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "و يدع الإنسان بالشر دعاءه بالخير! #نفهم_الآية_صح",
-          "subtitle": "جديد ياسر ممدوح",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Zmf2x9uCGJI",
-          "imageUrl": "https://i.ytimg.com/vi/Zmf2x9uCGJI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Zmf2x9uCGJI",
           "videoSource": "youtube",
           "mediaType": "both"
         }
