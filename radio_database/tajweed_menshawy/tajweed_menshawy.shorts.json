@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "( فاستجاب لهم ربهم  ) من سورة آل عمران | محمد صديق #المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HsRysG07StY",
+          "imageUrl": "https://i.ytimg.com/vi/HsRysG07StY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HsRysG07StY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "( إذا رجت الأرض رجا )  | من سورة الواقعة | محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -63,16 +73,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=PwqGJzggTz8",
           "imageUrl": "https://i.ytimg.com/vi/PwqGJzggTz8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=PwqGJzggTz8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "نور ما بين الجمعتين وعصمة من الفتن سورة الكهف بصوت الشيخ المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=fQkOu6vAtSw",
-          "imageUrl": "https://i.ytimg.com/vi/fQkOu6vAtSw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=fQkOu6vAtSw",
           "videoSource": "youtube",
           "mediaType": "both"
         }
