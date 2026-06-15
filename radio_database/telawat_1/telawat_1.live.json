@@ -65,26 +65,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=brni2N1fG6Y",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "Surat Al Khaf Maher Al Muaiqly (النسخة الأصلية) سورة الكهف بصوت الشيخ ماهر المعيقلي",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PhuLalCeduE",
-          "imageUrl": "https://i.ytimg.com/vi/PhuLalCeduE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PhuLalCeduE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سورة البقرة للشيخ ماهر المعيقلي (النسخة الأصلية) Maher Al Muaiqly - Surat Al-Baqarah",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=AxyKRet2Qy8",
-          "imageUrl": "https://i.ytimg.com/vi/AxyKRet2Qy8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=AxyKRet2Qy8",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }

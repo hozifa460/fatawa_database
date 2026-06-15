@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "﴿ ۞ فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ ﴾ | سورة الواقعة | محمد صديق #المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=s66J0ufymDE",
+          "imageUrl": "https://i.ytimg.com/vi/s66J0ufymDE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=s66J0ufymDE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "( فاستجاب لهم ربهم  ) من سورة آل عمران | محمد صديق #المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -63,16 +73,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=5JfC-wg_tAQ",
           "imageUrl": "https://i.ytimg.com/vi/5JfC-wg_tAQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=5JfC-wg_tAQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "( أم خلقوا من غير شيء أم هم الخالقون ) ||  سورة الطور | #المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PwqGJzggTz8",
-          "imageUrl": "https://i.ytimg.com/vi/PwqGJzggTz8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PwqGJzggTz8",
           "videoSource": "youtube",
           "mediaType": "both"
         }
