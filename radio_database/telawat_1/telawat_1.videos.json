@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع يبكي قلبك من المصحف المرتل النادر - سورة لقمان | Surah Luqman - Al Minshawi HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=3_ZvIhnZbM4",
-          "imageUrl": "https://i.ytimg.com/vi/3_ZvIhnZbM4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=3_ZvIhnZbM4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تهدئ الروح وتشرح الصدر من المصحف المرتل النادر - سورة الأحزاب | Surah Al-Ahzab - Al Minshawi HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -43,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=SiCxbyx6dTY",
           "imageUrl": "https://i.ytimg.com/vi/SiCxbyx6dTY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=SiCxbyx6dTY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يبكي قلبك من المصحف المرتل النادر - سورة لقمان | Surah Luqman - Al Minshawi HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3_ZvIhnZbM4",
+          "imageUrl": "https://i.ytimg.com/vi/3_ZvIhnZbM4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3_ZvIhnZbM4",
           "videoSource": "youtube",
           "mediaType": "both"
         },

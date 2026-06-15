@@ -20,6 +20,26 @@
           "title": "اتصالات المسلمين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DPoKlXBxKbs",
+          "imageUrl": "https://i.ytimg.com/vi/DPoKlXBxKbs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DPoKlXBxKbs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DT-qIg4Txao",
+          "imageUrl": "https://i.ytimg.com/vi/DT-qIg4Txao/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DT-qIg4Txao",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=sU3hft-NYrw",
           "imageUrl": "https://i.ytimg.com/vi/sU3hft-NYrw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=sU3hft-NYrw",
@@ -93,26 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=dI5LJUTexAs",
           "imageUrl": "https://i.ytimg.com/vi/dI5LJUTexAs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=dI5LJUTexAs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "حوارات مع النصارى والملحدين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Ss5eA57fuQk",
-          "imageUrl": "https://i.ytimg.com/vi/Ss5eA57fuQk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Ss5eA57fuQk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "اتصالات المسلمين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=L53ovOuRWv8",
-          "imageUrl": "https://i.ytimg.com/vi/L53ovOuRWv8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=L53ovOuRWv8",
           "videoSource": "youtube",
           "mediaType": "both"
         }

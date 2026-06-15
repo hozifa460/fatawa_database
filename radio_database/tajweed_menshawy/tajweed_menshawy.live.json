@@ -17,22 +17,32 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "دواء القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ODQCQyc0-K8",
-          "imageUrl": "https://i.ytimg.com/vi/ODQCQyc0-K8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ODQCQyc0-K8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=chYBWwlYOmE",
           "imageUrl": "https://i.ytimg.com/vi/chYBWwlYOmE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=chYBWwlYOmE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حين يغلبك البكاء من هيبة الخشوع | تلاوة اسطورية للشيخ #المنشاوي | تجويد بث مباشر 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ge01jsLJdnQ",
+          "imageUrl": "https://i.ytimg.com/vi/Ge01jsLJdnQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ge01jsLJdnQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "دواء القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ODQCQyc0-K8",
+          "imageUrl": "https://i.ytimg.com/vi/ODQCQyc0-K8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ODQCQyc0-K8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -63,16 +73,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
           "imageUrl": "https://i.ytimg.com/vi/LD5vW2ci3MM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=I6_4I239MFY",
-          "imageUrl": "https://i.ytimg.com/vi/I6_4I239MFY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=I6_4I239MFY",
           "videoSource": "youtube",
           "mediaType": "both"
         }
