@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "العذر الشعري",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=EQOnVPBZQq0",
+          "imageUrl": "https://i.ytimg.com/vi/EQOnVPBZQq0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=EQOnVPBZQq0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "قص الشعر وقت نزول الحيض #اكسبلور #المراه #ترند",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
@@ -143,16 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=HLigY37OChU",
           "imageUrl": "https://i.ytimg.com/vi/HLigY37OChU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HLigY37OChU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "احنا مش ناقصين يافنان 😂 #اكسبلور #بودكاست #دويتو #النظافه",
-          "subtitle": "جديد الشيخ علاء ابراهيم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dA4s5XsOzLI",
-          "imageUrl": "https://i.ytimg.com/vi/dA4s5XsOzLI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dA4s5XsOzLI",
           "videoSource": "youtube",
           "mediaType": "both"
         }
