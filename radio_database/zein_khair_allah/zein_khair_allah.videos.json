@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "اثنين من الملاحدة تحت مطرقة المسلم زين خير الله ",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lnMF9MyUH3M",
+          "imageUrl": "https://i.ytimg.com/vi/lnMF9MyUH3M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lnMF9MyUH3M",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "المناظرة مع الملحدين في أماكن محايدة",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -63,16 +73,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Afd5HU2ViuY",
           "imageUrl": "https://i.ytimg.com/vi/Afd5HU2ViuY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Afd5HU2ViuY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "شاب نصراني قريب من الإسلام والحوار الذي أعجب الجميع ج1",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=w70kZUt1OKA",
-          "imageUrl": "https://i.ytimg.com/vi/w70kZUt1OKA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=w70kZUt1OKA",
           "videoSource": "youtube",
           "mediaType": "both"
         }
