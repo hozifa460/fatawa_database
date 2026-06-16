@@ -85,16 +85,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=k6sZRGTYePE",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "صحراء السعودية| بين إعجاز  إخبار النبي والعلم الحديث",
-          "subtitle": "جديد الشيخ محمود نصار",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=qhMhy-CCiwQ",
-          "imageUrl": "https://i.ytimg.com/vi/qhMhy-CCiwQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qhMhy-CCiwQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
