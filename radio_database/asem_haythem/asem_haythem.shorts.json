@@ -45,16 +45,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=MdqTz1wlxws",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "شتائم بولس للنصارى",
-          "subtitle": "جديد الدكتور عاصم هيثم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=CN_iJXnyCUk",
-          "imageUrl": "https://i.ytimg.com/vi/CN_iJXnyCUk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CN_iJXnyCUk",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }

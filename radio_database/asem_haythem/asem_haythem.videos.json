@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "يريد مني أن اتشيع ويعترف ان القران محرف",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yLTi7f7_gu4",
+          "imageUrl": "https://i.ytimg.com/vi/yLTi7f7_gu4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yLTi7f7_gu4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "تحريم زواج المتعة للعلويات من كتب الشيعة  ",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=wMDg2Z9lnNg",
           "imageUrl": "https://i.ytimg.com/vi/wMDg2Z9lnNg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=wMDg2Z9lnNg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "الحوار مع السيد احمد العبودي في حوزه النجف العنوان شعائر اللطم والطبخ واهداء الثواب للحسين من اين  ",
-          "subtitle": "جديد الدكتور عاصم هيثم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=reaPpazuPsw",
-          "imageUrl": "https://i.ytimg.com/vi/reaPpazuPsw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=reaPpazuPsw",
           "videoSource": "youtube",
           "mediaType": "both"
         }
