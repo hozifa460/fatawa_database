@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة باكية نادرة ✦ تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=L4QzRzjCsuM",
-          "imageUrl": "https://i.ytimg.com/vi/L4QzRzjCsuM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=L4QzRzjCsuM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=vEKYMMU_64I",
           "imageUrl": "https://i.ytimg.com/vi/vEKYMMU_64I/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=vEKYMMU_64I",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة باكية نادرة ✦ تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=L4QzRzjCsuM",
+          "imageUrl": "https://i.ytimg.com/vi/L4QzRzjCsuM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=L4QzRzjCsuM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +83,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
           "imageUrl": "https://i.ytimg.com/vi/HShibFN_AXE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HShibFN_AXE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "قرآن الفجر بصوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
-          "imageUrl": "https://i.ytimg.com/vi/LD5vW2ci3MM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=LD5vW2ci3MM",
           "videoSource": "youtube",
           "mediaType": "both"
         }
