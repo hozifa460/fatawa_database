@@ -20,6 +20,16 @@
           "title": "بدأت قناة \"عاصم هيثم اشكنتنا\" بثًا مباشرًا",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jdF1WZHWti8",
+          "imageUrl": "https://i.ytimg.com/vi/jdF1WZHWti8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jdF1WZHWti8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بدأت قناة \"عاصم هيثم اشكنتنا\" بثًا مباشرًا",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=kWuUzxmn_ZM",
           "imageUrl": "https://i.ytimg.com/vi/kWuUzxmn_ZM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=kWuUzxmn_ZM",
@@ -93,16 +103,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=u4vXCrFpRrk",
           "imageUrl": "https://i.ytimg.com/vi/u4vXCrFpRrk/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=u4vXCrFpRrk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "بدأت قناة \"عاصم هيثم اشكنتنا\" بثًا مباشرًا",
-          "subtitle": "جديد الدكتور عاصم هيثم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mAhrty-KTL0",
-          "imageUrl": "https://i.ytimg.com/vi/mAhrty-KTL0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mAhrty-KTL0",
           "videoSource": "youtube",
           "mediaType": "both"
         }
