@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "(لقد كان لكم في رسول الله أسوة حسنة ) | من سورة الأحزاب | محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ldBVmSl_iiw",
+          "imageUrl": "https://i.ytimg.com/vi/ldBVmSl_iiw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ldBVmSl_iiw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "﴿ ۞ فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ ﴾ | سورة الواقعة | محمد صديق #المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -43,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=9OCXbCK511E",
           "imageUrl": "https://i.ytimg.com/vi/9OCXbCK511E/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9OCXbCK511E",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "(( قل من بيده ملكوت كل شيء وهو يجير ولا يجار عليه ))  سورة المؤمنون | محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=TKGjE48b2WY",
-          "imageUrl": "https://i.ytimg.com/vi/TKGjE48b2WY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=TKGjE48b2WY",
           "videoSource": "youtube",
           "mediaType": "both"
         }

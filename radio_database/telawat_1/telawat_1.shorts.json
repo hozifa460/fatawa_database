@@ -1,0 +1,32 @@
+{
+  "id": "telawat_1",
+  "title": "جديد التلاوات والمنشاوي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد التلاوات والمنشاوي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد التلاوات والمنشاوي",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "تقليد الشيخ السيد متولي ببارعة وتنقل عجيب بين طبقات الصوت ❤️",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Rj9TwmBSnD8",
+          "imageUrl": "https://i.ytimg.com/vi/Rj9TwmBSnD8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Rj9TwmBSnD8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
