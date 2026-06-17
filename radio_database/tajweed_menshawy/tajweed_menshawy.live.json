@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
-          "imageUrl": "https://i.ytimg.com/vi/Ur4t1CDfu_w/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "في هدوء الليل... صوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
           "imageUrl": "https://i.ytimg.com/vi/mkYeueR0ndQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
+          "imageUrl": "https://i.ytimg.com/vi/Ur4t1CDfu_w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
           "videoSource": "youtube",
           "mediaType": "both"
         },

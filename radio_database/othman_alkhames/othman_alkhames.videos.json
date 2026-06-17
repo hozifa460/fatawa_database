@@ -17,6 +17,46 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1343] قصة لطم موسى عليه السلام لملك الموت - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=h-CAN3g8izc",
+          "imageUrl": "https://i.ytimg.com/vi/h-CAN3g8izc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=h-CAN3g8izc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1342] عناد بني إسرائيل وكبرهم في تبديل أمر الله - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=hEACNzS2U5A",
+          "imageUrl": "https://i.ytimg.com/vi/hEACNzS2U5A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=hEACNzS2U5A",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1341] قصة موسى عليه السلام مع الخضر - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=R7taxbsfUBA",
+          "imageUrl": "https://i.ytimg.com/vi/R7taxbsfUBA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=R7taxbsfUBA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1340] استغراب الخضر من سلام موسى عليه السلام - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sRygdjJnw6o",
+          "imageUrl": "https://i.ytimg.com/vi/sRygdjJnw6o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sRygdjJnw6o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1339] من هو يوشع بن نون عليه السلام؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -103,66 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=TFJXSuqemJ8",
           "imageUrl": "https://i.ytimg.com/vi/TFJXSuqemJ8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=TFJXSuqemJ8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "216- هل يرتبط قنوت النوازل بصلاة معيَّنة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=g02vGzSMdd4",
-          "imageUrl": "https://i.ytimg.com/vi/g02vGzSMdd4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=g02vGzSMdd4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "215- حكم القنوت في صلاة الفجر دائمًا - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=_Be7wznFzWo",
-          "imageUrl": "https://i.ytimg.com/vi/_Be7wznFzWo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=_Be7wznFzWo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "214- حكم نذر المعاوضة وحكم الوفاء به - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=WqPF4OQE360",
-          "imageUrl": "https://i.ytimg.com/vi/WqPF4OQE360/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=WqPF4OQE360",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "213- حكم تحويل صيام الحِمية إلى صيام تطوُّع - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=HA1YqFscM9Y",
-          "imageUrl": "https://i.ytimg.com/vi/HA1YqFscM9Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=HA1YqFscM9Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "212- حكم استغلال الموظَّف معلوماتِ عمله لشراء الأسهم قبل إعلانها - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=JD6yO4ignHw",
-          "imageUrl": "https://i.ytimg.com/vi/JD6yO4ignHw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=JD6yO4ignHw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "211- المقصود بقوله تعالى:( فاقرؤوا ما تيسّر منه ) - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=qBwUQeGLWdI",
-          "imageUrl": "https://i.ytimg.com/vi/qBwUQeGLWdI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qBwUQeGLWdI",
           "videoSource": "youtube",
           "mediaType": "both"
         }
