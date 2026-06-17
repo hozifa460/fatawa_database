@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "شبهة (رزية الخميس) بين ضياع الدين والطعن في عصمة التبليغ وصدق وعقل النبي !",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=TlouJOENk6U",
+          "imageUrl": "https://i.ytimg.com/vi/TlouJOENk6U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=TlouJOENk6U",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "تفسير سورة البقرة { ٣٠ : ٣٣ } || سلسلة تفسير القرآن الكريم 💎",
           "subtitle": "جديد الشيخ محمود نصار",
           "emoji": "",
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=sXhTNj9Fiuo",
           "imageUrl": "https://i.ytimg.com/vi/sXhTNj9Fiuo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=sXhTNj9Fiuo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "شبهة : إذا كان الإنسان لا يؤمن إلا بإذن الله، فكيف يُحاسَب على الكفر؟",
-          "subtitle": "جديد الشيخ محمود نصار",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=k6sZRGTYePE",
-          "imageUrl": "https://i.ytimg.com/vi/k6sZRGTYePE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=k6sZRGTYePE",
           "videoSource": "youtube",
           "mediaType": "both"
         }
