@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZelsjqalFQA",
+          "imageUrl": "https://i.ytimg.com/vi/ZelsjqalFQA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZelsjqalFQA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=FowmMb8USG0",
+          "imageUrl": "https://i.ytimg.com/vi/FowmMb8USG0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FowmMb8USG0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "اتصالات المسلمين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -103,26 +123,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=c0MKCNEK1yw",
           "imageUrl": "https://i.ytimg.com/vi/c0MKCNEK1yw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=c0MKCNEK1yw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "حوارات مع النصارى والملحدين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=jnjQAvXWQA4",
-          "imageUrl": "https://i.ytimg.com/vi/jnjQAvXWQA4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=jnjQAvXWQA4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "لقاء مع الشيخ أبي مالك وحديث عن أهل السنة والجماعة",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=x3mGCJxT75k",
-          "imageUrl": "https://i.ytimg.com/vi/x3mGCJxT75k/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=x3mGCJxT75k",
           "videoSource": "youtube",
           "mediaType": "both"
         }

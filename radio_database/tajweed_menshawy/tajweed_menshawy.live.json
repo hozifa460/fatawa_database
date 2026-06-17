@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "في هدوء الليل... صوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
-          "imageUrl": "https://i.ytimg.com/vi/mkYeueR0ndQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
+          "audioUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
+          "imageUrl": "https://i.ytimg.com/vi/wS8-HjkTWQ0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
           "imageUrl": "https://i.ytimg.com/vi/Ur4t1CDfu_w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "في هدوء الليل... صوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
+          "imageUrl": "https://i.ytimg.com/vi/mkYeueR0ndQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
