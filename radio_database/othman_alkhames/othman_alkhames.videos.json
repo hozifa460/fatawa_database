@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1339] من هو يوشع بن نون عليه السلام؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=IEEyZ9T6e90",
+          "imageUrl": "https://i.ytimg.com/vi/IEEyZ9T6e90/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=IEEyZ9T6e90",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1338] جواب موسى عليه السلام لما سُئل عن أعلم أهل الأرض وعتاب الله له - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1Zb5CT0ZMos",
+          "imageUrl": "https://i.ytimg.com/vi/1Zb5CT0ZMos/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1Zb5CT0ZMos",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1337] معنى الحوت في لغة العرب - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-iXpYvyYTy0",
+          "imageUrl": "https://i.ytimg.com/vi/-iXpYvyYTy0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-iXpYvyYTy0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "صحيح مسلم المجلس (21) كتاب الزكاة (989) إلى (1037) / الشيخ د. عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,36 +163,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=qBwUQeGLWdI",
           "imageUrl": "https://i.ytimg.com/vi/qBwUQeGLWdI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=qBwUQeGLWdI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "210- الشهادة على العبد يوم القيامة - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KqJ0ueG6cE0",
-          "imageUrl": "https://i.ytimg.com/vi/KqJ0ueG6cE0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KqJ0ueG6cE0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "209- مِن أراد أن يضحّي فإنه يمسك عن أخذ شيء من شعره وظفره إذا دخلت عشر ذي الحجة - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=JAFFjBpZaUI",
-          "imageUrl": "https://i.ytimg.com/vi/JAFFjBpZaUI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=JAFFjBpZaUI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "208- هل يُشرع للحاج صيام يوم عرفة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=oiUkqvXTBQg",
-          "imageUrl": "https://i.ytimg.com/vi/oiUkqvXTBQg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=oiUkqvXTBQg",
           "videoSource": "youtube",
           "mediaType": "both"
         }

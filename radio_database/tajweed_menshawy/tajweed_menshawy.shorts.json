@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة باكية | من سورة الرحمن | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sTzMTcwKif0",
+          "imageUrl": "https://i.ytimg.com/vi/sTzMTcwKif0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sTzMTcwKif0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "(لقد كان لكم في رسول الله أسوة حسنة ) | من سورة الأحزاب | محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -43,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=HsRysG07StY",
           "imageUrl": "https://i.ytimg.com/vi/HsRysG07StY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HsRysG07StY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "( إذا رجت الأرض رجا )  | من سورة الواقعة | محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9OCXbCK511E",
-          "imageUrl": "https://i.ytimg.com/vi/9OCXbCK511E/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9OCXbCK511E",
           "videoSource": "youtube",
           "mediaType": "both"
         }
