@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1368] تكليف عثمان رضي الله عنه بجمع القرآن - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ZY0E8v1GpUk",
+          "imageUrl": "https://i.ytimg.com/vi/ZY0E8v1GpUk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZY0E8v1GpUk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1367] قصة هجران عائشة رضي الله عنها لعبد الله بن الزبير - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fO5fSdM6YqE",
+          "imageUrl": "https://i.ytimg.com/vi/fO5fSdM6YqE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fO5fSdM6YqE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1366] قرابة بني زهرة بالنبي ﷺ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nX6AiqJeMXg",
+          "imageUrl": "https://i.ytimg.com/vi/nX6AiqJeMXg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nX6AiqJeMXg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1365] أولاد عبد مناف وسبب تقديم النبي ﷺ لبني المطلب على غيرهم - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,26 +163,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=4cu6g4QDXTc",
           "imageUrl": "https://i.ytimg.com/vi/4cu6g4QDXTc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4cu6g4QDXTc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "124 - الملخص الفقهي-  باب الشروط في النكاح -نكاح الشغار - المحلل - المتعة/ الشيخ د. عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PdRWk6cS5PY",
-          "imageUrl": "https://i.ytimg.com/vi/PdRWk6cS5PY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PdRWk6cS5PY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1353] حقيقة الجنة والنار اللتين مع الدجال - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=glwaE8VrAXM",
-          "imageUrl": "https://i.ytimg.com/vi/glwaE8VrAXM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=glwaE8VrAXM",
           "videoSource": "youtube",
           "mediaType": "both"
         }
