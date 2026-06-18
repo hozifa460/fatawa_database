@@ -25,16 +25,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=fZJdhzhCqVM",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "(9) هل أنت أمين؟ | كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=AQ8l8r7RsaQ",
-          "imageUrl": "https://i.ytimg.com/vi/AQ8l8r7RsaQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=AQ8l8r7RsaQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
