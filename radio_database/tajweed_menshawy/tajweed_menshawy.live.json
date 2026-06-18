@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
-          "imageUrl": "https://i.ytimg.com/vi/wS8-HjkTWQ0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة لا توصف تخترق القلوب | الشيخ المنشاوي الصوت الباكى  . جودة فائقة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
           "imageUrl": "https://i.ytimg.com/vi/Ur4t1CDfu_w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
+          "imageUrl": "https://i.ytimg.com/vi/wS8-HjkTWQ0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +83,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=chYBWwlYOmE",
           "imageUrl": "https://i.ytimg.com/vi/chYBWwlYOmE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=chYBWwlYOmE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "دواء القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ODQCQyc0-K8",
-          "imageUrl": "https://i.ytimg.com/vi/ODQCQyc0-K8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ODQCQyc0-K8",
           "videoSource": "youtube",
           "mediaType": "both"
         }
