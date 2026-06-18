@@ -115,16 +115,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=mwqnErqgbEM",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "حوارات مع النصارى والملحدين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=c0MKCNEK1yw",
-          "imageUrl": "https://i.ytimg.com/vi/c0MKCNEK1yw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=c0MKCNEK1yw",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }

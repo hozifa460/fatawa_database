@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "نهاوند مبهر ليس له مثيل | الشيخ محمد صديق #المنشاوي #قرآن",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ep88-BsKSWM",
+          "imageUrl": "https://i.ytimg.com/vi/ep88-BsKSWM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ep88-BsKSWM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "( وما تسقط من ورقة إلا يعلمها ) || من سورة الأنعام  | الشيخ المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -43,26 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=ldBVmSl_iiw",
           "imageUrl": "https://i.ytimg.com/vi/ldBVmSl_iiw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ldBVmSl_iiw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "﴿ ۞ فَلَا أُقْسِمُ بِمَوَاقِعِ النُّجُومِ ﴾ | سورة الواقعة | محمد صديق #المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=s66J0ufymDE",
-          "imageUrl": "https://i.ytimg.com/vi/s66J0ufymDE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=s66J0ufymDE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "( فاستجاب لهم ربهم  ) من سورة آل عمران | محمد صديق #المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=HsRysG07StY",
-          "imageUrl": "https://i.ytimg.com/vi/HsRysG07StY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=HsRysG07StY",
           "videoSource": "youtube",
           "mediaType": "both"
         }
