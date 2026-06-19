@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2DZk0lIBXRk",
-          "imageUrl": "https://i.ytimg.com/vi/2DZk0lIBXRk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2DZk0lIBXRk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "خشوع يُبكي القلوب تلاوة مشهورة ... الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=c--UMeo_vYg",
           "imageUrl": "https://i.ytimg.com/vi/c--UMeo_vYg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=c--UMeo_vYg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2DZk0lIBXRk",
+          "imageUrl": "https://i.ytimg.com/vi/2DZk0lIBXRk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2DZk0lIBXRk",
           "videoSource": "youtube",
           "mediaType": "both"
         },
