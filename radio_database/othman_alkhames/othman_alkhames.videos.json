@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1370] حكم ادّعاء رؤيا في المنام لم يرها - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=c4vTI1SYI_k",
+          "imageUrl": "https://i.ytimg.com/vi/c4vTI1SYI_k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=c4vTI1SYI_k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1369] هل قحطان من ولد إسماعيل عليه السلام؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=6TuS-LsTjLQ",
+          "imageUrl": "https://i.ytimg.com/vi/6TuS-LsTjLQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6TuS-LsTjLQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1368] تكليف عثمان رضي الله عنه بجمع القرآن - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -143,26 +163,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=0hBvHbghRMQ",
           "imageUrl": "https://i.ytimg.com/vi/0hBvHbghRMQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=0hBvHbghRMQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1355] الحذر من الاغترار بالمظاهر - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ZCWIQTRoxA8",
-          "imageUrl": "https://i.ytimg.com/vi/ZCWIQTRoxA8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ZCWIQTRoxA8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1354] حكم التوسّل إلى الله تعالى بالأعمال الصالحة - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=4cu6g4QDXTc",
-          "imageUrl": "https://i.ytimg.com/vi/4cu6g4QDXTc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=4cu6g4QDXTc",
           "videoSource": "youtube",
           "mediaType": "both"
         }

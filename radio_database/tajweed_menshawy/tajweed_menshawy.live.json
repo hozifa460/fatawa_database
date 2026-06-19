@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
-          "imageUrl": "https://i.ytimg.com/vi/wS8-HjkTWQ0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
+          "audioUrl": "https://www.youtube.com/watch?v=2DZk0lIBXRk",
+          "imageUrl": "https://i.ytimg.com/vi/2DZk0lIBXRk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2DZk0lIBXRk",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=c--UMeo_vYg",
           "imageUrl": "https://i.ytimg.com/vi/c--UMeo_vYg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=c--UMeo_vYg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
+          "imageUrl": "https://i.ytimg.com/vi/wS8-HjkTWQ0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wS8-HjkTWQ0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
