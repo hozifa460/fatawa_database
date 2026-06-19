@@ -105,16 +105,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=oT7jLqlXPf4",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "هدية قيمة لطلاب الجامعات والثانوية العامة",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=qWN1zDSdxqQ",
-          "imageUrl": "https://i.ytimg.com/vi/qWN1zDSdxqQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qWN1zDSdxqQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
