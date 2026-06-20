@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "شعائر صلاة الجمعه اليوم 19-6-2026 \\\\ من مسجد السيدة نفيسة بالقاهرة - بث مباشر",
+          "title": "بحضور السيد متولي والشحات أنور وابو العنين شعيشع ! خرج شاب من وسط الحاضرين وزلزل الساحة القرآنية HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ajuwtRMqOFo",
-          "imageUrl": "https://i.ytimg.com/vi/ajuwtRMqOFo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ajuwtRMqOFo",
+          "audioUrl": "https://www.youtube.com/watch?v=rq8ZMtIDmZo",
+          "imageUrl": "https://i.ytimg.com/vi/rq8ZMtIDmZo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rq8ZMtIDmZo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=hQA3kMXUYMI",
           "imageUrl": "https://i.ytimg.com/vi/hQA3kMXUYMI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=hQA3kMXUYMI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "شعائر صلاة الجمعه اليوم 19-6-2026 \\\\ من مسجد السيدة نفيسة بالقاهرة - بث مباشر",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ajuwtRMqOFo",
+          "imageUrl": "https://i.ytimg.com/vi/ajuwtRMqOFo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ajuwtRMqOFo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=XpTAOEXuKJI",
           "imageUrl": "https://i.ytimg.com/vi/XpTAOEXuKJI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=XpTAOEXuKJI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سورة البقرة للشيخ ماهر المعيقلي (النسخة الأصلية) Maher Al Muaiqly - Surat Al-Baqarah",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=y0xGvv7O1VU",
-          "imageUrl": "https://i.ytimg.com/vi/y0xGvv7O1VU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=y0xGvv7O1VU",
           "videoSource": "youtube",
           "mediaType": "both"
         }
