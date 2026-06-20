@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "( أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا ) محمد صديق #المنشاوي | #قرآن_كريم",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cgrxlw-T79I",
+          "imageUrl": "https://i.ytimg.com/vi/cgrxlw-T79I/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cgrxlw-T79I",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "تلاوة جميلة من نوادر الشيخ محمد صديق #المنشاوي #قرآن",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -43,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=sTzMTcwKif0",
           "imageUrl": "https://i.ytimg.com/vi/sTzMTcwKif0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=sTzMTcwKif0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "(لقد كان لكم في رسول الله أسوة حسنة ) | من سورة الأحزاب | محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ldBVmSl_iiw",
-          "imageUrl": "https://i.ytimg.com/vi/ldBVmSl_iiw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ldBVmSl_iiw",
           "videoSource": "youtube",
           "mediaType": "both"
         }
