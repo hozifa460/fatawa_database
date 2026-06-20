@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "الله يرحمها ويصبر أهلها #دويتو #العظماء #الرحمن",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=4P6f278fQeQ",
+          "imageUrl": "https://i.ytimg.com/vi/4P6f278fQeQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4P6f278fQeQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الشيخ علاء حامد أخويا في الإسلام ككل المسلمين #دويتو #اهميه #اكسبلور #ترند",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=nMbM6sOynrw",
           "imageUrl": "https://i.ytimg.com/vi/nMbM6sOynrw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=nMbM6sOynrw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "المعلم صبري نخنوخ #اكسبلور #دويتو",
-          "subtitle": "جديد الشيخ علاء ابراهيم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=14H2UUDfa3M",
-          "imageUrl": "https://i.ytimg.com/vi/14H2UUDfa3M/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=14H2UUDfa3M",
           "videoSource": "youtube",
           "mediaType": "both"
         }

@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "هتقابله إزاي؟",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Mb_YCA9YRnY",
+          "imageUrl": "https://i.ytimg.com/vi/Mb_YCA9YRnY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Mb_YCA9YRnY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الدرس بكرة عن علاقة تهم كل واحد فينا",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Mi0M_3zKQ2I",
           "imageUrl": "https://i.ytimg.com/vi/Mi0M_3zKQ2I/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Mi0M_3zKQ2I",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "من أكتر الحاجات اللي بحبها إني أشارككم الخبر ده",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Eq-Y2GMP0-0",
-          "imageUrl": "https://i.ytimg.com/vi/Eq-Y2GMP0-0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Eq-Y2GMP0-0",
           "videoSource": "youtube",
           "mediaType": "both"
         }
