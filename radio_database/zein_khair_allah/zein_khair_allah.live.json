@@ -17,7 +17,17 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "لماذا ترك خضر الاحمد ترك  النصرانية",
+          "title": "حوارات مع النصارى والملحدين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=uF3KuSKa2lo",
+          "imageUrl": "https://i.ytimg.com/vi/uF3KuSKa2lo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uF3KuSKa2lo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لماذا ترك خضر الاحمد  النصرانية",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=WEQjX09taVM",
@@ -103,16 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=oldIqPBj4O0",
           "imageUrl": "https://i.ytimg.com/vi/oldIqPBj4O0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=oldIqPBj4O0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "اتصالات المسلمين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=DPoKlXBxKbs",
-          "imageUrl": "https://i.ytimg.com/vi/DPoKlXBxKbs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=DPoKlXBxKbs",
           "videoSource": "youtube",
           "mediaType": "both"
         }
