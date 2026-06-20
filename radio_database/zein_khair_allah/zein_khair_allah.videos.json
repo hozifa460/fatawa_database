@@ -65,16 +65,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=AM0eLrIqGEo",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "حوار مع نصراني مضحك جدا ( يعبد خروف )",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=WOZyLZgHWGk",
-          "imageUrl": "https://i.ytimg.com/vi/WOZyLZgHWGk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=WOZyLZgHWGk",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
