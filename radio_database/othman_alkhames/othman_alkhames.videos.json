@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "06 -  المجلس (6)  تفسير سورة النحل  (  40- 47)    - الشيخ د. عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=01pplgkEWJM",
+          "imageUrl": "https://i.ytimg.com/vi/01pplgkEWJM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=01pplgkEWJM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1377] هل كان النبي ﷺ يرفع يديه في الدعاء؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -153,16 +163,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=boUq0GcaDHM",
           "imageUrl": "https://i.ytimg.com/vi/boUq0GcaDHM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=boUq0GcaDHM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1363] فضل قريش واصطفاؤها واختصاصها بالإمامة - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=JRwAmonaP3Y",
-          "imageUrl": "https://i.ytimg.com/vi/JRwAmonaP3Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=JRwAmonaP3Y",
           "videoSource": "youtube",
           "mediaType": "both"
         }
