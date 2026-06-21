@@ -27,22 +27,32 @@
           "mediaType": "both"
         },
         {
-          "title": "ذكرى المنشاوي... نور لا يغيب وصوت لا يُنسى🌿 الشيخ محمد صديق المنشاوي... جودة فائقة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Ghs_erCrJZI",
-          "imageUrl": "https://i.ytimg.com/vi/Ghs_erCrJZI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Ghs_erCrJZI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ذكرى المنشاوي... نور لا يغيب🌿 الشيخ محمد صديق المنشاوي... جودة عالية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=cFdRq0R9Bd0",
           "imageUrl": "https://i.ytimg.com/vi/cFdRq0R9Bd0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=cFdRq0R9Bd0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة فاقت الجمال ✦ تلاوة تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=5Cf-GT_pXcA",
+          "imageUrl": "https://i.ytimg.com/vi/5Cf-GT_pXcA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5Cf-GT_pXcA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "ذكرى المنشاوي... نور لا يغيب وصوت لا يُنسى🌿 الشيخ محمد صديق المنشاوي... جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ghs_erCrJZI",
+          "imageUrl": "https://i.ytimg.com/vi/Ghs_erCrJZI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ghs_erCrJZI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
           "imageUrl": "https://i.ytimg.com/vi/Ur4t1CDfu_w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Ur4t1CDfu_w",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "في هدوء الليل... صوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
-          "imageUrl": "https://i.ytimg.com/vi/mkYeueR0ndQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mkYeueR0ndQ",
           "videoSource": "youtube",
           "mediaType": "both"
         }
