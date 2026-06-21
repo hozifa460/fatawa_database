@@ -1,0 +1,32 @@
+{
+  "id": "zein_khair_allah",
+  "title": "جديد الشيخ زين خير الله",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ زين خير الله على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — جديد الشيخ زين خير الله",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "كيف يسمعنا الله كلنا في وقت واحد",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3F2XwR8SqM8",
+          "imageUrl": "https://i.ytimg.com/vi/3F2XwR8SqM8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3F2XwR8SqM8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
