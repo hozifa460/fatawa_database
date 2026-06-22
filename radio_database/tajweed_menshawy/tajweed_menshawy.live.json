@@ -17,22 +17,32 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع يُبكي الحجر تلاوة مهيبة للصوت الباكي ... الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
-          "imageUrl": "https://i.ytimg.com/vi/9UqUTzqad4c/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "في هدوء الليل.. الراحة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=lRPjhpjsR1s",
           "imageUrl": "https://i.ytimg.com/vi/lRPjhpjsR1s/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=lRPjhpjsR1s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=tgWin6h3Idk",
+          "imageUrl": "https://i.ytimg.com/vi/tgWin6h3Idk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=tgWin6h3Idk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يُبكي الحجر تلاوة مهيبة للصوت الباكي ... الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
+          "imageUrl": "https://i.ytimg.com/vi/9UqUTzqad4c/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
           "videoSource": "youtube",
           "mediaType": "both"
         },
