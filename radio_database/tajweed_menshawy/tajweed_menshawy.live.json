@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "خشوع يُبكي الحجر تلاوة مهيبة للصوت الباكي ... الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
+          "imageUrl": "https://i.ytimg.com/vi/9UqUTzqad4c/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "في هدوء الليل.. الراحة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=5Cf-GT_pXcA",
           "imageUrl": "https://i.ytimg.com/vi/5Cf-GT_pXcA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=5Cf-GT_pXcA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "خشوع يُبكي الحجر تلاوة مهيبة للصوت الباكي ... الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
-          "imageUrl": "https://i.ytimg.com/vi/9UqUTzqad4c/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9UqUTzqad4c",
           "videoSource": "youtube",
           "mediaType": "both"
         },
