@@ -25,16 +25,6 @@
           "videoUrl": "https://www.youtube.com/watch?v=ZOZdeSkqivQ",
           "videoSource": "youtube",
           "mediaType": "both"
-        },
-        {
-          "title": "خش هتجيبك! #فيديو_الجمعة_ياسر_ممدوح",
-          "subtitle": "جديد ياسر ممدوح",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=M7ZqHNnTQs0",
-          "imageUrl": "https://i.ytimg.com/vi/M7ZqHNnTQs0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=M7ZqHNnTQs0",
-          "videoSource": "youtube",
-          "mediaType": "both"
         }
       ]
     }
