@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة هادئة وباكية | الشيخ المنشاوي يتلو سورة الروم من أعماق قلبه | نادرة رائعة لا توصف 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BVj1ZP8Q_F0",
+          "imageUrl": "https://i.ytimg.com/vi/BVj1ZP8Q_F0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BVj1ZP8Q_F0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "نهاوند من عالم آخر | راحة للقلب وطمأنينة للروح | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=DXmz01lb76o",
           "imageUrl": "https://i.ytimg.com/vi/DXmz01lb76o/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=DXmz01lb76o",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "بمناسبة ذكراه العطرة.. لأول مرة | من سورة الحجر والنحل | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Qt2blcWzoi4",
-          "imageUrl": "https://i.ytimg.com/vi/Qt2blcWzoi4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Qt2blcWzoi4",
           "videoSource": "youtube",
           "mediaType": "both"
         }
