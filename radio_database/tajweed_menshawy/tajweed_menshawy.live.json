@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
-          "imageUrl": "https://i.ytimg.com/vi/E-fH3JCr3Y4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة تأخذك إلى عالم من الهدوء والخشوع | أجمل ما قرأ الشيخ المنشاوي | تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=meY9lMUOBDY",
           "imageUrl": "https://i.ytimg.com/vi/meY9lMUOBDY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=meY9lMUOBDY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
+          "imageUrl": "https://i.ytimg.com/vi/E-fH3JCr3Y4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
