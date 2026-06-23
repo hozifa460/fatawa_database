@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة تأخذك إلى عالم من الهدوء والخشوع | أجمل ما قرأ الشيخ المنشاوي | تجويد بث مباشر",
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=meY9lMUOBDY",
-          "imageUrl": "https://i.ytimg.com/vi/meY9lMUOBDY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=meY9lMUOBDY",
+          "audioUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
+          "imageUrl": "https://i.ytimg.com/vi/mZ9Eq9JuNes/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
           "imageUrl": "https://i.ytimg.com/vi/E-fH3JCr3Y4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة تأخذك إلى عالم من الهدوء والخشوع | أجمل ما قرأ الشيخ المنشاوي | تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=meY9lMUOBDY",
+          "imageUrl": "https://i.ytimg.com/vi/meY9lMUOBDY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=meY9lMUOBDY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=v1iu3c4cf9Y",
           "imageUrl": "https://i.ytimg.com/vi/v1iu3c4cf9Y/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=v1iu3c4cf9Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "ذكرى المنشاوي... نور لا يغيب🌿 الشيخ محمد صديق المنشاوي... جودة عالية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=cFdRq0R9Bd0",
-          "imageUrl": "https://i.ytimg.com/vi/cFdRq0R9Bd0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=cFdRq0R9Bd0",
           "videoSource": "youtube",
           "mediaType": "both"
         }
