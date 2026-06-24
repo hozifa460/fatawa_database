@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "عندما تفلس الكنيسة ... تصدر الأرجوزات !!",
+          "subtitle": "جديد محمود داوود",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2rt_cDttmpE",
+          "imageUrl": "https://i.ytimg.com/vi/2rt_cDttmpE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2rt_cDttmpE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "كيف يتم خداع المسيحيين؟ داود لمعي يُجيبك :)",
           "subtitle": "جديد محمود داوود",
           "emoji": "",
@@ -53,16 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=9pNPXM1wfbc",
           "imageUrl": "https://i.ytimg.com/vi/9pNPXM1wfbc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9pNPXM1wfbc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "الأنبا رافائيل يتحدى الملل 😂 بيهزأ الكنيسة بسبب أكل الإله وبيقولهم فضحتونا !!",
-          "subtitle": "جديد محمود داوود",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=tTlQ19Fs2tk",
-          "imageUrl": "https://i.ytimg.com/vi/tTlQ19Fs2tk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tTlQ19Fs2tk",
           "videoSource": "youtube",
           "mediaType": "both"
         }

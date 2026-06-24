@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1412] تميز أبي بكر رضي الله عنه في مجال العبادة - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=iGDrxU51ToM",
+          "imageUrl": "https://i.ytimg.com/vi/iGDrxU51ToM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=iGDrxU51ToM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1411] رؤيا النبي ﷺ في بيان خلافة أبي بكر وعمر رضي الله عنهما - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BnZ1ibHinf8",
+          "imageUrl": "https://i.ytimg.com/vi/BnZ1ibHinf8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BnZ1ibHinf8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1410] الخصومة التي حصلت بين أبي بكر وعمر رضي الله عنهما - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,26 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=yF9axhm_tD0",
           "imageUrl": "https://i.ytimg.com/vi/yF9axhm_tD0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=yF9axhm_tD0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1398] هل ثبت حديث دعاء النبي ﷺ لعروة البارقي بالبركة؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=e62yNCIXY1s",
-          "imageUrl": "https://i.ytimg.com/vi/e62yNCIXY1s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=e62yNCIXY1s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1397] إخبار النّبي ﷺ بقتله لأميّة بن خلف - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=N2vEJwaxuaQ",
-          "imageUrl": "https://i.ytimg.com/vi/N2vEJwaxuaQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=N2vEJwaxuaQ",
           "videoSource": "youtube",
           "mediaType": "both"
         }
