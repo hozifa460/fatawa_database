@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1413] الفرق بين موقف أبي بكر وعمر رضي الله عنهما عند موت النبي ﷺ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ltx1x2q9R2o",
+          "imageUrl": "https://i.ytimg.com/vi/ltx1x2q9R2o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ltx1x2q9R2o",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1412] تميز أبي بكر رضي الله عنه في مجال العبادة - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -143,16 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=O74YJI5Lm_w",
           "imageUrl": "https://i.ytimg.com/vi/O74YJI5Lm_w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=O74YJI5Lm_w",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1399] حكم التبرك بآثار النبي ﷺ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=yF9axhm_tD0",
-          "imageUrl": "https://i.ytimg.com/vi/yF9axhm_tD0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=yF9axhm_tD0",
           "videoSource": "youtube",
           "mediaType": "both"
         }
