@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
-          "imageUrl": "https://i.ytimg.com/vi/mZ9Eq9JuNes/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
           "imageUrl": "https://i.ytimg.com/vi/E-fH3JCr3Y4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=E-fH3JCr3Y4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
+          "imageUrl": "https://i.ytimg.com/vi/mZ9Eq9JuNes/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,16 +83,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=5Cf-GT_pXcA",
           "imageUrl": "https://i.ytimg.com/vi/5Cf-GT_pXcA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=5Cf-GT_pXcA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سورة يوسف كاملة | الفقرات مجمعة لأول مرة من المصحف المرتل النادر | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=v1iu3c4cf9Y",
-          "imageUrl": "https://i.ytimg.com/vi/v1iu3c4cf9Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=v1iu3c4cf9Y",
           "videoSource": "youtube",
           "mediaType": "both"
         }
