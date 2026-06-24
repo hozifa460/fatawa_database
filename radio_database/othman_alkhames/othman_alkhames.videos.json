@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1410] الخصومة التي حصلت بين أبي بكر وعمر رضي الله عنهما - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WEbgJzUwioE",
+          "imageUrl": "https://i.ytimg.com/vi/WEbgJzUwioE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WEbgJzUwioE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1409] هل يرث الإخوة مع وجود الأب والجد؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lsMvZPhqglU",
+          "imageUrl": "https://i.ytimg.com/vi/lsMvZPhqglU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lsMvZPhqglU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1408] لماذا لا يجوز للرسول ﷺ أن يتخذ خليلاً من الصحابة؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,36 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=N2vEJwaxuaQ",
           "imageUrl": "https://i.ytimg.com/vi/N2vEJwaxuaQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=N2vEJwaxuaQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1396] من دلائل النبوة: كثرة الناس وقلة الأنصار - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=fLXcrq-DL40",
-          "imageUrl": "https://i.ytimg.com/vi/fLXcrq-DL40/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=fLXcrq-DL40",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1395] سؤال عمر الصحابة عن سورة النصر (وأنها نَعْيُ النبي ﷺ) - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=LoIrDb_7tJ8",
-          "imageUrl": "https://i.ytimg.com/vi/LoIrDb_7tJ8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=LoIrDb_7tJ8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1394] «إذا هلك كسرى فلا كسرى بعده وإذا هلك قيصر فلا قيصر بعده» - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=zngLuFNl9vk",
-          "imageUrl": "https://i.ytimg.com/vi/zngLuFNl9vk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=zngLuFNl9vk",
           "videoSource": "youtube",
           "mediaType": "both"
         }

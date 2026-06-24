@@ -17,6 +17,46 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "عاشوراء-لا تهزِمْك عادةٌ",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Dq8BIJRL4y8",
+          "imageUrl": "https://i.ytimg.com/vi/Dq8BIJRL4y8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Dq8BIJRL4y8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "صُم عاشوراء لتُبصر الحق",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8Gfc2XniiXs",
+          "imageUrl": "https://i.ytimg.com/vi/8Gfc2XniiXs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8Gfc2XniiXs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "عاشوراء-يكفي أن الله عظَّمه",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CzacPzi0yjU",
+          "imageUrl": "https://i.ytimg.com/vi/CzacPzi0yjU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CzacPzi0yjU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "نصوم عاشوراء حتى لا نندم",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ykd0FaaB7CE",
+          "imageUrl": "https://i.ytimg.com/vi/Ykd0FaaB7CE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ykd0FaaB7CE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "\"صمتُ عرفة  فلماذا أصوم عاشوراء؟\"",
           "subtitle": "جديد الدكتور اياد القنيبي",
           "emoji": "",
@@ -73,46 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=hLQJGPkIPtc",
           "imageUrl": "https://i.ytimg.com/vi/hLQJGPkIPtc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=hLQJGPkIPtc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "تشعر بالخمول مع أن دمك طبيعي؟ #فوائد_طبية 41",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Ll6x4RlDuvc",
-          "imageUrl": "https://i.ytimg.com/vi/Ll6x4RlDuvc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Ll6x4RlDuvc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "توظيف الصدمة-أبناء د. رانيا العباسي مثالاً",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=rpSAZRvWppE",
-          "imageUrl": "https://i.ytimg.com/vi/rpSAZRvWppE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=rpSAZRvWppE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أسطول الصمود وتضحيات لا تلتقطها الكاميرات",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=X33qJm41QD8",
-          "imageUrl": "https://i.ytimg.com/vi/X33qJm41QD8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=X33qJm41QD8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "لو كان رسول الله ﷺ بيننا",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=DCrD1T7QXMU",
-          "imageUrl": "https://i.ytimg.com/vi/DCrD1T7QXMU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=DCrD1T7QXMU",
           "videoSource": "youtube",
           "mediaType": "both"
         }
