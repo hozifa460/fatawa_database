@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "[1408] لماذا لا يجوز للرسول ﷺ أن يتخذ خليلاً من الصحابة؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wd7WcETwQkY",
+          "imageUrl": "https://i.ytimg.com/vi/wd7WcETwQkY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wd7WcETwQkY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1407] خير النساء وأكملهن - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wtXT5WcuCJw",
+          "imageUrl": "https://i.ytimg.com/vi/wtXT5WcuCJw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wtXT5WcuCJw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "[1406] ما صحة قول النبي ﷺ عن خديجة رضي الله عنها: (ما أبدلني الله خيراً منها)؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=pQDnSm8Im5A",
+          "imageUrl": "https://i.ytimg.com/vi/pQDnSm8Im5A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pQDnSm8Im5A",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "[1405] بعض مزايا أبي بكر الصديق رضي الله عنه - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -133,36 +163,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=zngLuFNl9vk",
           "imageUrl": "https://i.ytimg.com/vi/zngLuFNl9vk/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zngLuFNl9vk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1393] معجزة النبي ﷺ حين لحق به سراقة في طريق الهجرة - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=D_Nlj1z14h8",
-          "imageUrl": "https://i.ytimg.com/vi/D_Nlj1z14h8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=D_Nlj1z14h8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1392] من علامات النبوة: إخبار النبي ﷺ بصفات الخوارج وما يكون من أمرهم - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=K5UtOb4NIjw",
-          "imageUrl": "https://i.ytimg.com/vi/K5UtOb4NIjw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=K5UtOb4NIjw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "[1391] لماذا حدَّد النبي ﷺ الكذابين بنحو ثلاثين مع أن مدّعي النبوة أكثر؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=z9xi_FXBmyE",
-          "imageUrl": "https://i.ytimg.com/vi/z9xi_FXBmyE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=z9xi_FXBmyE",
           "videoSource": "youtube",
           "mediaType": "both"
         }

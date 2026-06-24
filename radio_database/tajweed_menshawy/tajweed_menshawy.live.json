@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KgVcxt5fYcE",
-          "imageUrl": "https://i.ytimg.com/vi/KgVcxt5fYcE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KgVcxt5fYcE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
           "imageUrl": "https://i.ytimg.com/vi/mZ9Eq9JuNes/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=mZ9Eq9JuNes",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KgVcxt5fYcE",
+          "imageUrl": "https://i.ytimg.com/vi/KgVcxt5fYcE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KgVcxt5fYcE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
