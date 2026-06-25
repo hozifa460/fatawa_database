@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "يزلزل فرنسا بطبقات صوتية جننت الحاضرين ! ايوب عاصف يبدع ويتجلي بقلب باكي من روائع التلاوات النادرة",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
-          "imageUrl": "https://i.ytimg.com/vi/ocUgIaDRvqA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "هرب من عصر عمالقة التلاوة وقرأ تلاوة زلزلت منصة المسابقة الدولية ! شاب عجيب يمتلك خامة صوتية عجيبة",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=DW2v-Qs-EC4",
           "imageUrl": "https://i.ytimg.com/vi/DW2v-Qs-EC4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=DW2v-Qs-EC4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "يزلزل فرنسا بطبقات صوتية جننت الحاضرين ! ايوب عاصف يبدع ويتجلي بقلب باكي من روائع التلاوات النادرة",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
+          "imageUrl": "https://i.ytimg.com/vi/ocUgIaDRvqA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
