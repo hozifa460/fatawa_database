@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "( فاستجاب لهم ربهم  )  سورة آل عمران | محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=RLDKaV0_cHs",
+          "imageUrl": "https://i.ytimg.com/vi/RLDKaV0_cHs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=RLDKaV0_cHs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "( وَمِنَ النَّاسِ مَنْ يُعْجِبُكَ قَوْلُهُ فِي الْحَيَاةِ الدُّنْيَا ) من سورة البقرة | المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -53,26 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=gmH-T-syx9M",
           "imageUrl": "https://i.ytimg.com/vi/gmH-T-syx9M/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=gmH-T-syx9M",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "( وقال الشيطان لما قضي الأمر )  ترتيل جميل جدا من سورة إبراهيم #المنشاوي #قرآن",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=IEDoEKK2fAs",
-          "imageUrl": "https://i.ytimg.com/vi/IEDoEKK2fAs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=IEDoEKK2fAs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "( وهي تجري بهم في موج كالجبال ) ||  #المنشاوي #قرآن #تلاوة_خاشعة",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=fe1isFPAKTs",
-          "imageUrl": "https://i.ytimg.com/vi/fe1isFPAKTs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=fe1isFPAKTs",
           "videoSource": "youtube",
           "mediaType": "both"
         }
