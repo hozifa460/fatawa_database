@@ -4,19 +4,15 @@
 // IMPORTANT: index.json structure is UNCHANGED — still just { "files": [...] }
 // Archive files (e.g. zein_khair_allah.videos.archive.json) are added to
 // the SAME "files" array. The streaming platform detects them by the
-// ".archive.json" suffix and loads them lazily (only when the user
-// clicks "Load older videos").
+// ".archive.json" suffix and loads them lazily.
 //
 // Changes from original:
 //   1. MERGE instead of overwrite — new videos are added on top of
 //      existing ones (no more data loss).
 //   2. AUTO-ARCHIVE — when a section file exceeds ARCHIVE_THRESHOLD
-//      items, the oldest items are moved to a separate .archive.json
-//      file. The archive file is added to index.json "files" array
-//      (the platform detects it by suffix and lazy-loads it).
+//      items, the oldest items are moved to a .archive.json file.
 //   3. NO LIMIT — the merge keeps all items; archive handles growth.
-//   4. SORT — items are sorted newest-first (YouTube RSS already
-//      returns newest first, so we just preserve order on merge).
+//   4. SORT — items are sorted newest-first.
 //
 // Usage:
 //   dart run bin/sync_youtube.dart --folder ../../radio_database
@@ -26,9 +22,7 @@
 // Replace the original file at:
 //   tools/youtube_sync_dart/bin/sync_youtube.dart
 //
-// NO CHANGES needed to lib/youtube_sync.dart — the existing
-// IndexData class and writeIndex function work as-is because archive
-// files are just regular entries in the "files" array.
+// NO CHANGES needed to lib/youtube_sync.dart.
 // ════════════════════════════════════════════════════════════════
 
 /// CLI entry point for the YouTube sync (with auto-archive).
@@ -43,6 +37,12 @@ import 'package:youtube_sync_dart/youtube_sync.dart';
 /// the oldest items beyond this count are moved to an .archive.json file.
 const int defaultArchiveThreshold = 5000;
 
+/// Path separator — use '/' which works cross-platform in Dart.
+const String sep = '/';
+
+/// Joins path segments using '/'.
+String joinPath(String a, String b) => '$a$sep$b';
+
 Future<int> main(List<String> args) async {
   // Force UTF-8 stdout on Windows
   if (Platform.isWindows) {
@@ -53,28 +53,26 @@ Future<int> main(List<String> args) async {
   }
 
   final folder = _parseArg(args, '--folder') ?? 'radio_database';
-  // limit = how many NEW videos to fetch from RSS per sync (default: 15).
   final limit = int.tryParse(_parseArg(args, '--limit') ?? '') ?? 15;
-  // archiveThreshold = max items kept in the main file. Older items are
-  // moved to an .archive.json file when this threshold is exceeded.
   final archiveThreshold = int.tryParse(
         _parseArg(args, '--archive-threshold') ?? '',
       ) ??
       defaultArchiveThreshold;
 
-  final cwd = Directory.current;
-  final folderDir = Directory('${cwd.path}${Platform.path.separator}$folder');
+  // Use the folder string directly — no .path access on Directory objects.
+  final folderDir = Directory(folder);
   if (!folderDir.existsSync()) {
-    stderr.writeln('[ERROR] Folder not found: ${folderDir.path}');
+    stderr.writeln('[ERROR] Folder not found: $folder');
     return 1;
   }
   print('[INFO] Data folder: $folder');
   print('[INFO] RSS limit per sync: $limit');
   print('[INFO] Archive threshold: $archiveThreshold');
 
-  final manifestFile = File('${folderDir.path}${Platform.pathSeparator}youtube_channels.json');
+  final manifestPath = joinPath(folder, 'youtube_channels.json');
+  final manifestFile = File(manifestPath);
   if (!manifestFile.existsSync()) {
-    stderr.writeln('[ERROR] Manifest not found: ${manifestFile.path}');
+    stderr.writeln('[ERROR] Manifest not found: $manifestPath');
     return 1;
   }
 
@@ -85,7 +83,8 @@ Future<int> main(List<String> args) async {
   }
   print('[INFO] ${channels.length} channel(s) in manifest');
 
-  final indexFile = File('${folderDir.path}${Platform.pathSeparator}index.json');
+  final indexFilePath = joinPath(folder, 'index.json');
+  final indexFile = File(indexFilePath);
   final index = loadIndex(indexFile);
   var indexChanged = false;
   final filesToDelete = <File>[];
@@ -130,12 +129,14 @@ Future<int> main(List<String> args) async {
       'videos=${buckets.videos.length} shorts=${buckets.shorts.length}',
     );
 
-    final chDir = Directory('${folderDir.path}${Platform.pathSeparator}${ch.categoryId}');
+    final chPath = joinPath(folder, ch.categoryId);
+    final chDir = Directory(chPath);
     if (!chDir.existsSync()) chDir.createSync(recursive: true);
 
     // 1) Mark old single .youtube.json for deletion
-    final oldFile = File('${chDir.path}${Platform.pathSeparator}${ch.categoryId}.youtube.json');
-    final oldRel = '${ch.categoryId}/${ch.categoryId}.youtube.json';
+    final oldFilePath = joinPath(chPath, '${ch.categoryId}.youtube.json');
+    final oldFile = File(oldFilePath);
+    final oldRel = joinPath(ch.categoryId, '${ch.categoryId}.youtube.json');
     if (oldFile.existsSync()) filesToDelete.add(oldFile);
     if (index.files.remove(oldRel)) {
       indexChanged = true;
@@ -143,7 +144,6 @@ Future<int> main(List<String> args) async {
     }
 
     // 2) For each bucket: MERGE with existing file, then AUTO-ARCHIVE
-    //    if the merged count exceeds the threshold.
     Future<void> writeBucketMerged(
       String kind,
       String emoji,
@@ -155,12 +155,14 @@ Future<int> main(List<String> args) async {
         return;
       }
 
-      final mainRel = '${ch.categoryId}/${ch.categoryId}.$kind.json';
-      final mainFile = File('${chDir.path}${Platform.pathSeparator}${ch.categoryId}.$kind.json');
-      final archiveRel = '${ch.categoryId}/${ch.categoryId}.$kind.archive.json';
-      final archiveFile = File('${chDir.path}${Platform.pathSeparator}${ch.categoryId}.$kind.archive.json');
+      final mainRel = joinPath(ch.categoryId, '${ch.categoryId}.$kind.json');
+      final mainFilePath = joinPath(chPath, '${ch.categoryId}.$kind.json');
+      final mainFile = File(mainFilePath);
+      final archiveRel = joinPath(ch.categoryId, '${ch.categoryId}.$kind.archive.json');
+      final archiveFilePath = joinPath(chPath, '${ch.categoryId}.$kind.archive.json');
+      final archiveFile = File(archiveFilePath);
 
-      // Load existing main file (if any) → its subItems become "old" candidates.
+      // Load existing main file (if any).
       final existingMainSubs = <SubItem>[];
       if (mainFile.existsSync()) {
         try {
@@ -182,7 +184,7 @@ Future<int> main(List<String> args) async {
         }
       }
 
-      // Load existing archive file (if any) → its subItems are preserved.
+      // Load existing archive file (if any).
       final existingArchiveSubs = <SubItem>[];
       if (archiveFile.existsSync()) {
         try {
@@ -204,8 +206,8 @@ Future<int> main(List<String> args) async {
         }
       }
 
-      // Merge: new items first (newest), then existing main items, then archive.
-      // Dedupe by videoUrl so re-running sync doesn't double-insert.
+      // Merge: new items first (newest), then existing main, then archive.
+      // Dedupe by videoUrl.
       final merged = <SubItem>[];
       final seenUrls = <String>{};
       void addUnique(SubItem s) {
@@ -242,18 +244,14 @@ Future<int> main(List<String> args) async {
       }
 
       // Write/Update archive file (only if non-empty).
-      // The archive file is added to the SAME "files" array in index.json.
-      // The streaming platform detects it by the ".archive.json" suffix and
-      // lazy-loads it only when the user requests older items.
       if (archiveSubs.isNotEmpty) {
         await writeJson(archiveFile, builder(ch.categoryId, ch.channelName, archiveSubs));
-        print('  [OK] $archiveRel: ${archiveSubs.length} archived subItems 📦');
+        print('  [OK] $archiveRel: ${archiveSubs.length} archived subItems');
         if (index.add(archiveRel)) {
           indexChanged = true;
           print('  [OK] index.json: added $archiveRel (archive)');
         }
       } else if (archiveFile.existsSync()) {
-        // Archive file exists but is now empty → remove it.
         archiveFile.deleteSync();
         if (index.files.remove(archiveRel)) {
           indexChanged = true;
@@ -271,13 +269,13 @@ Future<int> main(List<String> args) async {
   for (final old in filesToDelete) {
     try {
       old.deleteSync();
-      print('  [DEL] ${old.path}');
+      print('  [DEL] deleted old file');
     } catch (e) {
-      print('  [WARN] could not delete ${old.path}: $e');
+      print('  [WARN] could not delete: $e');
     }
   }
 
-  // 4) Finalize index.json (structure unchanged — just "files")
+  // 4) Finalize index.json
   if (indexChanged) {
     await writeIndex(indexFile, index);
     print('\n[OK] index.json updated (${index.files.length} files)');
