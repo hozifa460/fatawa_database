@@ -67,22 +67,22 @@
           "mediaType": "both"
         },
         {
-          "title": "الإلحاد يجتاح إيران وما الفرق بين الجني والقرين وكيف نتحصن ؟ لقاء ثري مع فضيلة الشيخ أيمن عبد الجليل",
-          "subtitle": "الدكتور هيثم طلعت",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=-Nf3XINMI28",
-          "imageUrl": "https://i.ytimg.com/vi/-Nf3XINMI28/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=-Nf3XINMI28",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "المعجزات واللاكوارث في نظام الطيبات للدكتور ضياء العوضي رحمه الله | مراجعة منصفة والإنصاف عزيز",
           "subtitle": "الدكتور هيثم طلعت",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=CMendNOuEAM",
           "imageUrl": "https://i.ytimg.com/vi/CMendNOuEAM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CMendNOuEAM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الإلحاد يجتاح إيران وما الفرق بين الجني والقرين وكيف نتحصن ؟ لقاء ثري مع فضيلة الشيخ أيمن عبد الجليل",
+          "subtitle": "الدكتور هيثم طلعت",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-Nf3XINMI28",
+          "imageUrl": "https://i.ytimg.com/vi/-Nf3XINMI28/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-Nf3XINMI28",
           "videoSource": "youtube",
           "mediaType": "both"
         }
