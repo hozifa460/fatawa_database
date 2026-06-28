@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة تأسر القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "title": "هدوء يملأ القلب ✦ القيثارة الباكية الشيخ المنشاوي في أداء لا يتكرر 🎧 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=esn6rpZbD2M",
-          "imageUrl": "https://i.ytimg.com/vi/esn6rpZbD2M/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=esn6rpZbD2M",
+          "audioUrl": "https://www.youtube.com/watch?v=wDqwXc6-Tk8",
+          "imageUrl": "https://i.ytimg.com/vi/wDqwXc6-Tk8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wDqwXc6-Tk8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=CW5lx2SHYXg",
           "imageUrl": "https://i.ytimg.com/vi/CW5lx2SHYXg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CW5lx2SHYXg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة تأسر القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=esn6rpZbD2M",
+          "imageUrl": "https://i.ytimg.com/vi/esn6rpZbD2M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=esn6rpZbD2M",
           "videoSource": "youtube",
           "mediaType": "both"
         },
