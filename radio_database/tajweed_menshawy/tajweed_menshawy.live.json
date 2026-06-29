@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "هدوء يملأ القلب ✦ القيثارة الباكية الشيخ المنشاوي في أداء لا يتكرر 🎧 تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wDqwXc6-Tk8",
-          "imageUrl": "https://i.ytimg.com/vi/wDqwXc6-Tk8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wDqwXc6-Tk8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة رائعة لا توصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=CW5lx2SHYXg",
           "imageUrl": "https://i.ytimg.com/vi/CW5lx2SHYXg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CW5lx2SHYXg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "هدوء يملأ القلب ✦ القيثارة الباكية الشيخ المنشاوي في أداء لا يتكرر 🎧 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wDqwXc6-Tk8",
+          "imageUrl": "https://i.ytimg.com/vi/wDqwXc6-Tk8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wDqwXc6-Tk8",
           "videoSource": "youtube",
           "mediaType": "both"
         },

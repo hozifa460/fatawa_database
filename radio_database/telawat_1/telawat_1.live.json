@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "لأول مرة بكاء النساء والرجال بأشد المقامات حزنا ! سيطر البريطاني علي قلب الحاضرين - محمد ايوب عاصف",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Z2Td4WlwrY8",
-          "imageUrl": "https://i.ytimg.com/vi/Z2Td4WlwrY8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Z2Td4WlwrY8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "يذهب الحزن بمشاعر توقظ ايمان قلبك ! شاب معجزة سيكون بين عمالقة قراء دولة التلاوة في الموسم الجديد HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=VdYYgsotw0E",
           "imageUrl": "https://i.ytimg.com/vi/VdYYgsotw0E/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=VdYYgsotw0E",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لأول مرة بكاء النساء والرجال بأشد المقامات حزنا ! سيطر البريطاني علي قلب الحاضرين - محمد ايوب عاصف",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Z2Td4WlwrY8",
+          "imageUrl": "https://i.ytimg.com/vi/Z2Td4WlwrY8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Z2Td4WlwrY8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
