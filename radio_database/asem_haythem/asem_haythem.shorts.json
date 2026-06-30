@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "صيني عربي",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=I20NPSv3nnk",
+          "imageUrl": "https://i.ytimg.com/vi/I20NPSv3nnk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=I20NPSv3nnk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "السؤال الذي دائما يأتي بالمغص للمخالف",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
