@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "عِش أجمل 50 دقيقة مع الشيخ محمد صديق المنشاوي | من سورة النساء | صوت يأسر القلوب 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nPrG3Lj0NgM",
+          "imageUrl": "https://i.ytimg.com/vi/nPrG3Lj0NgM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nPrG3Lj0NgM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة تأخذك بعيدًا عن ضجيج الحياة | الشيخ المنشاوي 🎙 من سورة النحل 🎧 جودة عالية ᴴᴰ",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=P8jHFUdaufQ",
+          "imageUrl": "https://i.ytimg.com/vi/P8jHFUdaufQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=P8jHFUdaufQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "قرآن الفجر بصوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -77,16 +97,6 @@
           "mediaType": "both"
         },
         {
-          "title": "عِش أجمل 50 دقيقة مع الشيخ محمد صديق المنشاوي | من سورة النساء | صوت يأسر القلوب 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=nPrG3Lj0NgM",
-          "imageUrl": "https://i.ytimg.com/vi/nPrG3Lj0NgM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=nPrG3Lj0NgM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "( قالوا إنا كنا في أهلنا مشفقين ) || سورة الطور || محمد صديق #المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -113,16 +123,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=CW5lx2SHYXg",
           "imageUrl": "https://i.ytimg.com/vi/CW5lx2SHYXg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CW5lx2SHYXg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "تلاوة تأخذك بعيدًا عن ضجيج الحياة | الشيخ المنشاوي 🎙 من سورة النحل 🎧 جودة عالية ᴴᴰ",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=P8jHFUdaufQ",
-          "imageUrl": "https://i.ytimg.com/vi/P8jHFUdaufQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=P8jHFUdaufQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },

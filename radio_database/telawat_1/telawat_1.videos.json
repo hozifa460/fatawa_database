@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "سعادة الأم بتأهل ولده للمرحلة النهائية بشكل لا يوصف ! شاب عملاق يقلد الصوت الفولاذي الشيخ البهتيمي",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
+          "imageUrl": "https://i.ytimg.com/vi/8vPsSjVRXns/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "وقفت الأم في صدمة من أداء ولدها ! وضعت يدها علي قلبها خوفا عليه عندما صعد لأعلي طبقة صوتية HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
+          "imageUrl": "https://i.ytimg.com/vi/GXxhAoCERFE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أخر تلاوة قرأها ثم اختفي تماما ! معجزة كان عمرها قصير جدا وأبدع في تقليد القارئ مصطفي اسماعيل HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -43,16 +63,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=u5typluTTQ0",
           "imageUrl": "https://i.ytimg.com/vi/u5typluTTQ0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=u5typluTTQ0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سعادة الأم بتأهل ولده للمرحلة النهائية بشكل لا يوصف ! شاب عملاق يقلد الصوت الفولاذي الشيخ البهتيمي",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
-          "imageUrl": "https://i.ytimg.com/vi/8vPsSjVRXns/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -133,16 +143,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
           "imageUrl": "https://i.ytimg.com/vi/ocUgIaDRvqA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "وقفت الأم في صدمة من أداء ولدها ! وضعت يدها علي قلبها خوفا عليه عندما صعد لأعلي طبقة صوتية HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
-          "imageUrl": "https://i.ytimg.com/vi/GXxhAoCERFE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
