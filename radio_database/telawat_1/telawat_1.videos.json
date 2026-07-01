@@ -17,32 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سعادة الأم بتأهل ولده للمرحلة النهائية بشكل لا يوصف ! شاب عملاق يقلد الصوت الفولاذي الشيخ البهتيمي",
+          "title": "أخر تلاوة قرأها ثم اختفي تماما ! معجزة كان عمرها قصير جدا وأبدع في تقليد القارئ مصطفي اسماعيل HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
-          "imageUrl": "https://i.ytimg.com/vi/8vPsSjVRXns/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
+          "audioUrl": "https://www.youtube.com/watch?v=5QJAiEg_fHA",
+          "imageUrl": "https://i.ytimg.com/vi/5QJAiEg_fHA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=5QJAiEg_fHA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
         {
-          "title": "وقفت الأم في صدمة من أداء ولدها ! وضعت يدها علي قلبها خوفا عليه عندما صعد لأعلي طبقة صوتية HD",
+          "title": "معجزة هذا الزمان يقلد قراء مصر بدون توقف ! شاب عراقي يزلزل القلوب عندما أعاد امجاد التلاوة HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
-          "imageUrl": "https://i.ytimg.com/vi/GXxhAoCERFE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "اختفي في قمة مجدة وعزة في التلاوة ! قارئ عبقري كان يمتلك خامة صوتية نادرة لم يسبق لها مثيل HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=_CSZgXjnVTw",
-          "imageUrl": "https://i.ytimg.com/vi/_CSZgXjnVTw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=_CSZgXjnVTw",
+          "audioUrl": "https://www.youtube.com/watch?v=M61ZDIe1cWw",
+          "imageUrl": "https://i.ytimg.com/vi/M61ZDIe1cWw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=M61ZDIe1cWw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -53,6 +43,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=u5typluTTQ0",
           "imageUrl": "https://i.ytimg.com/vi/u5typluTTQ0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=u5typluTTQ0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سعادة الأم بتأهل ولده للمرحلة النهائية بشكل لا يوصف ! شاب عملاق يقلد الصوت الفولاذي الشيخ البهتيمي",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
+          "imageUrl": "https://i.ytimg.com/vi/8vPsSjVRXns/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8vPsSjVRXns",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -133,6 +133,26 @@
           "audioUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
           "imageUrl": "https://i.ytimg.com/vi/ocUgIaDRvqA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ocUgIaDRvqA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "وقفت الأم في صدمة من أداء ولدها ! وضعت يدها علي قلبها خوفا عليه عندما صعد لأعلي طبقة صوتية HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
+          "imageUrl": "https://i.ytimg.com/vi/GXxhAoCERFE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=GXxhAoCERFE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اختفي في قمة مجدة وعزة في التلاوة ! قارئ عبقري كان يمتلك خامة صوتية نادرة لم يسبق لها مثيل HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_CSZgXjnVTw",
+          "imageUrl": "https://i.ytimg.com/vi/_CSZgXjnVTw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_CSZgXjnVTw",
           "videoSource": "youtube",
           "mediaType": "both"
         },

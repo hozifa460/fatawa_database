@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "شعائر صلاة الجمعه اليوم 26-6-2026 - من مسجد الأزهر الشريف  - بث مباشر",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mnGhN153Imo",
+          "imageUrl": "https://i.ytimg.com/vi/mnGhN153Imo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mnGhN153Imo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "🕋🕋خطبة الجمعة اليوم مباشر | صلاة الجمعة اليوم مباشر | صلاه الجمعه | خطبه الجمعه في الحرم اليوم 🔴",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=NZbqBW8e5Ow",
+          "imageUrl": "https://i.ytimg.com/vi/NZbqBW8e5Ow/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NZbqBW8e5Ow",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أخر تلاوة قرأها ثم اختفي تماما ! معجزة كان عمرها قصير جدا وأبدع في تقليد القارئ مصطفي اسماعيل HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -93,26 +113,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=C_XMWxe0h0Y",
           "imageUrl": "https://i.ytimg.com/vi/C_XMWxe0h0Y/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=C_XMWxe0h0Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "شعائر صلاة الجمعه اليوم 26-6-2026 - من مسجد الأزهر الشريف  - بث مباشر",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mnGhN153Imo",
-          "imageUrl": "https://i.ytimg.com/vi/mnGhN153Imo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mnGhN153Imo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "🕋🕋خطبة الجمعة اليوم مباشر | صلاة الجمعة اليوم مباشر | صلاه الجمعه | خطبه الجمعه في الحرم اليوم 🔴",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=NZbqBW8e5Ow",
-          "imageUrl": "https://i.ytimg.com/vi/NZbqBW8e5Ow/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=NZbqBW8e5Ow",
           "videoSource": "youtube",
           "mediaType": "both"
         },
