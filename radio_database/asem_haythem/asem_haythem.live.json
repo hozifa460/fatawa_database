@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "بث امس حلقة 1",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=n7SIS-CabHk",
+          "imageUrl": "https://i.ytimg.com/vi/n7SIS-CabHk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=n7SIS-CabHk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "بدأت قناة \"عاصم هيثم اشكنتنا\" بثًا مباشرًا",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
