@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع يُبكي القلوب تلاوة مشهورة ... الشيخ محمد صديق المنشاوي 🎧",
+          "title": "الجواهر الخالدة ✦ المقطع الذي يبحث عنه عشاق التلاوات النادرة | الشيخ محمد صديق المنشاوي 💙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=a0_Xu1VLAyw",
-          "imageUrl": "https://i.ytimg.com/vi/a0_Xu1VLAyw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=a0_Xu1VLAyw",
+          "audioUrl": "https://www.youtube.com/watch?v=fBVdF0Tf6Qs",
+          "imageUrl": "https://i.ytimg.com/vi/fBVdF0Tf6Qs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fBVdF0Tf6Qs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=6N12-IF3hn8",
           "imageUrl": "https://i.ytimg.com/vi/6N12-IF3hn8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=6N12-IF3hn8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يُبكي القلوب تلاوة مشهورة ... الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=a0_Xu1VLAyw",
+          "imageUrl": "https://i.ytimg.com/vi/a0_Xu1VLAyw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=a0_Xu1VLAyw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
