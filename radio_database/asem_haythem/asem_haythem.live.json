@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "بث حلقة امس الجزء 2",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=7S90vAgAwkc",
+          "imageUrl": "https://i.ytimg.com/vi/7S90vAgAwkc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7S90vAgAwkc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "بث امس حلقة 1",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
