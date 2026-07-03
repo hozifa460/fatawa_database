@@ -40,16 +40,6 @@
           "title": "اتصالات المسلمين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=hxTzYcLhtV8",
-          "imageUrl": "https://i.ytimg.com/vi/hxTzYcLhtV8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=hxTzYcLhtV8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "اتصالات المسلمين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=DvVnfyPMTDg",
           "imageUrl": "https://i.ytimg.com/vi/DvVnfyPMTDg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=DvVnfyPMTDg",
@@ -133,6 +123,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=laq7p2H0DFM",
           "imageUrl": "https://i.ytimg.com/vi/laq7p2H0DFM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=laq7p2H0DFM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=hxTzYcLhtV8",
+          "imageUrl": "https://i.ytimg.com/vi/hxTzYcLhtV8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=hxTzYcLhtV8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
