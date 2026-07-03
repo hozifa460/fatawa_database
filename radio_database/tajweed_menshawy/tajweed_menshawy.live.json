@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الجواهر الخالدة ✦ المقطع الذي يبحث عنه عشاق التلاوات النادرة | الشيخ محمد صديق المنشاوي 💙",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=fBVdF0Tf6Qs",
-          "imageUrl": "https://i.ytimg.com/vi/fBVdF0Tf6Qs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=fBVdF0Tf6Qs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=bVW7oEStWwY",
           "imageUrl": "https://i.ytimg.com/vi/bVW7oEStWwY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=bVW7oEStWwY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الجواهر الخالدة ✦ المقطع الذي يبحث عنه عشاق التلاوات النادرة | الشيخ محمد صديق المنشاوي 💙",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fBVdF0Tf6Qs",
+          "imageUrl": "https://i.ytimg.com/vi/fBVdF0Tf6Qs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fBVdF0Tf6Qs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
