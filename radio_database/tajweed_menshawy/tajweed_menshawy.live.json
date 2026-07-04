@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "دواء القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ المنشاوي | جودة ممتازة 🎧",
+          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=kAhDd1sVtZg",
-          "imageUrl": "https://i.ytimg.com/vi/kAhDd1sVtZg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=kAhDd1sVtZg",
+          "audioUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
+          "imageUrl": "https://i.ytimg.com/vi/PdOxQOWNtZI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
           "imageUrl": "https://i.ytimg.com/vi/CRsBJ09Ysos/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "دواء القلوب | خشوع وإبداع لا يوصف لقارئ القلوب الشيخ المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kAhDd1sVtZg",
+          "imageUrl": "https://i.ytimg.com/vi/kAhDd1sVtZg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kAhDd1sVtZg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
