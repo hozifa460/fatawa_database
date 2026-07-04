@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "بكاء النساء علي أشد المقامات حزنا ! صوت يخترق القلوب بقلب باكي من شاب معجزة سيكون مستقبل التلاوة HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=A2LO-MVhr74",
-          "imageUrl": "https://i.ytimg.com/vi/A2LO-MVhr74/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=A2LO-MVhr74",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "فرنسا طلبوا منه سورة يوسف فقرأها البرطاني ايوب عاصف أفضل مرة | Ayyub Asif - Surah Yusuf",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=TcbFUGLKHWo",
           "imageUrl": "https://i.ytimg.com/vi/TcbFUGLKHWo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=TcbFUGLKHWo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بكاء النساء علي أشد المقامات حزنا ! صوت يخترق القلوب بقلب باكي من شاب معجزة سيكون مستقبل التلاوة HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=A2LO-MVhr74",
+          "imageUrl": "https://i.ytimg.com/vi/A2LO-MVhr74/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=A2LO-MVhr74",
           "videoSource": "youtube",
           "mediaType": "both"
         },
