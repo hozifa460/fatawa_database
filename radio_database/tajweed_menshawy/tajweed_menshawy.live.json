@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
-          "imageUrl": "https://i.ytimg.com/vi/PdOxQOWNtZI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "جمال يفوق الوصف ✦ تلاوة عذبة جداً تملأ قلبك بالسكينة | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
           "imageUrl": "https://i.ytimg.com/vi/CRsBJ09Ysos/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
+          "imageUrl": "https://i.ytimg.com/vi/PdOxQOWNtZI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
