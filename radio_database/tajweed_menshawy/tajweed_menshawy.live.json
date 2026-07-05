@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
+          "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
-          "imageUrl": "https://i.ytimg.com/vi/PdOxQOWNtZI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
+          "audioUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
+          "imageUrl": "https://i.ytimg.com/vi/-RZPjYX8tdg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=YTpf8yRzsRg",
           "imageUrl": "https://i.ytimg.com/vi/YTpf8yRzsRg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=YTpf8yRzsRg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
+          "imageUrl": "https://i.ytimg.com/vi/PdOxQOWNtZI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
