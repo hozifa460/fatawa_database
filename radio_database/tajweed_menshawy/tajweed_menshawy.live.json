@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "جمال يفوق الوصف ✦ تلاوة عذبة جداً تملأ قلبك بالسكينة | الشيخ محمد صديق المنشاوي 🎧",
+          "title": "خشوع وعذوبة تأسر القلوب |  تلاوة مباركة بصوت مؤثر للصوت الباكي ... الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
-          "imageUrl": "https://i.ytimg.com/vi/CRsBJ09Ysos/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
+          "audioUrl": "https://www.youtube.com/watch?v=YTpf8yRzsRg",
+          "imageUrl": "https://i.ytimg.com/vi/YTpf8yRzsRg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YTpf8yRzsRg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
           "imageUrl": "https://i.ytimg.com/vi/PdOxQOWNtZI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=PdOxQOWNtZI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "جمال يفوق الوصف ✦ تلاوة عذبة جداً تملأ قلبك بالسكينة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
+          "imageUrl": "https://i.ytimg.com/vi/CRsBJ09Ysos/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CRsBJ09Ysos",
           "videoSource": "youtube",
           "mediaType": "both"
         },
