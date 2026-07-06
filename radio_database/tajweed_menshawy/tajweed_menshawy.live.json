@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "في هدوء الليل.. السكينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=6fu3LXoWDn8",
+          "imageUrl": "https://i.ytimg.com/vi/6fu3LXoWDn8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6fu3LXoWDn8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تهدأ معها النفس وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
+          "imageUrl": "https://i.ytimg.com/vi/rL3Qc41lNqo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
           "imageUrl": "https://i.ytimg.com/vi/eW9xYuj7ClU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "روائع الصوت الباكي... تلاوة تهدأ معها النفس وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
-          "imageUrl": "https://i.ytimg.com/vi/rL3Qc41lNqo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
