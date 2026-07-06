@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
+          "title": "روائع الصوت الباكي... تلاوة تهدأ معها النفس وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
-          "imageUrl": "https://i.ytimg.com/vi/-RZPjYX8tdg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
+          "audioUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
+          "imageUrl": "https://i.ytimg.com/vi/rL3Qc41lNqo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
           "imageUrl": "https://i.ytimg.com/vi/eW9xYuj7ClU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
+          "imageUrl": "https://i.ytimg.com/vi/-RZPjYX8tdg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
