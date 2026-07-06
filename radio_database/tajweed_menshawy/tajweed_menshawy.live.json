@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "روائع الصوت الباكي... تلاوة تهدأ معها النفس وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
-          "imageUrl": "https://i.ytimg.com/vi/rL3Qc41lNqo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
           "imageUrl": "https://i.ytimg.com/vi/eW9xYuj7ClU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تهدأ معها النفس وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
+          "imageUrl": "https://i.ytimg.com/vi/rL3Qc41lNqo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
