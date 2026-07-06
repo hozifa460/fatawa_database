@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
+          "imageUrl": "https://i.ytimg.com/vi/-RZPjYX8tdg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
           "imageUrl": "https://i.ytimg.com/vi/rL3Qc41lNqo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=rL3Qc41lNqo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
-          "imageUrl": "https://i.ytimg.com/vi/-RZPjYX8tdg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=-RZPjYX8tdg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
