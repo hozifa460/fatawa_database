@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
-          "imageUrl": "https://i.ytimg.com/vi/A--vWEeZVLM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "في هدوء الليل.. السكينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=6fu3LXoWDn8",
           "imageUrl": "https://i.ytimg.com/vi/6fu3LXoWDn8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=6fu3LXoWDn8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
+          "imageUrl": "https://i.ytimg.com/vi/A--vWEeZVLM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
