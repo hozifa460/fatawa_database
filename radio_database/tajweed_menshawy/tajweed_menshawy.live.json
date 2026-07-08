@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
-          "imageUrl": "https://i.ytimg.com/vi/A--vWEeZVLM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=_DI4cOfY3GI",
           "imageUrl": "https://i.ytimg.com/vi/_DI4cOfY3GI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=_DI4cOfY3GI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة ومريحة للأعصاب - محمد صديق المنشاوي - قمة الابداع والاعجاز !! تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
+          "imageUrl": "https://i.ytimg.com/vi/A--vWEeZVLM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=A--vWEeZVLM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
