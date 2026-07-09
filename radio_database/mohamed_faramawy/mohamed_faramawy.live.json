@@ -1,0 +1,32 @@
+{
+  "id": "mohamed_faramawy",
+  "title": "جديد محمد فرماوي",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد محمد فرماوي على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد محمد فرماوي",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "هل الإسلام هو الدين الصحيح ولماذا؟ (من اللادين الي أبواب الجنه) مع د هيثم طلعت @Dr.Haitham_Talaat",
+          "subtitle": "جديد محمد فرماوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PPk8cSXOMRc",
+          "imageUrl": "https://i.ytimg.com/vi/PPk8cSXOMRc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PPk8cSXOMRc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
