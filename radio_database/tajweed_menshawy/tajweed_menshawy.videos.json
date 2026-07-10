@@ -17,12 +17,52 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "( أم حسبت أن أصحاب الكهف ) || سورة الكهف || محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=XkwpNXrmBjk",
+          "imageUrl": "https://i.ytimg.com/vi/XkwpNXrmBjk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=XkwpNXrmBjk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "قرآن يوم الجمعة بصوت هادئ تطيب له القلوب | الشيخ المنشاوي | سورة الكهف كاملة – Surah Al-Kahf",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=12Q0q3W2u5g",
           "imageUrl": "https://i.ytimg.com/vi/12Q0q3W2u5g/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=12Q0q3W2u5g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=rP5gQwriIFs",
+          "imageUrl": "https://i.ytimg.com/vi/rP5gQwriIFs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rP5gQwriIFs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "( أم خلقوا من غير شيء أم هم الخالقون ) سورة الطور | #المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=X-ooFitS2MY",
+          "imageUrl": "https://i.ytimg.com/vi/X-ooFitS2MY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=X-ooFitS2MY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "﴿ إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ ﴾ ما تيسر من سورة هود | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Ps9XhgaPr-s",
+          "imageUrl": "https://i.ytimg.com/vi/Ps9XhgaPr-s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Ps9XhgaPr-s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -47,46 +87,6 @@
           "mediaType": "both"
         },
         {
-          "title": "تلاوة خاشعة تُريح القلب والسمع ✦ سورة الزخرف والدخان ✦ الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=idyQoXQi5oY",
-          "imageUrl": "https://i.ytimg.com/vi/idyQoXQi5oY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=idyQoXQi5oY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "من الروائع التي لا تُنسى | تلاوة عظيمة تهز الوجدان من سورة آل عمران | الشيخ المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=RktzDiWOk8M",
-          "imageUrl": "https://i.ytimg.com/vi/RktzDiWOk8M/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=RktzDiWOk8M",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "﴿ إِنَّ رَبِّي قَرِيبٌ مُّجِيبٌ ﴾ ما تيسر من سورة هود | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Ps9XhgaPr-s",
-          "imageUrl": "https://i.ytimg.com/vi/Ps9XhgaPr-s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Ps9XhgaPr-s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=rP5gQwriIFs",
-          "imageUrl": "https://i.ytimg.com/vi/rP5gQwriIFs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=rP5gQwriIFs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "في هدوء الليل.. السكينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -107,6 +107,16 @@
           "mediaType": "both"
         },
         {
+          "title": "تلاوة خاشعة تُريح القلب والسمع ✦ سورة الزخرف والدخان ✦ الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=idyQoXQi5oY",
+          "imageUrl": "https://i.ytimg.com/vi/idyQoXQi5oY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=idyQoXQi5oY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "إذا قرأ المنشاوي...  سكنت النفس واطمأن القلب 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -123,6 +133,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
           "imageUrl": "https://i.ytimg.com/vi/eW9xYuj7ClU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=eW9xYuj7ClU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من الروائع التي لا تُنسى | تلاوة عظيمة تهز الوجدان من سورة آل عمران | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=RktzDiWOk8M",
+          "imageUrl": "https://i.ytimg.com/vi/RktzDiWOk8M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=RktzDiWOk8M",
           "videoSource": "youtube",
           "mediaType": "both"
         },
