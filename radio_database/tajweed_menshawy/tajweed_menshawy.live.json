@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2Fc97bRSxRI",
+          "imageUrl": "https://i.ytimg.com/vi/2Fc97bRSxRI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2Fc97bRSxRI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=NGgi0pQpH9Y",
           "imageUrl": "https://i.ytimg.com/vi/NGgi0pQpH9Y/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NGgi0pQpH9Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2Fc97bRSxRI",
-          "imageUrl": "https://i.ytimg.com/vi/2Fc97bRSxRI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2Fc97bRSxRI",
           "videoSource": "youtube",
           "mediaType": "both"
         },

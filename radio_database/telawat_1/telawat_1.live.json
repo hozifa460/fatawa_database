@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "جنون الرجال والحاضرين من كبار القراء وبكائهم من تلاوة المعجزة صالح مهدي زاده ! تلاوة لا مثيل لها HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=v6oHp68cOP4",
-          "imageUrl": "https://i.ytimg.com/vi/v6oHp68cOP4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=v6oHp68cOP4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "جنن جنونهم في جنوب افريقيا من المصري المعجزة ! دكتور التلاوة المصرية عبدالناصر حرك نغم لا وصف له HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=6c7ZXQ_v8bA",
           "imageUrl": "https://i.ytimg.com/vi/6c7ZXQ_v8bA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=6c7ZXQ_v8bA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "جنون الرجال والحاضرين من كبار القراء وبكائهم من تلاوة المعجزة صالح مهدي زاده ! تلاوة لا مثيل لها HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=v6oHp68cOP4",
+          "imageUrl": "https://i.ytimg.com/vi/v6oHp68cOP4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v6oHp68cOP4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
