@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح سمعك قليلاً من ضجيج الدنيا.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=cOYM_grMEvM",
-          "imageUrl": "https://i.ytimg.com/vi/cOYM_grMEvM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=cOYM_grMEvM",
+          "audioUrl": "https://www.youtube.com/watch?v=9DlSp0eqYr8",
+          "imageUrl": "https://i.ytimg.com/vi/9DlSp0eqYr8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9DlSp0eqYr8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=SCQZJT6JSYw",
           "imageUrl": "https://i.ytimg.com/vi/SCQZJT6JSYw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=SCQZJT6JSYw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح سمعك قليلاً من ضجيج الدنيا.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cOYM_grMEvM",
+          "imageUrl": "https://i.ytimg.com/vi/cOYM_grMEvM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cOYM_grMEvM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
