@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "(14) هل نتحاكم للقرآن؟ | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=y5sJMPqFrBY",
+          "imageUrl": "https://i.ytimg.com/vi/y5sJMPqFrBY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=y5sJMPqFrBY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "(13) خطوات العمل بالقرآن | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kKsX0DhPKMQ",
+          "imageUrl": "https://i.ytimg.com/vi/kKsX0DhPKMQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kKsX0DhPKMQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "(2) منشأ الكرم | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wv3WBrys0sA",
+          "imageUrl": "https://i.ytimg.com/vi/wv3WBrys0sA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wv3WBrys0sA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "قصتهم هي قصتنا",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -63,16 +93,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=jzQdPDwX2cg",
           "imageUrl": "https://i.ytimg.com/vi/jzQdPDwX2cg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=jzQdPDwX2cg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "(14) هل نتحاكم للقرآن؟ | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=y5sJMPqFrBY",
-          "imageUrl": "https://i.ytimg.com/vi/y5sJMPqFrBY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=y5sJMPqFrBY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -137,32 +157,12 @@
           "mediaType": "both"
         },
         {
-          "title": "(13) خطوات العمل بالقرآن | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=kKsX0DhPKMQ",
-          "imageUrl": "https://i.ytimg.com/vi/kKsX0DhPKMQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=kKsX0DhPKMQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الدرس بكرة مهم لكل مسلم🤝🏻",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=dKrHTg9jk_8",
           "imageUrl": "https://i.ytimg.com/vi/dKrHTg9jk_8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=dKrHTg9jk_8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "(2) منشأ الكرم | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wv3WBrys0sA",
-          "imageUrl": "https://i.ytimg.com/vi/wv3WBrys0sA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wv3WBrys0sA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
