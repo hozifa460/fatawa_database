@@ -1,0 +1,32 @@
+{
+  "id": "haytham_talaat",
+  "title": "الدكتور هيثم طلعت",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة الدكتور هيثم طلعت على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "شورتس — الدكتور هيثم طلعت",
+      "subtitle": "يوتيوب",
+      "emoji": "📱",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "ما ذنب الكافر الذي لا يعرف الإسلام؟ #حيران_له_أصحاب  #هيثم_طلعت",
+          "subtitle": "الدكتور هيثم طلعت",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SpMq2cuLp0Y",
+          "imageUrl": "https://i.ytimg.com/vi/SpMq2cuLp0Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SpMq2cuLp0Y",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
