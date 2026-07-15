@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة أبهرت الجميع بجمالها وخشوعها لفضيلة الشيخ المنشاوي بجودة فائقة ᴴᴰ",
+          "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=DDLuBKfvLyw",
-          "imageUrl": "https://i.ytimg.com/vi/DDLuBKfvLyw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=DDLuBKfvLyw",
+          "audioUrl": "https://www.youtube.com/watch?v=vbzSX_D39gc",
+          "imageUrl": "https://i.ytimg.com/vi/vbzSX_D39gc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vbzSX_D39gc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -43,6 +43,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=jNt7BmjqDrk",
           "imageUrl": "https://i.ytimg.com/vi/jNt7BmjqDrk/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=jNt7BmjqDrk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة أبهرت الجميع بجمالها وخشوعها لفضيلة الشيخ المنشاوي بجودة فائقة ᴴᴰ",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=DDLuBKfvLyw",
+          "imageUrl": "https://i.ytimg.com/vi/DDLuBKfvLyw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=DDLuBKfvLyw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
