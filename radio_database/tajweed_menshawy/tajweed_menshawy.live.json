@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=xUJSx5JoLdg",
-          "imageUrl": "https://i.ytimg.com/vi/xUJSx5JoLdg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=xUJSx5JoLdg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة أبهرت الجميع بجمالها وخشوعها لفضيلة الشيخ المنشاوي بجودة فائقة ᴴᴰ",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=DDLuBKfvLyw",
           "imageUrl": "https://i.ytimg.com/vi/DDLuBKfvLyw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=DDLuBKfvLyw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=xUJSx5JoLdg",
+          "imageUrl": "https://i.ytimg.com/vi/xUJSx5JoLdg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=xUJSx5JoLdg",
           "videoSource": "youtube",
           "mediaType": "both"
         },

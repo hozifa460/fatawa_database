@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تفاجئ بدخول مرشد الثورة عليه أثناء التلاوة وقام بتحيته ورد عليه بتقليد أقوي مدرسة قرآنية في التاريخ",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=hTMNrK0t-4o",
-          "imageUrl": "https://i.ytimg.com/vi/hTMNrK0t-4o/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=hTMNrK0t-4o",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ساعة تذهب حزنك قلبك بدون توقف في جميع تلاوات صالح مهدي زاده ! ارح سمعك وقلبك بصوت نزل من الجنة HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=dSMBklArv5w",
           "imageUrl": "https://i.ytimg.com/vi/dSMBklArv5w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=dSMBklArv5w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تفاجئ بدخول مرشد الثورة عليه أثناء التلاوة وقام بتحيته ورد عليه بتقليد أقوي مدرسة قرآنية في التاريخ",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=hTMNrK0t-4o",
+          "imageUrl": "https://i.ytimg.com/vi/hTMNrK0t-4o/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=hTMNrK0t-4o",
           "videoSource": "youtube",
           "mediaType": "both"
         },
