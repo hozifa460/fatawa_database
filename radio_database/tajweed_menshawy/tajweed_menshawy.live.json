@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2WYo-JB8U3s",
-          "imageUrl": "https://i.ytimg.com/vi/2WYo-JB8U3s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2WYo-JB8U3s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=vbzSX_D39gc",
           "imageUrl": "https://i.ytimg.com/vi/vbzSX_D39gc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=vbzSX_D39gc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2WYo-JB8U3s",
+          "imageUrl": "https://i.ytimg.com/vi/2WYo-JB8U3s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2WYo-JB8U3s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
