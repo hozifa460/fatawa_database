@@ -27,22 +27,22 @@
           "mediaType": "both"
         },
         {
-          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=SkTf6Un-4A0",
-          "imageUrl": "https://i.ytimg.com/vi/SkTf6Un-4A0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=SkTf6Un-4A0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=2WYo-JB8U3s",
           "imageUrl": "https://i.ytimg.com/vi/2WYo-JB8U3s/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=2WYo-JB8U3s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SkTf6Un-4A0",
+          "imageUrl": "https://i.ytimg.com/vi/SkTf6Un-4A0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SkTf6Un-4A0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
