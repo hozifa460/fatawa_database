@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=H6tR8VPniH4",
+          "imageUrl": "https://i.ytimg.com/vi/H6tR8VPniH4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=H6tR8VPniH4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "إذا قرأ المنشاوي... سكنت النفس وغابت هموم الدنيا 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=SkTf6Un-4A0",
           "imageUrl": "https://i.ytimg.com/vi/SkTf6Un-4A0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=SkTf6Un-4A0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=H6tR8VPniH4",
-          "imageUrl": "https://i.ytimg.com/vi/H6tR8VPniH4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=H6tR8VPniH4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
