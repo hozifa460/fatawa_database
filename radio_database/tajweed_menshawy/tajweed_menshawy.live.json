@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=CcEhsKLEgj4",
-          "imageUrl": "https://i.ytimg.com/vi/CcEhsKLEgj4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CcEhsKLEgj4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة رائعة لا توصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=pLfrm3Zu2cI",
           "imageUrl": "https://i.ytimg.com/vi/pLfrm3Zu2cI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=pLfrm3Zu2cI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CcEhsKLEgj4",
+          "imageUrl": "https://i.ytimg.com/vi/CcEhsKLEgj4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CcEhsKLEgj4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
