@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "جول في خيمة سوار",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
+          "imageUrl": "https://i.ytimg.com/vi/Q6AhznAAiP8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "\"بدك تعمل شيخ علينا؟\"",
           "subtitle": "جديد الدكتور اياد القنيبي",
           "emoji": "",
@@ -143,16 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=gNNZZDsKNSU",
           "imageUrl": "https://i.ytimg.com/vi/gNNZZDsKNSU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=gNNZZDsKNSU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "جول في خيمة سوار",
-          "subtitle": "جديد الدكتور اياد القنيبي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
-          "imageUrl": "https://i.ytimg.com/vi/Q6AhznAAiP8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
           "videoSource": "youtube",
           "mediaType": "both"
         },

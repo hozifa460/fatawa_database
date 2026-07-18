@@ -1,0 +1,32 @@
+{
+  "id": "mahmoud_nassar",
+  "title": "جديد الشيخ محمود نصار",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد الشيخ محمود نصار على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد الشيخ محمود نصار",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "شبهة : انقطاع الوحي بعد وفاة ورقة بن نوفل مباشرة دليل أنه مؤلف القرءان !",
+          "subtitle": "جديد الشيخ محمود نصار",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=enhqTLmZBkw",
+          "imageUrl": "https://i.ytimg.com/vi/enhqTLmZBkw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=enhqTLmZBkw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
