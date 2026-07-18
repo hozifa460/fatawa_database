@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة رائعة لا توصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=pLfrm3Zu2cI",
-          "imageUrl": "https://i.ytimg.com/vi/pLfrm3Zu2cI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=pLfrm3Zu2cI",
+          "audioUrl": "https://www.youtube.com/watch?v=wKw4ATts3lE",
+          "imageUrl": "https://i.ytimg.com/vi/wKw4ATts3lE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wKw4ATts3lE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=CcEhsKLEgj4",
           "imageUrl": "https://i.ytimg.com/vi/CcEhsKLEgj4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CcEhsKLEgj4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة رائعة لا توصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=pLfrm3Zu2cI",
+          "imageUrl": "https://i.ytimg.com/vi/pLfrm3Zu2cI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pLfrm3Zu2cI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
