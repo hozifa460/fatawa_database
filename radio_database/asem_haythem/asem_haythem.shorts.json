@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "بعض المعممين",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=G-dnQkp3GJs",
+          "imageUrl": "https://i.ytimg.com/vi/G-dnQkp3GJs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=G-dnQkp3GJs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "تأثير الحوارات على المخالفين",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
