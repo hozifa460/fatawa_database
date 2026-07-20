@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تفاجئ بدخول مرشد الثورة الخامئني عليه أثناء التلاوة وقام بتحيته ورد عليه بتقليد أقوي مدرسة قرآنية HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=MTx1mpTAyl4",
-          "imageUrl": "https://i.ytimg.com/vi/MTx1mpTAyl4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=MTx1mpTAyl4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "🔴 Makkah Live HD | بث مباشر مكة المكرمة | الحرم المكي مباشر | قناة القرآن الكريم السعودية",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=KzTy0J7K8_c",
           "imageUrl": "https://i.ytimg.com/vi/KzTy0J7K8_c/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KzTy0J7K8_c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تفاجئ بدخول مرشد الثورة الخامئني عليه أثناء التلاوة وقام بتحيته ورد عليه بتقليد أقوي مدرسة قرآنية HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=MTx1mpTAyl4",
+          "imageUrl": "https://i.ytimg.com/vi/MTx1mpTAyl4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=MTx1mpTAyl4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
