@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع يهز القلوب | إبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "title": "إذا صدح صوت المنشاوي... اهتزت الأرواح بخشوع عجيب",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dTrADEz0D0E",
-          "imageUrl": "https://i.ytimg.com/vi/dTrADEz0D0E/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dTrADEz0D0E",
+          "audioUrl": "https://www.youtube.com/watch?v=YduuUvo_xMI",
+          "imageUrl": "https://i.ytimg.com/vi/YduuUvo_xMI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=YduuUvo_xMI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=0ANdVdkJwDo",
           "imageUrl": "https://i.ytimg.com/vi/0ANdVdkJwDo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=0ANdVdkJwDo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يهز القلوب | إبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dTrADEz0D0E",
+          "imageUrl": "https://i.ytimg.com/vi/dTrADEz0D0E/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dTrADEz0D0E",
           "videoSource": "youtube",
           "mediaType": "both"
         },
