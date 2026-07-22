@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أفضل رقية شرعية لعلاج الحسد السحر العين حفظ وتحصين للمنزل باذن الله الشيخ ماهر المعيقلى - جودة عالية",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=tZZ7r2zLnpo",
-          "imageUrl": "https://i.ytimg.com/vi/tZZ7r2zLnpo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tZZ7r2zLnpo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "قرآن الصباح | سورة البقرة لحفظ وتحصين المنزل | بصوت الشيخ ماهر المعيقلي - جودة عالية HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=G-reb7Vnt_g",
           "imageUrl": "https://i.ytimg.com/vi/G-reb7Vnt_g/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=G-reb7Vnt_g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أفضل رقية شرعية لعلاج الحسد السحر العين حفظ وتحصين للمنزل باذن الله الشيخ ماهر المعيقلى - جودة عالية",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=tZZ7r2zLnpo",
+          "imageUrl": "https://i.ytimg.com/vi/tZZ7r2zLnpo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=tZZ7r2zLnpo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
