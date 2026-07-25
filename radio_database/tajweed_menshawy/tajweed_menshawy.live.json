@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
-          "imageUrl": "https://i.ytimg.com/vi/vKyJePdCfQA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "قرآن الفجر بصوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=4Y44FCqYodo",
           "imageUrl": "https://i.ytimg.com/vi/4Y44FCqYodo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4Y44FCqYodo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
+          "imageUrl": "https://i.ytimg.com/vi/vKyJePdCfQA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
