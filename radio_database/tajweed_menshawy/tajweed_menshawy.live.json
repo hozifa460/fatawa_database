@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حين يقرأ المنشاوي... يأخذك إلى عالمٍ من السكينة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=JQ5TRK-pMRE",
+          "imageUrl": "https://i.ytimg.com/vi/JQ5TRK-pMRE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=JQ5TRK-pMRE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
+          "imageUrl": "https://i.ytimg.com/vi/vKyJePdCfQA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "التلاوة الخالدة التي لامست قلوب الملايين | الشيخ المنشاوي رحمه الله",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=4Y44FCqYodo",
           "imageUrl": "https://i.ytimg.com/vi/4Y44FCqYodo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4Y44FCqYodo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
-          "imageUrl": "https://i.ytimg.com/vi/vKyJePdCfQA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vKyJePdCfQA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
