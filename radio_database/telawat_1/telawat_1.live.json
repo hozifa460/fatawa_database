@@ -17,12 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "عبدالباسط حي ولم يمت 🤯 شاب معجزة يقلده بطريقة عجيبة تكاد تكون الأقوي ويجنن كبار القراء الحاضرين HD",
+          "title": "سيبكي قلبك قبل عينك من سورة يوسف ! صاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=2EmIiTEisik",
-          "imageUrl": "https://i.ytimg.com/vi/2EmIiTEisik/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=2EmIiTEisik",
+          "audioUrl": "https://www.youtube.com/watch?v=RYddra02uFE",
+          "imageUrl": "https://i.ytimg.com/vi/RYddra02uFE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=RYddra02uFE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة ترق لها القلب من سورة طه للقارئ ماهر المعيقلي | Maher Al Muaiqly - Surah Taha",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Tr8KCXEUxDc",
+          "imageUrl": "https://i.ytimg.com/vi/Tr8KCXEUxDc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Tr8KCXEUxDc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +43,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=4P4etACDrwM",
           "imageUrl": "https://i.ytimg.com/vi/4P4etACDrwM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4P4etACDrwM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "عبدالباسط حي ولم يمت 🤯 شاب معجزة يقلده بطريقة عجيبة تكاد تكون الأقوي ويجنن كبار القراء الحاضرين HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2EmIiTEisik",
+          "imageUrl": "https://i.ytimg.com/vi/2EmIiTEisik/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2EmIiTEisik",
           "videoSource": "youtube",
           "mediaType": "both"
         },
