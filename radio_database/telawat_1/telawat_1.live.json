@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة ترق لها القلب من سورة طه للقارئ ماهر المعيقلي | Maher Al Muaiqly - Surah Taha",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Tr8KCXEUxDc",
-          "imageUrl": "https://i.ytimg.com/vi/Tr8KCXEUxDc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Tr8KCXEUxDc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "سيبكي قلبك قبل عينك من سورة يوسف ! صاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=RYddra02uFE",
           "imageUrl": "https://i.ytimg.com/vi/RYddra02uFE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=RYddra02uFE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة ترق لها القلب من سورة طه للقارئ ماهر المعيقلي | Maher Al Muaiqly - Surah Taha",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Tr8KCXEUxDc",
+          "imageUrl": "https://i.ytimg.com/vi/Tr8KCXEUxDc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Tr8KCXEUxDc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
