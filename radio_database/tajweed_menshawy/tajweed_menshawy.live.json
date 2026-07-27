@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة أذهلت الجميع بجمالها وخشوعها لفضيلة الشيخ المنشاوي بجودة فائقة ᴴᴰ",
+          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=zY9f9Hvy_OU",
-          "imageUrl": "https://i.ytimg.com/vi/zY9f9Hvy_OU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=zY9f9Hvy_OU",
+          "audioUrl": "https://www.youtube.com/watch?v=QZyolQDQUFs",
+          "imageUrl": "https://i.ytimg.com/vi/QZyolQDQUFs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QZyolQDQUFs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=9MY0kGsLpiU",
           "imageUrl": "https://i.ytimg.com/vi/9MY0kGsLpiU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9MY0kGsLpiU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة أذهلت الجميع بجمالها وخشوعها لفضيلة الشيخ المنشاوي بجودة فائقة ᴴᴰ",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zY9f9Hvy_OU",
+          "imageUrl": "https://i.ytimg.com/vi/zY9f9Hvy_OU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zY9f9Hvy_OU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
