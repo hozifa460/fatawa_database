@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=QZyolQDQUFs",
-          "imageUrl": "https://i.ytimg.com/vi/QZyolQDQUFs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=QZyolQDQUFs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة باكية نادرة ✦ تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=9MY0kGsLpiU",
           "imageUrl": "https://i.ytimg.com/vi/9MY0kGsLpiU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9MY0kGsLpiU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=QZyolQDQUFs",
+          "imageUrl": "https://i.ytimg.com/vi/QZyolQDQUFs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QZyolQDQUFs",
           "videoSource": "youtube",
           "mediaType": "both"
         },

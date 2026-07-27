@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "(1) قصتهم هي قصتنا  -  محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=SpLDwKaTclc",
+          "imageUrl": "https://i.ytimg.com/vi/SpLDwKaTclc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=SpLDwKaTclc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "(16) كيف تدعو للقرآن؟ | سلسلة كلمات - محمد الغليظ",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -27,22 +37,22 @@
           "mediaType": "both"
         },
         {
-          "title": "قصتهم هي قصتنا - ما تنسوش معادنا النهاردة 10:30 إن شاء الله",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=elKkhj8dq7s",
-          "imageUrl": "https://i.ytimg.com/vi/elKkhj8dq7s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=elKkhj8dq7s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "(15) لماذا نحفظ القرآن؟ | سلسلة كلمات - محمد الغليظ",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=bnovqsFPpVQ",
           "imageUrl": "https://i.ytimg.com/vi/bnovqsFPpVQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=bnovqsFPpVQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قصتهم هي قصتنا - ما تنسوش معادنا النهاردة 10:30 إن شاء الله",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=elKkhj8dq7s",
+          "imageUrl": "https://i.ytimg.com/vi/elKkhj8dq7s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=elKkhj8dq7s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
