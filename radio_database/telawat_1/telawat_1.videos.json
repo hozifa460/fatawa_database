@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سورة الملك مكررة 10 مرات لملك الحشوع ماهر المعيقلي | Surah Al-Mulk - Maher Al Muaiqly",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=3sHvxTQapmI",
-          "imageUrl": "https://i.ytimg.com/vi/3sHvxTQapmI/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=3sHvxTQapmI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ستتمني ألا تنتهي هذه التلاوة من شدة جمالها .. سورة المؤمنون من ملك الحنان الشيخ محمد ايوب HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
@@ -43,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=BP7gT-XTzI0",
           "imageUrl": "https://i.ytimg.com/vi/BP7gT-XTzI0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=BP7gT-XTzI0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سورة الملك مكررة 10 مرات لملك الحشوع ماهر المعيقلي | Surah Al-Mulk - Maher Al Muaiqly",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3sHvxTQapmI",
+          "imageUrl": "https://i.ytimg.com/vi/3sHvxTQapmI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3sHvxTQapmI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
