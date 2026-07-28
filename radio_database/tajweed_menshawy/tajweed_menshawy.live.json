@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ROgIj978eBo",
-          "imageUrl": "https://i.ytimg.com/vi/ROgIj978eBo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ROgIj978eBo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=NXDtYHGILxA",
           "imageUrl": "https://i.ytimg.com/vi/NXDtYHGILxA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NXDtYHGILxA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ROgIj978eBo",
+          "imageUrl": "https://i.ytimg.com/vi/ROgIj978eBo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ROgIj978eBo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
