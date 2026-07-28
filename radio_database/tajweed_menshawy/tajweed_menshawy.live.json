@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
+          "title": "إتقان مبهر... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=NXDtYHGILxA",
-          "imageUrl": "https://i.ytimg.com/vi/NXDtYHGILxA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=NXDtYHGILxA",
+          "audioUrl": "https://www.youtube.com/watch?v=KOCRIvLEj5A",
+          "imageUrl": "https://i.ytimg.com/vi/KOCRIvLEj5A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KOCRIvLEj5A",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=ROgIj978eBo",
           "imageUrl": "https://i.ytimg.com/vi/ROgIj978eBo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ROgIj978eBo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=NXDtYHGILxA",
+          "imageUrl": "https://i.ytimg.com/vi/NXDtYHGILxA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NXDtYHGILxA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
