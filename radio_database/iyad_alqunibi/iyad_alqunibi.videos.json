@@ -17,12 +17,92 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "جول في خيمة سوار",
+          "title": "أتوب فوراً...أم أتدرج؟",
           "subtitle": "جديد الدكتور اياد القنيبي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
-          "imageUrl": "https://i.ytimg.com/vi/Q6AhznAAiP8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
+          "audioUrl": "https://www.youtube.com/watch?v=uGLwh5NcjFU",
+          "imageUrl": "https://i.ytimg.com/vi/uGLwh5NcjFU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uGLwh5NcjFU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "رسالة لأهلي في مدينة الخليل بخصوص فعالية ستاد الحسين",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ovxGNyqzz_8",
+          "imageUrl": "https://i.ytimg.com/vi/ovxGNyqzz_8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ovxGNyqzz_8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قص أظافر أبيه فسبق المشاهير !",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-nOxQq3hboM",
+          "imageUrl": "https://i.ytimg.com/vi/-nOxQq3hboM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-nOxQq3hboM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "\"سأغوص في المستنقع ثم أغتسل\"",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PFnM4kkrIqQ",
+          "imageUrl": "https://i.ytimg.com/vi/PFnM4kkrIqQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PFnM4kkrIqQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "\"أنا ما بقدر..بس انت بتقدر يا رب\"",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=2L8rSe359XY",
+          "imageUrl": "https://i.ytimg.com/vi/2L8rSe359XY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=2L8rSe359XY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "طلع له مقطع فقلب حياته",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8Nw7Ai2b1zk",
+          "imageUrl": "https://i.ytimg.com/vi/8Nw7Ai2b1zk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8Nw7Ai2b1zk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تنتظر إشارة خاصة من الله؟",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=24pFPOkeoAY",
+          "imageUrl": "https://i.ytimg.com/vi/24pFPOkeoAY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=24pFPOkeoAY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لا تطعن توبة صاحبك !",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=eskxOEBKhrE",
+          "imageUrl": "https://i.ytimg.com/vi/eskxOEBKhrE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=eskxOEBKhrE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بعد موقف السيارة فتحت أبواب لم يطلبها",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=E0LhrVrk5XM",
+          "imageUrl": "https://i.ytimg.com/vi/E0LhrVrk5XM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=E0LhrVrk5XM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -83,6 +163,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=ZbWF1QCt7kE",
           "imageUrl": "https://i.ytimg.com/vi/ZbWF1QCt7kE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ZbWF1QCt7kE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "جول في خيمة سوار",
+          "subtitle": "جديد الدكتور اياد القنيبي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
+          "imageUrl": "https://i.ytimg.com/vi/Q6AhznAAiP8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Q6AhznAAiP8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
