@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "إتقان مبهر... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KOCRIvLEj5A",
-          "imageUrl": "https://i.ytimg.com/vi/KOCRIvLEj5A/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KOCRIvLEj5A",
+          "audioUrl": "https://www.youtube.com/watch?v=pgP1kvVLFY0",
+          "imageUrl": "https://i.ytimg.com/vi/pgP1kvVLFY0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pgP1kvVLFY0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=VB2Ec_za9wA",
           "imageUrl": "https://i.ytimg.com/vi/VB2Ec_za9wA/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=VB2Ec_za9wA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "إتقان مبهر... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KOCRIvLEj5A",
+          "imageUrl": "https://i.ytimg.com/vi/KOCRIvLEj5A/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KOCRIvLEj5A",
           "videoSource": "youtube",
           "mediaType": "both"
         },
