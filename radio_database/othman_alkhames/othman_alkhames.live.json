@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "بث مباشر",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=6nGRNm2h-1k",
+          "imageUrl": "https://i.ytimg.com/vi/6nGRNm2h-1k/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6nGRNm2h-1k",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "472- هل يُقْدِم الإنسان على الأمر بعد الاستخارة مباشرة؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
