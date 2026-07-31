@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=pgP1kvVLFY0",
-          "imageUrl": "https://i.ytimg.com/vi/pgP1kvVLFY0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=pgP1kvVLFY0",
+          "audioUrl": "https://www.youtube.com/watch?v=8B8ltAD5TpQ",
+          "imageUrl": "https://i.ytimg.com/vi/8B8ltAD5TpQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8B8ltAD5TpQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=k33HU72n-JI",
           "imageUrl": "https://i.ytimg.com/vi/k33HU72n-JI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=k33HU72n-JI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=pgP1kvVLFY0",
+          "imageUrl": "https://i.ytimg.com/vi/pgP1kvVLFY0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pgP1kvVLFY0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
