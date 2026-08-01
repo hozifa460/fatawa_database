@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=fbf_a3f3C1I",
-          "imageUrl": "https://i.ytimg.com/vi/fbf_a3f3C1I/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=fbf_a3f3C1I",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=IRmZBifo7mQ",
           "imageUrl": "https://i.ytimg.com/vi/IRmZBifo7mQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=IRmZBifo7mQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fbf_a3f3C1I",
+          "imageUrl": "https://i.ytimg.com/vi/fbf_a3f3C1I/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fbf_a3f3C1I",
           "videoSource": "youtube",
           "mediaType": "both"
         },
