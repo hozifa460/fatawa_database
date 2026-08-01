@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "بث مباشر/ قراءه صحيح مسلم/يوم السبت 18 صفر 1448",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=u7MOR2a0I2w",
-          "imageUrl": "https://i.ytimg.com/vi/u7MOR2a0I2w/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=u7MOR2a0I2w",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "541- هل يُشرع التأمين خلف الدعاء في بثٍّ مباشر؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=8lnfRK0DDV8",
           "imageUrl": "https://i.ytimg.com/vi/8lnfRK0DDV8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=8lnfRK0DDV8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بث مباشر/ قراءه صحيح مسلم/يوم السبت 18 صفر 1448",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=u7MOR2a0I2w",
+          "imageUrl": "https://i.ytimg.com/vi/u7MOR2a0I2w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=u7MOR2a0I2w",
           "videoSource": "youtube",
           "mediaType": "both"
         },
