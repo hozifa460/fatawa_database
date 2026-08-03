@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "التلاوة الخالدة التي أبكت الملايين حول العالم للشيخ المنشاوي رحمه الله",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=tQNP3ES55C0",
+          "imageUrl": "https://i.ytimg.com/vi/tQNP3ES55C0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=tQNP3ES55C0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=lwhhpyRzdwY",
           "imageUrl": "https://i.ytimg.com/vi/lwhhpyRzdwY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=lwhhpyRzdwY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "التلاوة الخالدة التي أبكت الملايين حول العالم للشيخ المنشاوي رحمه الله",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=tQNP3ES55C0",
-          "imageUrl": "https://i.ytimg.com/vi/tQNP3ES55C0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tQNP3ES55C0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
