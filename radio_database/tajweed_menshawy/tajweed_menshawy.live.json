@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الفجر بصوت جميل يبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
-          "imageUrl": "https://i.ytimg.com/vi/F6R5Tuy3vz4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "حين يغلبك البكاء من هيبة الخشوع | تلاوة اسطورية للشيخ #المنشاوي | تجويد بث مباشر 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=-HiEJwpcq-w",
           "imageUrl": "https://i.ytimg.com/vi/-HiEJwpcq-w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=-HiEJwpcq-w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الفجر بصوت جميل يبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
+          "imageUrl": "https://i.ytimg.com/vi/F6R5Tuy3vz4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
