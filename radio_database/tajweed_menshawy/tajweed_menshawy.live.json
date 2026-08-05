@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الفجر بصوت جميل يبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
-          "imageUrl": "https://i.ytimg.com/vi/F6R5Tuy3vz4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
+          "audioUrl": "https://www.youtube.com/watch?v=KUBpeR3J4aY",
+          "imageUrl": "https://i.ytimg.com/vi/KUBpeR3J4aY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KUBpeR3J4aY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=wU_CXX-mlVs",
           "imageUrl": "https://i.ytimg.com/vi/wU_CXX-mlVs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=wU_CXX-mlVs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الفجر بصوت جميل يبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
+          "imageUrl": "https://i.ytimg.com/vi/F6R5Tuy3vz4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=F6R5Tuy3vz4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
