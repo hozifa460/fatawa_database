@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة فاقت الجمال... تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
+          "title": "تلاوة فاقت الجمال ✦ تلاوة تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wU_CXX-mlVs",
-          "imageUrl": "https://i.ytimg.com/vi/wU_CXX-mlVs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wU_CXX-mlVs",
+          "audioUrl": "https://www.youtube.com/watch?v=huFkxdnX9vs",
+          "imageUrl": "https://i.ytimg.com/vi/huFkxdnX9vs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=huFkxdnX9vs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=KUBpeR3J4aY",
           "imageUrl": "https://i.ytimg.com/vi/KUBpeR3J4aY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KUBpeR3J4aY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة فاقت الجمال... تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wU_CXX-mlVs",
+          "imageUrl": "https://i.ytimg.com/vi/wU_CXX-mlVs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wU_CXX-mlVs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
