@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سورة البقرة الشيخ عبد الباسط عبد الصمد | القرآن الكريم مباشر | Surat Al-Baqarah Quran Recitation",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
-          "imageUrl": "https://i.ytimg.com/vi/vvStIN7ogZg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الصباح قرآن من سورة البقرة للشيخ ماهر المعيقلي | Maher Al Muaiqly - Surat Al-Baqarah",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
           "imageUrl": "https://i.ytimg.com/vi/zVsl8CU2EaM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سورة البقرة الشيخ عبد الباسط عبد الصمد | القرآن الكريم مباشر | Surat Al-Baqarah Quran Recitation",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
+          "imageUrl": "https://i.ytimg.com/vi/vvStIN7ogZg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
