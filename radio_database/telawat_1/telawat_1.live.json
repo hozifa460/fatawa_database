@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قشعريرة وبكاء من آيات قيام الساعة ! اذا الشمس كورت من العملاق عبدالباسط عبدالصمد - Surah At-Takwir",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dEzcOF2PT8w",
-          "imageUrl": "https://i.ytimg.com/vi/dEzcOF2PT8w/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dEzcOF2PT8w",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الصباح قرآن من سورة البقرة للشيخ ماهر المعيقلي | Maher Al Muaiqly - Surat Al-Baqarah",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
           "imageUrl": "https://i.ytimg.com/vi/zVsl8CU2EaM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قشعريرة وبكاء من آيات قيام الساعة ! اذا الشمس كورت من العملاق عبدالباسط عبدالصمد - Surah At-Takwir",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dEzcOF2PT8w",
+          "imageUrl": "https://i.ytimg.com/vi/dEzcOF2PT8w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dEzcOF2PT8w",
           "videoSource": "youtube",
           "mediaType": "both"
         },
