@@ -27,22 +27,22 @@
           "mediaType": "both"
         },
         {
-          "title": "تلاوة رائعة وجمال لا يوصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=8dzOuLrcMKU",
-          "imageUrl": "https://i.ytimg.com/vi/8dzOuLrcMKU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=8dzOuLrcMKU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=qvMANZ5KDTU",
           "imageUrl": "https://i.ytimg.com/vi/qvMANZ5KDTU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=qvMANZ5KDTU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة رائعة وجمال لا يوصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8dzOuLrcMKU",
+          "imageUrl": "https://i.ytimg.com/vi/8dzOuLrcMKU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8dzOuLrcMKU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
