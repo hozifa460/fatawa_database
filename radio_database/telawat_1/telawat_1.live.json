@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الصباح قرآن من سورة البقرة للشيخ ماهر المعيقلي | Maher Al Muaiqly - Surat Al-Baqarah",
+          "title": "سورة البقرة للشيخ ماهر المعيقلي | Maher Al Muaiqly - Surat Al-Baqarah",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
-          "imageUrl": "https://i.ytimg.com/vi/zVsl8CU2EaM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
+          "audioUrl": "https://www.youtube.com/watch?v=HM9HEZBPEX4",
+          "imageUrl": "https://i.ytimg.com/vi/HM9HEZBPEX4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HM9HEZBPEX4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=dEzcOF2PT8w",
           "imageUrl": "https://i.ytimg.com/vi/dEzcOF2PT8w/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=dEzcOF2PT8w",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الصباح قرآن من سورة البقرة للشيخ ماهر المعيقلي | Maher Al Muaiqly - Surat Al-Baqarah",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
+          "imageUrl": "https://i.ytimg.com/vi/zVsl8CU2EaM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zVsl8CU2EaM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
