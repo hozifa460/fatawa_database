@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "إذا صدح صوت المنشاوي... اهتزت القلوب من روعة الخشوع",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=QGOR7o_SJjU",
+          "imageUrl": "https://i.ytimg.com/vi/QGOR7o_SJjU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=QGOR7o_SJjU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "التلاوة الخالدة التي أبكت الملايين حول العالم للشيخ المنشاوي رحمه الله",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=8dzOuLrcMKU",
           "imageUrl": "https://i.ytimg.com/vi/8dzOuLrcMKU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=8dzOuLrcMKU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "إذا صدح صوت المنشاوي... اهتزت القلوب من روعة الخشوع",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=QGOR7o_SJjU",
-          "imageUrl": "https://i.ytimg.com/vi/QGOR7o_SJjU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=QGOR7o_SJjU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
