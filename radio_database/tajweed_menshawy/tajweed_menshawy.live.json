@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
+          "title": "خشوع يهز القلوب | إبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=-BAwCU6sUVc",
-          "imageUrl": "https://i.ytimg.com/vi/-BAwCU6sUVc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=-BAwCU6sUVc",
+          "audioUrl": "https://www.youtube.com/watch?v=ue_I68S6QkA",
+          "imageUrl": "https://i.ytimg.com/vi/ue_I68S6QkA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ue_I68S6QkA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=lvarQDRN5As",
           "imageUrl": "https://i.ytimg.com/vi/lvarQDRN5As/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=lvarQDRN5As",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=-BAwCU6sUVc",
+          "imageUrl": "https://i.ytimg.com/vi/-BAwCU6sUVc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-BAwCU6sUVc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
