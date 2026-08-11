@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع يهز القلوب | إبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ue_I68S6QkA",
-          "imageUrl": "https://i.ytimg.com/vi/ue_I68S6QkA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ue_I68S6QkA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=lvarQDRN5As",
           "imageUrl": "https://i.ytimg.com/vi/lvarQDRN5As/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=lvarQDRN5As",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يهز القلوب | إبداع لا يوصف لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ue_I68S6QkA",
+          "imageUrl": "https://i.ytimg.com/vi/ue_I68S6QkA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ue_I68S6QkA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
