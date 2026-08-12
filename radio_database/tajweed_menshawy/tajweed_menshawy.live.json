@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=FQO527wE2cQ",
+          "imageUrl": "https://i.ytimg.com/vi/FQO527wE2cQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FQO527wE2cQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "إن كنت من محبي الشيخ المنشاوي... فهذه التلاوة لك 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=3eX0zBQj0qI",
           "imageUrl": "https://i.ytimg.com/vi/3eX0zBQj0qI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=3eX0zBQj0qI",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=FQO527wE2cQ",
-          "imageUrl": "https://i.ytimg.com/vi/FQO527wE2cQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=FQO527wE2cQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
