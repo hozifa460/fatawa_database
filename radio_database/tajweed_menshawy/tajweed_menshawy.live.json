@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع وعذوبة لا توصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Cv5fPrZadqE",
-          "imageUrl": "https://i.ytimg.com/vi/Cv5fPrZadqE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Cv5fPrZadqE",
+          "audioUrl": "https://www.youtube.com/watch?v=6JpcSfqIV_U",
+          "imageUrl": "https://i.ytimg.com/vi/6JpcSfqIV_U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=6JpcSfqIV_U",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=4b93V77hiRo",
           "imageUrl": "https://i.ytimg.com/vi/4b93V77hiRo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4b93V77hiRo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وعذوبة لا توصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Cv5fPrZadqE",
+          "imageUrl": "https://i.ytimg.com/vi/Cv5fPrZadqE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Cv5fPrZadqE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
