@@ -60,16 +60,6 @@
           "title": "سورة البقرة الشيخ عبد الباسط عبد الصمد | القرآن الكريم مباشر | Surat Al-Baqarah Quran Recitation",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
-          "imageUrl": "https://i.ytimg.com/vi/vvStIN7ogZg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "سورة البقرة الشيخ عبد الباسط عبد الصمد | القرآن الكريم مباشر | Surat Al-Baqarah Quran Recitation",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=QAYRe0UDn5o",
           "imageUrl": "https://i.ytimg.com/vi/QAYRe0UDn5o/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=QAYRe0UDn5o",
@@ -103,6 +93,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=KQl6UnAc2mQ",
           "imageUrl": "https://i.ytimg.com/vi/KQl6UnAc2mQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KQl6UnAc2mQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سورة البقرة الشيخ عبد الباسط عبد الصمد | القرآن الكريم مباشر | Surat Al-Baqarah Quran Recitation",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
+          "imageUrl": "https://i.ytimg.com/vi/vvStIN7ogZg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=vvStIN7ogZg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
