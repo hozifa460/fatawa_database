@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "التلاوة الخالدة التي أبكت الملايين حول العالم للشيخ المنشاوي رحمه الله",
+          "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=uSWH4IK2wBs",
-          "imageUrl": "https://i.ytimg.com/vi/uSWH4IK2wBs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=uSWH4IK2wBs",
+          "audioUrl": "https://www.youtube.com/watch?v=LUIlnXOZZEo",
+          "imageUrl": "https://i.ytimg.com/vi/LUIlnXOZZEo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LUIlnXOZZEo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=Rmg3rcM3dHg",
           "imageUrl": "https://i.ytimg.com/vi/Rmg3rcM3dHg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Rmg3rcM3dHg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "التلاوة الخالدة التي أبكت الملايين حول العالم للشيخ المنشاوي رحمه الله",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=uSWH4IK2wBs",
+          "imageUrl": "https://i.ytimg.com/vi/uSWH4IK2wBs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uSWH4IK2wBs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
