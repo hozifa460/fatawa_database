@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=nSY-i-H8v90",
-          "imageUrl": "https://i.ytimg.com/vi/nSY-i-H8v90/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=nSY-i-H8v90",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة فاقت الجمال... تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=Kb-IDvm7lCs",
           "imageUrl": "https://i.ytimg.com/vi/Kb-IDvm7lCs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Kb-IDvm7lCs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nSY-i-H8v90",
+          "imageUrl": "https://i.ytimg.com/vi/nSY-i-H8v90/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nSY-i-H8v90",
           "videoSource": "youtube",
           "mediaType": "both"
         },
