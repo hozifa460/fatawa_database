@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "فاتك الكثير إن لم تسمعها... من الروائع الخالدة | الشيخ محمد صديق المنشاوي 🎙",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=tuDFWtNhAuM",
+          "imageUrl": "https://i.ytimg.com/vi/tuDFWtNhAuM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=tuDFWtNhAuM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "المنشاوي 🤍 حين يبلغ الصوت ذروة الجمال | تلاوة نادرة من المحافل الخارجية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +43,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=Kb-IDvm7lCs",
           "imageUrl": "https://i.ytimg.com/vi/Kb-IDvm7lCs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Kb-IDvm7lCs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "فاتك الكثير إن لم تسمعها... من الروائع الخالدة | الشيخ محمد صديق المنشاوي 🎙",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=tuDFWtNhAuM",
-          "imageUrl": "https://i.ytimg.com/vi/tuDFWtNhAuM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=tuDFWtNhAuM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
