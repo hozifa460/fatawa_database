@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "اطلع من الحمام",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8ykh7iKf6JI",
+          "imageUrl": "https://i.ytimg.com/vi/8ykh7iKf6JI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8ykh7iKf6JI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أين الدليل!!!",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
