@@ -27,16 +27,6 @@
           "mediaType": "both"
         },
         {
-          "title": "أخطر تسجيل من امرأة نصرانية",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=VJYFR6hTDSw",
-          "imageUrl": "https://i.ytimg.com/vi/VJYFR6hTDSw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=VJYFR6hTDSw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "يسأل عن حديث ( أمرت أن أقاتل الناس حتى يشهدوا أن لا إله إلا الله ) شاهد الرد",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -73,6 +63,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=slo1zSUFe7c",
           "imageUrl": "https://i.ytimg.com/vi/slo1zSUFe7c/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=slo1zSUFe7c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أخطر تسجيل من امرأة نصرانية",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=VJYFR6hTDSw",
+          "imageUrl": "https://i.ytimg.com/vi/VJYFR6hTDSw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=VJYFR6hTDSw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
