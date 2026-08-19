@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=pWPBT1vMvVg",
-          "imageUrl": "https://i.ytimg.com/vi/pWPBT1vMvVg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=pWPBT1vMvVg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ساعتان من أجمل تلاوات المنشاوي... خشوع وإبداع لا يتكرر 🎙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=jH-RRQLT-r0",
           "imageUrl": "https://i.ytimg.com/vi/jH-RRQLT-r0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=jH-RRQLT-r0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=pWPBT1vMvVg",
+          "imageUrl": "https://i.ytimg.com/vi/pWPBT1vMvVg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=pWPBT1vMvVg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
