@@ -17,12 +17,62 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "المسلسلات والأفلام بتعالج التشدد ولا بتحذر من التدين ؟",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=PVqTCE80AEo",
+          "imageUrl": "https://i.ytimg.com/vi/PVqTCE80AEo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=PVqTCE80AEo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "خبر إعلان إسلام أسطورة الكورة البرازيلية روبرتو كارلوس",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=67Jt-70MA8c",
           "imageUrl": "https://i.ytimg.com/vi/67Jt-70MA8c/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=67Jt-70MA8c",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حرام تاكل حلاوة المولد !",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=3DpQsD8rbPA",
+          "imageUrl": "https://i.ytimg.com/vi/3DpQsD8rbPA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=3DpQsD8rbPA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لو بتعرف بتنام على جنبك تبقا في نعمة كبيرة #اكسبلور #اهميه #دويتو #ترند",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mIjjKSSnLPM",
+          "imageUrl": "https://i.ytimg.com/vi/mIjjKSSnLPM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mIjjKSSnLPM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خالي الحاجة تدعي لي ربنا يصبّرني على أسألة ابنها #اكسبلور #اهميه #ترند",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kJ850t0L9rM",
+          "imageUrl": "https://i.ytimg.com/vi/kJ850t0L9rM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kJ850t0L9rM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بيقرا قران تحت تأثير البنج. #اكسبلور",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Za2AteRN9ts",
+          "imageUrl": "https://i.ytimg.com/vi/Za2AteRN9ts/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Za2AteRN9ts",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -47,12 +97,72 @@
           "mediaType": "both"
         },
         {
+          "title": "حكم الأبراج #اكسبلور #دويتو #ترند",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=OSyc4MxRpNI",
+          "imageUrl": "https://i.ytimg.com/vi/OSyc4MxRpNI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=OSyc4MxRpNI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "رحمة الله عليك ياأبي #اكسبلور #اهميه #اهميه #النظافه #ترند",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=j0dqCwmTHzI",
+          "imageUrl": "https://i.ytimg.com/vi/j0dqCwmTHzI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=j0dqCwmTHzI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "حي النرجس ",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=4oOyNxp26pI",
           "imageUrl": "https://i.ytimg.com/vi/4oOyNxp26pI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=4oOyNxp26pI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "انت مش رايحة حجوجة ياست أم محمد",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=TkADrTl84WI",
+          "imageUrl": "https://i.ytimg.com/vi/TkADrTl84WI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=TkADrTl84WI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "التعليق على واقعة مطعم \" سيزلار\" #اكسبلور #النظافه",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=En_GVUR5_88",
+          "imageUrl": "https://i.ytimg.com/vi/En_GVUR5_88/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=En_GVUR5_88",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "إخواتكم هما اللي معاكم في البيت #اكسبلور #دويتو #اهميه",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cvs6SvSVUNk",
+          "imageUrl": "https://i.ytimg.com/vi/cvs6SvSVUNk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cvs6SvSVUNk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أبو لهب كان شكله حلو وجميل #اكسبلور #اهميه",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HwLC83YIxN8",
+          "imageUrl": "https://i.ytimg.com/vi/HwLC83YIxN8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HwLC83YIxN8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
