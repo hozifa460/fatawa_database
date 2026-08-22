@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "(19) هل ستكون داعية؟ | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=IE-D7YzOZis",
+          "imageUrl": "https://i.ytimg.com/vi/IE-D7YzOZis/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=IE-D7YzOZis",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "(18) حفظ المرأة  زوجها | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=hhn5Usv-pBU",
+          "imageUrl": "https://i.ytimg.com/vi/hhn5Usv-pBU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=hhn5Usv-pBU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما قدرش يمسك نفسه 🥲",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -77,16 +97,6 @@
           "mediaType": "both"
         },
         {
-          "title": "(19) هل ستكون داعية؟ | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=IE-D7YzOZis",
-          "imageUrl": "https://i.ytimg.com/vi/IE-D7YzOZis/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=IE-D7YzOZis",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "لا أنسى هذا الموقف ✋",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -143,16 +153,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=fsU8qYFfXOU",
           "imageUrl": "https://i.ytimg.com/vi/fsU8qYFfXOU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=fsU8qYFfXOU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "(18) حفظ المرأة  زوجها | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=hhn5Usv-pBU",
-          "imageUrl": "https://i.ytimg.com/vi/hhn5Usv-pBU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=hhn5Usv-pBU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
