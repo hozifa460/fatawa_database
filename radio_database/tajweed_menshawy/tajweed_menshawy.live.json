@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
-          "imageUrl": "https://i.ytimg.com/vi/KxxCOGpv-Ug/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "خشوع وعذوبة لا توصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
           "imageUrl": "https://i.ytimg.com/vi/nne6lB2WTEw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
+          "imageUrl": "https://i.ytimg.com/vi/KxxCOGpv-Ug/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
           "videoSource": "youtube",
           "mediaType": "both"
         },
