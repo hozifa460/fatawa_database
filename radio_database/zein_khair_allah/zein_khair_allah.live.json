@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حوارات مع الملحدين والنصارى",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jatTx_ybZNM",
+          "imageUrl": "https://i.ytimg.com/vi/jatTx_ybZNM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jatTx_ybZNM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "اتصالات المسلمين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
