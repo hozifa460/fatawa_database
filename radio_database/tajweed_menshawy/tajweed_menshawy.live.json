@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
+          "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Pl4FkST06OA",
-          "imageUrl": "https://i.ytimg.com/vi/Pl4FkST06OA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Pl4FkST06OA",
+          "audioUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
+          "imageUrl": "https://i.ytimg.com/vi/KxxCOGpv-Ug/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
           "imageUrl": "https://i.ytimg.com/vi/nne6lB2WTEw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Pl4FkST06OA",
+          "imageUrl": "https://i.ytimg.com/vi/Pl4FkST06OA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Pl4FkST06OA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
