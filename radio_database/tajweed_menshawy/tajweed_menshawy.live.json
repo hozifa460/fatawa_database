@@ -27,22 +27,22 @@
           "mediaType": "both"
         },
         {
-          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=svM12hMmmJU",
-          "imageUrl": "https://i.ytimg.com/vi/svM12hMmmJU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=svM12hMmmJU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
           "imageUrl": "https://i.ytimg.com/vi/UFr3VUWoMDQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=svM12hMmmJU",
+          "imageUrl": "https://i.ytimg.com/vi/svM12hMmmJU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=svM12hMmmJU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
