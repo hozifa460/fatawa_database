@@ -37,22 +37,22 @@
           "mediaType": "both"
         },
         {
-          "title": "امشي يا ماليزيا يا وحشة ( واقتربت المناظرة )",
-          "subtitle": "الدكتور هيثم طلعت",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
-          "imageUrl": "https://i.ytimg.com/vi/EgdNUrQnc1Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الجن تكلم معي مباشرةً : عالم الجن وكيف نتحصن من الشياطين والمس والعين | الشيخ وحيد عبد السلام بالي",
           "subtitle": "الدكتور هيثم طلعت",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=Vh0tVYpfTDU",
           "imageUrl": "https://i.ytimg.com/vi/Vh0tVYpfTDU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Vh0tVYpfTDU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "امشي يا ماليزيا يا وحشة ( واقتربت المناظرة )",
+          "subtitle": "الدكتور هيثم طلعت",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
+          "imageUrl": "https://i.ytimg.com/vi/EgdNUrQnc1Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
           "videoSource": "youtube",
           "mediaType": "both"
         },
