@@ -57,16 +57,6 @@
           "mediaType": "both"
         },
         {
-          "title": "امشي يا ماليزيا يا وحشة ( واقتربت المناظرة )",
-          "subtitle": "الدكتور هيثم طلعت",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
-          "imageUrl": "https://i.ytimg.com/vi/EgdNUrQnc1Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أنا جــــاهز للمنـاظرة",
           "subtitle": "الدكتور هيثم طلعت",
           "emoji": "",
@@ -113,6 +103,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=2MvaE7wnoaw",
           "imageUrl": "https://i.ytimg.com/vi/2MvaE7wnoaw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=2MvaE7wnoaw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "امشي يا ماليزيا يا وحشة ( واقتربت المناظرة )",
+          "subtitle": "الدكتور هيثم طلعت",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
+          "imageUrl": "https://i.ytimg.com/vi/EgdNUrQnc1Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=EgdNUrQnc1Y",
           "videoSource": "youtube",
           "mediaType": "both"
         },
