@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع وعذوبة لا توصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
-          "imageUrl": "https://i.ytimg.com/vi/nne6lB2WTEw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
+          "audioUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
+          "imageUrl": "https://i.ytimg.com/vi/UFr3VUWoMDQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
           "imageUrl": "https://i.ytimg.com/vi/KxxCOGpv-Ug/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وعذوبة لا توصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
+          "imageUrl": "https://i.ytimg.com/vi/nne6lB2WTEw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nne6lB2WTEw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
