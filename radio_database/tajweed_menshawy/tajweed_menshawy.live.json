@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
-          "imageUrl": "https://i.ytimg.com/vi/UFr3VUWoMDQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الجوهرة النادرة التي أذهلت المستمعين... الشيخ المنشاوي في أروع وأجمل تجلياته 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
           "imageUrl": "https://i.ytimg.com/vi/KxxCOGpv-Ug/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=KxxCOGpv-Ug",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
+          "imageUrl": "https://i.ytimg.com/vi/UFr3VUWoMDQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=UFr3VUWoMDQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
