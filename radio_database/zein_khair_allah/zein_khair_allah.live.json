@@ -57,16 +57,6 @@
           "mediaType": "both"
         },
         {
-          "title": "اتصالات المسلمين",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=qHd8u7CjZLc",
-          "imageUrl": "https://i.ytimg.com/vi/qHd8u7CjZLc/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qHd8u7CjZLc",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "وحوارات مع النصارى والملحدين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -103,6 +93,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=58vRoVKFg-A",
           "imageUrl": "https://i.ytimg.com/vi/58vRoVKFg-A/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=58vRoVKFg-A",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اتصالات المسلمين",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qHd8u7CjZLc",
+          "imageUrl": "https://i.ytimg.com/vi/qHd8u7CjZLc/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qHd8u7CjZLc",
           "videoSource": "youtube",
           "mediaType": "both"
         },
