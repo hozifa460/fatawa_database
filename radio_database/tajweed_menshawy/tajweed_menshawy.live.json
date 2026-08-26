@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=IZSrxMtMn2Q",
-          "imageUrl": "https://i.ytimg.com/vi/IZSrxMtMn2Q/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=IZSrxMtMn2Q",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "حين يغلبك البكاء من هيبة الخشوع | تلاوة اسطورية للشيخ #المنشاوي | تجويد بث مباشر 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=_wjxPDD46WY",
           "imageUrl": "https://i.ytimg.com/vi/_wjxPDD46WY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=_wjxPDD46WY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=IZSrxMtMn2Q",
+          "imageUrl": "https://i.ytimg.com/vi/IZSrxMtMn2Q/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=IZSrxMtMn2Q",
           "videoSource": "youtube",
           "mediaType": "both"
         },
