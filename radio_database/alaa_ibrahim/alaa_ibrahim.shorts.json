@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "في انتظاركم",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=E1r9Z3DKpro",
+          "imageUrl": "https://i.ytimg.com/vi/E1r9Z3DKpro/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=E1r9Z3DKpro",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ابتسم #اكسبلور #دويتو",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",

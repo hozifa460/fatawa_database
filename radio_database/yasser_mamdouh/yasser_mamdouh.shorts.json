@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "يلا بينا نتقابل",
+          "subtitle": "جديد ياسر ممدوح",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=__WWGiVRi4I",
+          "imageUrl": "https://i.ytimg.com/vi/__WWGiVRi4I/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=__WWGiVRi4I",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "عوج #نفهم_الآية_صح",
           "subtitle": "جديد ياسر ممدوح",
           "emoji": "",
