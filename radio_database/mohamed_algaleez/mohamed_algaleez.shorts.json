@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "كيف فعلها؟",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ie3xNJvsWm8",
+          "imageUrl": "https://i.ytimg.com/vi/ie3xNJvsWm8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ie3xNJvsWm8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "إزاي أتعامل مع الفقد؟",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
