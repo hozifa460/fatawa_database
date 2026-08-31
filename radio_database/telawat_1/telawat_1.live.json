@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "بث مباشر لصلاة الجمعة من مسجد السيدة زينب 14-8-2026 - بث مباشر لشعائر صلاة الجمعة",
+          "title": "ستعيش أجمل دقائق في حياتك مع صوت عبقري لا مثيل له ! معجزة #دولة_التلاوة الشاب صالح مهدي زاده HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=KxTC0lSx6r0",
-          "imageUrl": "https://i.ytimg.com/vi/KxTC0lSx6r0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=KxTC0lSx6r0",
+          "audioUrl": "https://www.youtube.com/watch?v=-eg-5d1oWoE",
+          "imageUrl": "https://i.ytimg.com/vi/-eg-5d1oWoE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=-eg-5d1oWoE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -43,6 +43,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=tl13u3-aTgc",
           "imageUrl": "https://i.ytimg.com/vi/tl13u3-aTgc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=tl13u3-aTgc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "بث مباشر لصلاة الجمعة من مسجد السيدة زينب 14-8-2026 - بث مباشر لشعائر صلاة الجمعة",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=KxTC0lSx6r0",
+          "imageUrl": "https://i.ytimg.com/vi/KxTC0lSx6r0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=KxTC0lSx6r0",
           "videoSource": "youtube",
           "mediaType": "both"
         },

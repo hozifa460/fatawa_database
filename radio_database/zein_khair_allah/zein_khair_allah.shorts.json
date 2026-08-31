@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "مقتطف من المحاضرة",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=p3-f_nqQPjw",
+          "imageUrl": "https://i.ytimg.com/vi/p3-f_nqQPjw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=p3-f_nqQPjw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "كلمة طيبة من أخ سوري وأخ سعودي",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
