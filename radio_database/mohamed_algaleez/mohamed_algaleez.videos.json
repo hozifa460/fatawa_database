@@ -27,6 +27,16 @@
           "mediaType": "both"
         },
         {
+          "title": "(20) لماذا يعظمون العلماء؟ | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=U1aatLY7e7g",
+          "imageUrl": "https://i.ytimg.com/vi/U1aatLY7e7g/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=U1aatLY7e7g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "(21) احذر الدعوة السلبية ! | سلسلة كلمات - محمد الغليظ",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
@@ -43,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=RLTj0AdGccQ",
           "imageUrl": "https://i.ytimg.com/vi/RLTj0AdGccQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=RLTj0AdGccQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "(20) لماذا يعظمون العلماء؟ | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=U1aatLY7e7g",
-          "imageUrl": "https://i.ytimg.com/vi/U1aatLY7e7g/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=U1aatLY7e7g",
           "videoSource": "youtube",
           "mediaType": "both"
         },
