@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
-          "imageUrl": "https://i.ytimg.com/vi/9g2mz3yUoMo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
           "imageUrl": "https://i.ytimg.com/vi/Wk7Y3V3IC0s/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
+          "imageUrl": "https://i.ytimg.com/vi/9g2mz3yUoMo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
