@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
-          "imageUrl": "https://i.ytimg.com/vi/Wk7Y3V3IC0s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "إذا صدح صوت المنشاوي... اهتزت القلوب من روعة الخشوع",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=5mC9WIyZf04",
           "imageUrl": "https://i.ytimg.com/vi/5mC9WIyZf04/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=5mC9WIyZf04",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
+          "imageUrl": "https://i.ytimg.com/vi/Wk7Y3V3IC0s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
