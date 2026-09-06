@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "في هدوء الليل... صوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=czTma-VYdSY",
+          "imageUrl": "https://i.ytimg.com/vi/czTma-VYdSY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=czTma-VYdSY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
+          "imageUrl": "https://i.ytimg.com/vi/S0289Txq0oU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ساعتان من أجمل ما تسمع... تلاوات خاشعة للشيخ المنشاوي 🎙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
           "imageUrl": "https://i.ytimg.com/vi/NEQn4lrXXn4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
-          "imageUrl": "https://i.ytimg.com/vi/S0289Txq0oU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
