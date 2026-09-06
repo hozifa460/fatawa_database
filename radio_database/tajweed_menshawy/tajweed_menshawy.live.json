@@ -17,12 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "title": "ساعتان من أجمل ما تسمع... تلاوات خاشعة للشيخ المنشاوي 🎙",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
-          "imageUrl": "https://i.ytimg.com/vi/9g2mz3yUoMo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
+          "audioUrl": "https://www.youtube.com/watch?v=ZpggTJCOx0U",
+          "imageUrl": "https://i.ytimg.com/vi/ZpggTJCOx0U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ZpggTJCOx0U",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
+          "imageUrl": "https://i.ytimg.com/vi/S0289Txq0oU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +43,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
           "imageUrl": "https://i.ytimg.com/vi/NEQn4lrXXn4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
+          "imageUrl": "https://i.ytimg.com/vi/9g2mz3yUoMo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
