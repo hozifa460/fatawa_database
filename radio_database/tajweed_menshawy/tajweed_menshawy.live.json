@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
-          "imageUrl": "https://i.ytimg.com/vi/NEQn4lrXXn4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
           "imageUrl": "https://i.ytimg.com/vi/9g2mz3yUoMo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
+          "imageUrl": "https://i.ytimg.com/vi/NEQn4lrXXn4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
