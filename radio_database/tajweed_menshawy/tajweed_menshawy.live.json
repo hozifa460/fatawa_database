@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
+          "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
-          "imageUrl": "https://i.ytimg.com/vi/Wk7Y3V3IC0s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
+          "audioUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
+          "imageUrl": "https://i.ytimg.com/vi/NEQn4lrXXn4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
           "imageUrl": "https://i.ytimg.com/vi/9g2mz3yUoMo/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=9g2mz3yUoMo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
+          "imageUrl": "https://i.ytimg.com/vi/Wk7Y3V3IC0s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Wk7Y3V3IC0s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
