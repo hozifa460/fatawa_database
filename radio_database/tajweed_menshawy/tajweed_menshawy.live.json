@@ -27,22 +27,22 @@
           "mediaType": "both"
         },
         {
-          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
-          "imageUrl": "https://i.ytimg.com/vi/S0289Txq0oU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
           "imageUrl": "https://i.ytimg.com/vi/NEQn4lrXXn4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NEQn4lrXXn4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
+          "imageUrl": "https://i.ytimg.com/vi/S0289Txq0oU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=S0289Txq0oU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
