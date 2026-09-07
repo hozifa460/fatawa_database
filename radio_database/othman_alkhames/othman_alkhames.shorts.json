@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ما هو الصديد الذي يشربه أهل النار؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=_UVIXS9S8tQ",
+          "imageUrl": "https://i.ytimg.com/vi/_UVIXS9S8tQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=_UVIXS9S8tQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "‏ما حُكْمُ وضع الطعام الزائد في زاوية ليأكله مسلمو الجنّ؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=bWQPO_vMjTo",
+          "imageUrl": "https://i.ytimg.com/vi/bWQPO_vMjTo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=bWQPO_vMjTo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "ما حُكْمُ جلسة الاستراحة في الصلاة؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -47,16 +67,6 @@
           "mediaType": "both"
         },
         {
-          "title": "1325 - كنت أصلّي قضاءً ومر أمامي رجل كبير ولم أستطع منعه فما الحكم؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
-          "imageUrl": "https://i.ytimg.com/vi/jwFV20HBdng/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ما الأكثرُ أجراً إدراك تكبيرة الإحرام أم الصفّ الاَّوّل؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
@@ -73,6 +83,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=HW_FWnWUBtI",
           "imageUrl": "https://i.ytimg.com/vi/HW_FWnWUBtI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HW_FWnWUBtI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "1325 - كنت أصلّي قضاءً ومر أمامي رجل كبير ولم أستطع منعه فما الحكم؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
+          "imageUrl": "https://i.ytimg.com/vi/jwFV20HBdng/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
           "videoSource": "youtube",
           "mediaType": "both"
         },
