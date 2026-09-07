@@ -17,22 +17,52 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "1330 - ما حكم الكذب خوفًا من العين والحسد؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Fk9_5hfGp60",
+          "imageUrl": "https://i.ytimg.com/vi/Fk9_5hfGp60/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Fk9_5hfGp60",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "1329 -ما الفرق بيت كتاب مختصر المقنع وكتاب دليل الطالب؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=xu50t5xDxaU",
+          "imageUrl": "https://i.ytimg.com/vi/xu50t5xDxaU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=xu50t5xDxaU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "1328 - كنت أفعل أمورًا تُبطل الصلاة فماذا عليّ؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qWNag_413OU",
+          "imageUrl": "https://i.ytimg.com/vi/qWNag_413OU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qWNag_413OU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "1327 - واجبي تجاه مَن لا يُصلّي من أهل بيتي - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=y5ohCLlbvkw",
+          "imageUrl": "https://i.ytimg.com/vi/y5ohCLlbvkw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=y5ohCLlbvkw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "1326 - الصحابة الذين أخروا البيعة لأبي بكر رضي الله عنهم هل أخروها بسبب المشورة فقط؟ - عثمان الخميس",
           "subtitle": "جديد الشيخ عثمان الخميس",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=k0p5G5EIyro",
           "imageUrl": "https://i.ytimg.com/vi/k0p5G5EIyro/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=k0p5G5EIyro",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "1325 - كنت أصلّي قضاءً ومر أمامي رجل كبير ولم أستطع منعه فما الحكم؟ - عثمان الخميس",
-          "subtitle": "جديد الشيخ عثمان الخميس",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
-          "imageUrl": "https://i.ytimg.com/vi/jwFV20HBdng/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -73,6 +103,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=rafiFIKLRIY",
           "imageUrl": "https://i.ytimg.com/vi/rafiFIKLRIY/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=rafiFIKLRIY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "1325 - كنت أصلّي قضاءً ومر أمامي رجل كبير ولم أستطع منعه فما الحكم؟ - عثمان الخميس",
+          "subtitle": "جديد الشيخ عثمان الخميس",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
+          "imageUrl": "https://i.ytimg.com/vi/jwFV20HBdng/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jwFV20HBdng",
           "videoSource": "youtube",
           "mediaType": "both"
         },
