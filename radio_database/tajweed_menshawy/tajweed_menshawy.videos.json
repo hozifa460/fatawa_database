@@ -17,6 +17,36 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "الصوت الباكي | جوهرة نادرة لعشاق الشيخ المنشاوي تلاوة تلامس القلب لما تيسر من سورة الأعراف",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kpTVKxkAQjo",
+          "imageUrl": "https://i.ytimg.com/vi/kpTVKxkAQjo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kpTVKxkAQjo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة مهيبة تأخذك بعيدًا عن ضجيج الدنيا | من سورة فاطر | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yHYScGjdbTg",
+          "imageUrl": "https://i.ytimg.com/vi/yHYScGjdbTg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yHYScGjdbTg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح سمعك وقلبك... صوت عذب يذكرك بالله | سورة نوح كاملة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WDw-W0rANRU",
+          "imageUrl": "https://i.ytimg.com/vi/WDw-W0rANRU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WDw-W0rANRU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "في هدوء الليل... صوت يريح الأعصاب ويبعث الطمأنينة | الشيخ محمد صديق المنشاوي | جودة عالية🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -67,16 +97,6 @@
           "mediaType": "both"
         },
         {
-          "title": "الصوت الباكي | جوهرة نادرة لعشاق الشيخ المنشاوي تلاوة تلامس القلب لما تيسر من سورة الأعراف",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=kpTVKxkAQjo",
-          "imageUrl": "https://i.ytimg.com/vi/kpTVKxkAQjo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=kpTVKxkAQjo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة تقشعر لها الأبدان وتبكي لها العيون - محمد صديق المنشاوي - قمة الابداع والاعجاز",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -97,16 +117,6 @@
           "mediaType": "both"
         },
         {
-          "title": "تلاوة مهيبة تأخذك بعيدًا عن ضجيج الدنيا | من سورة فاطر | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=yHYScGjdbTg",
-          "imageUrl": "https://i.ytimg.com/vi/yHYScGjdbTg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=yHYScGjdbTg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -123,16 +133,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=5mC9WIyZf04",
           "imageUrl": "https://i.ytimg.com/vi/5mC9WIyZf04/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=5mC9WIyZf04",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أرح سمعك وقلبك... صوت عذب يذكرك بالله | سورة نوح كاملة | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=WDw-W0rANRU",
-          "imageUrl": "https://i.ytimg.com/vi/WDw-W0rANRU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=WDw-W0rANRU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
