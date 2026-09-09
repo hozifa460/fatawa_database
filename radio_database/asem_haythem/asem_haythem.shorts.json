@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "علاج من يريد أن يطعن بكتب أهل السنة",
+          "title": "تبرأ من الاثنين 😂",
           "subtitle": "جديد الدكتور عاصم هيثم",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=4YYvQIdi1qw",
-          "imageUrl": "https://i.ytimg.com/vi/4YYvQIdi1qw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=4YYvQIdi1qw",
+          "audioUrl": "https://www.youtube.com/watch?v=g3woNyCiSX0",
+          "imageUrl": "https://i.ytimg.com/vi/g3woNyCiSX0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=g3woNyCiSX0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=zrGm341Dh4I",
           "imageUrl": "https://i.ytimg.com/vi/zrGm341Dh4I/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zrGm341Dh4I",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "علاج من يريد أن يطعن بكتب أهل السنة",
+          "subtitle": "جديد الدكتور عاصم هيثم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=4YYvQIdi1qw",
+          "imageUrl": "https://i.ytimg.com/vi/4YYvQIdi1qw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=4YYvQIdi1qw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
