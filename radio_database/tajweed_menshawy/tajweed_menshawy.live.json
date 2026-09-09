@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=cItxmpqW1VM",
-          "imageUrl": "https://i.ytimg.com/vi/cItxmpqW1VM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=cItxmpqW1VM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "يمحو حزن قلبك... تلاوة تأخذك بعيدًا عن هموم الدنيا | الشيخ #المنشاوي | جودة ممتازة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=7QKy0yzbsM4",
           "imageUrl": "https://i.ytimg.com/vi/7QKy0yzbsM4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=7QKy0yzbsM4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=cItxmpqW1VM",
+          "imageUrl": "https://i.ytimg.com/vi/cItxmpqW1VM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=cItxmpqW1VM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
