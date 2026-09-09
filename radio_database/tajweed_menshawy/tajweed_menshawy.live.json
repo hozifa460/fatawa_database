@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع يُبكي القلوب تلاوة مؤثرة ... الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=xyLwyQCk9E8",
-          "imageUrl": "https://i.ytimg.com/vi/xyLwyQCk9E8/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=xyLwyQCk9E8",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=cItxmpqW1VM",
           "imageUrl": "https://i.ytimg.com/vi/cItxmpqW1VM/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=cItxmpqW1VM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يُبكي القلوب تلاوة مؤثرة ... الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=xyLwyQCk9E8",
+          "imageUrl": "https://i.ytimg.com/vi/xyLwyQCk9E8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=xyLwyQCk9E8",
           "videoSource": "youtube",
           "mediaType": "both"
         },
