@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة أواخر الذاريات",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=uuHe3aPT5gM",
+          "imageUrl": "https://i.ytimg.com/vi/uuHe3aPT5gM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=uuHe3aPT5gM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "المحبة في الله",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
