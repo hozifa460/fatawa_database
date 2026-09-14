@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "في هدوء الليل.. الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=xvG1Ddy8YS4",
-          "imageUrl": "https://i.ytimg.com/vi/xvG1Ddy8YS4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=xvG1Ddy8YS4",
+          "audioUrl": "https://www.youtube.com/watch?v=BjJI27_w47s",
+          "imageUrl": "https://i.ytimg.com/vi/BjJI27_w47s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BjJI27_w47s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=x0wyUyB4koE",
           "imageUrl": "https://i.ytimg.com/vi/x0wyUyB4koE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=x0wyUyB4koE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "في هدوء الليل.. الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=xvG1Ddy8YS4",
+          "imageUrl": "https://i.ytimg.com/vi/xvG1Ddy8YS4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=xvG1Ddy8YS4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
