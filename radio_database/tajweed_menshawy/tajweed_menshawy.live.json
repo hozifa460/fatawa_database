@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=zkufgmf52eg",
+          "imageUrl": "https://i.ytimg.com/vi/zkufgmf52eg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=zkufgmf52eg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أداء مهيب | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -27,22 +37,22 @@
           "mediaType": "both"
         },
         {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=BjJI27_w47s",
-          "imageUrl": "https://i.ytimg.com/vi/BjJI27_w47s/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=BjJI27_w47s",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "لأول مرة من إذاعة القرأن الكريم | تلاوة للشيخ صديق تايب المنشاوي (والد الشيخ محمد صديق المنشاوي)",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=iMSxkUJwdVE",
           "imageUrl": "https://i.ytimg.com/vi/iMSxkUJwdVE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=iMSxkUJwdVE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=BjJI27_w47s",
+          "imageUrl": "https://i.ytimg.com/vi/BjJI27_w47s/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=BjJI27_w47s",
           "videoSource": "youtube",
           "mediaType": "both"
         },
