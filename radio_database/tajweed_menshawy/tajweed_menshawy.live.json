@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أداء مهيب | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "title": "تلاوة رائعة وجمال لا يوصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=nrIgEVsErDw",
-          "imageUrl": "https://i.ytimg.com/vi/nrIgEVsErDw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=nrIgEVsErDw",
+          "audioUrl": "https://www.youtube.com/watch?v=sfOhahoSo4w",
+          "imageUrl": "https://i.ytimg.com/vi/sfOhahoSo4w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sfOhahoSo4w",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=zkufgmf52eg",
           "imageUrl": "https://i.ytimg.com/vi/zkufgmf52eg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zkufgmf52eg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أداء مهيب | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=nrIgEVsErDw",
+          "imageUrl": "https://i.ytimg.com/vi/nrIgEVsErDw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=nrIgEVsErDw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
