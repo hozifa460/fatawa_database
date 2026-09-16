@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة رائعة وجمال لا يوصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "title": "في هدوء الليل.. الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=sfOhahoSo4w",
-          "imageUrl": "https://i.ytimg.com/vi/sfOhahoSo4w/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=sfOhahoSo4w",
+          "audioUrl": "https://www.youtube.com/watch?v=CC7agja5Vfs",
+          "imageUrl": "https://i.ytimg.com/vi/CC7agja5Vfs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CC7agja5Vfs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=F1qCAoiGUoU",
           "imageUrl": "https://i.ytimg.com/vi/F1qCAoiGUoU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=F1qCAoiGUoU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة رائعة وجمال لا يوصف | الشيخ محمد صديق المنشاوي الصوت الباكى  . جودة فائقة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sfOhahoSo4w",
+          "imageUrl": "https://i.ytimg.com/vi/sfOhahoSo4w/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sfOhahoSo4w",
           "videoSource": "youtube",
           "mediaType": "both"
         },
