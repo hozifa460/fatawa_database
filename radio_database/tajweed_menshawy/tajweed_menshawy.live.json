@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Frdmt_dhBUE",
-          "imageUrl": "https://i.ytimg.com/vi/Frdmt_dhBUE/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Frdmt_dhBUE",
+          "audioUrl": "https://www.youtube.com/watch?v=Cmk0sxWdiCY",
+          "imageUrl": "https://i.ytimg.com/vi/Cmk0sxWdiCY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Cmk0sxWdiCY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=7Iy4a8BxTUQ",
           "imageUrl": "https://i.ytimg.com/vi/7Iy4a8BxTUQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=7Iy4a8BxTUQ",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Frdmt_dhBUE",
+          "imageUrl": "https://i.ytimg.com/vi/Frdmt_dhBUE/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Frdmt_dhBUE",
           "videoSource": "youtube",
           "mediaType": "both"
         },
