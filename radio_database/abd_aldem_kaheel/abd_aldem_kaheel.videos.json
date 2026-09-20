@@ -57,16 +57,6 @@
           "mediaType": "both"
         },
         {
-          "title": "معجزة أبهرتني.. سرّ هندسي عجيب في هذه الآية",
-          "subtitle": "جديد عبد الدائم كحيل",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=1i6z7NE2_Lo",
-          "imageUrl": "https://i.ytimg.com/vi/1i6z7NE2_Lo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=1i6z7NE2_Lo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "مخطوطة قرآنية عمرها 1400 عام وسرّ يكشفه علماء الغرب",
           "subtitle": "جديد عبد الدائم كحيل",
           "emoji": "",
@@ -147,22 +137,32 @@
           "mediaType": "both"
         },
         {
-          "title": "عجائب صلاة الفجر.. كلام مهم",
-          "subtitle": "جديد عبد الدائم كحيل",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Dbhrl8Tem5Y",
-          "imageUrl": "https://i.ytimg.com/vi/Dbhrl8Tem5Y/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Dbhrl8Tem5Y",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "خبر صادم..! اسم محمد هو الأكثر انتشاراً لمواليد بريطانيا 2026",
           "subtitle": "جديد عبد الدائم كحيل",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=o2_skrHMsbU",
           "imageUrl": "https://i.ytimg.com/vi/o2_skrHMsbU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=o2_skrHMsbU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "معجزة أبهرتني.. سرّ هندسي عجيب في هذه الآية",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1i6z7NE2_Lo",
+          "imageUrl": "https://i.ytimg.com/vi/1i6z7NE2_Lo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1i6z7NE2_Lo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "عجائب صلاة الفجر.. كلام مهم",
+          "subtitle": "جديد عبد الدائم كحيل",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Dbhrl8Tem5Y",
+          "imageUrl": "https://i.ytimg.com/vi/Dbhrl8Tem5Y/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Dbhrl8Tem5Y",
           "videoSource": "youtube",
           "mediaType": "both"
         },
