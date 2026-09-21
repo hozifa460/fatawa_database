@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ecmktGj4f0c",
-          "imageUrl": "https://i.ytimg.com/vi/ecmktGj4f0c/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ecmktGj4f0c",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | أجمل تلاوات الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=wpHLU1ZEh_8",
           "imageUrl": "https://i.ytimg.com/vi/wpHLU1ZEh_8/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=wpHLU1ZEh_8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ecmktGj4f0c",
+          "imageUrl": "https://i.ytimg.com/vi/ecmktGj4f0c/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ecmktGj4f0c",
           "videoSource": "youtube",
           "mediaType": "both"
         },
