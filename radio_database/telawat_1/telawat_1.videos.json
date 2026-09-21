@@ -67,22 +67,22 @@
           "mediaType": "both"
         },
         {
-          "title": "قارئ شاب اختفي صغيرا جدا ! جواد فروغي لو كان استمر في التلاوة الي الان لكان بطل دولة التلاوة HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ldMxAO5YXhg",
-          "imageUrl": "https://i.ytimg.com/vi/ldMxAO5YXhg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ldMxAO5YXhg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "قبل أن يعرفه الجميع حجاج الهنداوي رأى فيه أسطورة المستقبل! أيوب عاصف من طفولته بصوت أذهل كبار القراء",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=NA5VcycWDTs",
           "imageUrl": "https://i.ytimg.com/vi/NA5VcycWDTs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=NA5VcycWDTs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قارئ شاب اختفي صغيرا جدا ! جواد فروغي لو كان استمر في التلاوة الي الان لكان بطل دولة التلاوة HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ldMxAO5YXhg",
+          "imageUrl": "https://i.ytimg.com/vi/ldMxAO5YXhg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ldMxAO5YXhg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
