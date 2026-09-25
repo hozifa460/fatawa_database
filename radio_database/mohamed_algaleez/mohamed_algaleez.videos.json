@@ -27,22 +27,22 @@
           "mediaType": "both"
         },
         {
-          "title": "(24) كيف يعاملنا الله؟ | سلسلة كلمات - محمد الغليظ",
-          "subtitle": "جديد الشيخ محمد الغليظ",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=kTMjI-9XP9M",
-          "imageUrl": "https://i.ytimg.com/vi/kTMjI-9XP9M/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=kTMjI-9XP9M",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "(23) طريقك للدعوة | سلسلة كلمات - محمد الغليظ",
           "subtitle": "جديد الشيخ محمد الغليظ",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=mhxo7lKg0Q4",
           "imageUrl": "https://i.ytimg.com/vi/mhxo7lKg0Q4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=mhxo7lKg0Q4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "(24) كيف يعاملنا الله؟ | سلسلة كلمات - محمد الغليظ",
+          "subtitle": "جديد الشيخ محمد الغليظ",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=kTMjI-9XP9M",
+          "imageUrl": "https://i.ytimg.com/vi/kTMjI-9XP9M/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=kTMjI-9XP9M",
           "videoSource": "youtube",
           "mediaType": "both"
         },
