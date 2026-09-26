@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "حوارات مع غير المسلمين الاجانب",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=rDBeET54OtA",
+          "imageUrl": "https://i.ytimg.com/vi/rDBeET54OtA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=rDBeET54OtA",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "حوارات مع النصارى والملحدين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
