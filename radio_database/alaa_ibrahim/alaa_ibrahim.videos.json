@@ -37,16 +37,6 @@
           "mediaType": "both"
         },
         {
-          "title": "لو كتفك ظهر وانت بتصلي صلاتك باطلة !! ",
-          "subtitle": "جديد الشيخ علاء ابراهيم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=FcPjTomX-7I",
-          "imageUrl": "https://i.ytimg.com/vi/FcPjTomX-7I/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=FcPjTomX-7I",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "واحد طلب صورة النبي محمد من الذكاء الإصطناعي ",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
@@ -67,22 +57,32 @@
           "mediaType": "both"
         },
         {
-          "title": "مش كل حاجة حرام عند الشيوخ ",
-          "subtitle": "جديد الشيخ علاء ابراهيم",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=jmC1NFyeiRM",
-          "imageUrl": "https://i.ytimg.com/vi/jmC1NFyeiRM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=jmC1NFyeiRM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "بيقرا القران بالطريقة الإسكندراني ",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=1Hfjtvqv2Ho",
           "imageUrl": "https://i.ytimg.com/vi/1Hfjtvqv2Ho/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=1Hfjtvqv2Ho",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "لو كتفك ظهر وانت بتصلي صلاتك باطلة !! ",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=FcPjTomX-7I",
+          "imageUrl": "https://i.ytimg.com/vi/FcPjTomX-7I/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=FcPjTomX-7I",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "مش كل حاجة حرام عند الشيوخ ",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jmC1NFyeiRM",
+          "imageUrl": "https://i.ytimg.com/vi/jmC1NFyeiRM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jmC1NFyeiRM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
