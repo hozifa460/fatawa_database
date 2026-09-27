@@ -17,12 +17,32 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة هادئة تأخذك بعيدًا عن ضجيج الدنيا | الشيخ محمد صديق المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Z-BstrfKNjM",
+          "imageUrl": "https://i.ytimg.com/vi/Z-BstrfKNjM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Z-BstrfKNjM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=nJoFx7n85YE",
           "imageUrl": "https://i.ytimg.com/vi/nJoFx7n85YE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=nJoFx7n85YE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=HrImf-lblNk",
+          "imageUrl": "https://i.ytimg.com/vi/HrImf-lblNk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=HrImf-lblNk",
           "videoSource": "youtube",
           "mediaType": "both"
         },
