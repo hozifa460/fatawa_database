@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سيبكي قلبك قبل عينك من بطل #دولة_التلاوة وصاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ofxe5Ywd2us",
-          "imageUrl": "https://i.ytimg.com/vi/ofxe5Ywd2us/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ofxe5Ywd2us",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "صوت يذهب الحزن من قلبك ! المعجزة صالح مهدي زاده يبدع يزلزل ساحة التلاوة من سورة نوح والتكوير HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=l9RQtSrqcqc",
           "imageUrl": "https://i.ytimg.com/vi/l9RQtSrqcqc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=l9RQtSrqcqc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سيبكي قلبك قبل عينك من بطل #دولة_التلاوة وصاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ofxe5Ywd2us",
+          "imageUrl": "https://i.ytimg.com/vi/ofxe5Ywd2us/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ofxe5Ywd2us",
           "videoSource": "youtube",
           "mediaType": "both"
         },
