@@ -17,22 +17,32 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=m9A14xuoG1Q",
-          "imageUrl": "https://i.ytimg.com/vi/m9A14xuoG1Q/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=m9A14xuoG1Q",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "إذا صدح صوت المنشاوي... اهتزت الأرواح بخشوع عجيب",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=CX87j6ZWttE",
           "imageUrl": "https://i.ytimg.com/vi/CX87j6ZWttE/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=CX87j6ZWttE",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "في هدوء الليل.. الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=jIrcOGszTzM",
+          "imageUrl": "https://i.ytimg.com/vi/jIrcOGszTzM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=jIrcOGszTzM",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=m9A14xuoG1Q",
+          "imageUrl": "https://i.ytimg.com/vi/m9A14xuoG1Q/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=m9A14xuoG1Q",
           "videoSource": "youtube",
           "mediaType": "both"
         },
