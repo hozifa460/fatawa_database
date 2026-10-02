@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "حوارات مع النصارى والملحدين لا تفوتك",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=GWhmDrp8rpM",
-          "imageUrl": "https://i.ytimg.com/vi/GWhmDrp8rpM/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=GWhmDrp8rpM",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "اتصالات المسلمين",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=mv7ditX7PkI",
           "imageUrl": "https://i.ytimg.com/vi/mv7ditX7PkI/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=mv7ditX7PkI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "حوارات مع النصارى والملحدين لا تفوتك",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=GWhmDrp8rpM",
+          "imageUrl": "https://i.ytimg.com/vi/GWhmDrp8rpM/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=GWhmDrp8rpM",
           "videoSource": "youtube",
           "mediaType": "both"
         },
