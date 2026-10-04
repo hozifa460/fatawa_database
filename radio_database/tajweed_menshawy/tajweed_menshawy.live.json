@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "في هدوء الليل.. الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=mpIrBnhAOlg",
-          "imageUrl": "https://i.ytimg.com/vi/mpIrBnhAOlg/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=mpIrBnhAOlg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=cu7vJxdDB5g",
           "imageUrl": "https://i.ytimg.com/vi/cu7vJxdDB5g/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=cu7vJxdDB5g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "في هدوء الليل.. الطمأنينة التي تبحث عنها 🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=mpIrBnhAOlg",
+          "imageUrl": "https://i.ytimg.com/vi/mpIrBnhAOlg/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=mpIrBnhAOlg",
           "videoSource": "youtube",
           "mediaType": "both"
         },
