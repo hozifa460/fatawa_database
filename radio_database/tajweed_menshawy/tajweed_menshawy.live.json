@@ -17,22 +17,32 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=VwkGBWLsCGY",
-          "imageUrl": "https://i.ytimg.com/vi/VwkGBWLsCGY/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=VwkGBWLsCGY",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=wOB-m4xEpcs",
           "imageUrl": "https://i.ytimg.com/vi/wOB-m4xEpcs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=wOB-m4xEpcs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=bnyNnEVAae4",
+          "imageUrl": "https://i.ytimg.com/vi/bnyNnEVAae4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=bnyNnEVAae4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | من روائع الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=VwkGBWLsCGY",
+          "imageUrl": "https://i.ytimg.com/vi/VwkGBWLsCGY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=VwkGBWLsCGY",
           "videoSource": "youtube",
           "mediaType": "both"
         },
