@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
+          "title": "قرآن الفجر... ابدأ يومك بكلام الله🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=wOB-m4xEpcs",
-          "imageUrl": "https://i.ytimg.com/vi/wOB-m4xEpcs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=wOB-m4xEpcs",
+          "audioUrl": "https://www.youtube.com/watch?v=Bio3qSLeSEI",
+          "imageUrl": "https://i.ytimg.com/vi/Bio3qSLeSEI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Bio3qSLeSEI",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=bnyNnEVAae4",
           "imageUrl": "https://i.ytimg.com/vi/bnyNnEVAae4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=bnyNnEVAae4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "من نوادر وروائع الصوت الباكي | تلاوة روحانية تأخذك لعالم آخر للشيخ المنشاوي رحمه الله 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=wOB-m4xEpcs",
+          "imageUrl": "https://i.ytimg.com/vi/wOB-m4xEpcs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=wOB-m4xEpcs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
