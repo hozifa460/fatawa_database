@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "كيف تدير الأزمات بين الزوجين بطريقة صحية؟ | د. محمد السويدان #خلافات_زوجية",
+          "title": "أحيانًا يكون حضور الأب جسديًا فقط | د. محمد السويدان #الآباء",
           "subtitle": "جديد بودكاست بدون ورق",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=LQW4oqMaEcU",
-          "imageUrl": "https://i.ytimg.com/vi/LQW4oqMaEcU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=LQW4oqMaEcU",
+          "audioUrl": "https://www.youtube.com/watch?v=7cKhjUxEm6U",
+          "imageUrl": "https://i.ytimg.com/vi/7cKhjUxEm6U/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=7cKhjUxEm6U",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -153,6 +153,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=bYoXgXbHTdg",
           "imageUrl": "https://i.ytimg.com/vi/bYoXgXbHTdg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=bYoXgXbHTdg",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "كيف تدير الأزمات بين الزوجين بطريقة صحية؟ | د. محمد السويدان #خلافات_زوجية",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=LQW4oqMaEcU",
+          "imageUrl": "https://i.ytimg.com/vi/LQW4oqMaEcU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=LQW4oqMaEcU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
