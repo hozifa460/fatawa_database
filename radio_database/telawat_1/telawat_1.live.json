@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سيبكي قلبك قبل عينك من بطل #دولة_التلاوة وصاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=8AvGSNY_9GU",
-          "imageUrl": "https://i.ytimg.com/vi/8AvGSNY_9GU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=8AvGSNY_9GU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ستعيش أجمل ساعة في حياتك مع جميع تلاوات صالح مهدي زاده بصوت عبقري لا مثيل له ! معجزة التلاوة",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=IAl9siDvy0g",
           "imageUrl": "https://i.ytimg.com/vi/IAl9siDvy0g/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=IAl9siDvy0g",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سيبكي قلبك قبل عينك من بطل #دولة_التلاوة وصاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=8AvGSNY_9GU",
+          "imageUrl": "https://i.ytimg.com/vi/8AvGSNY_9GU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=8AvGSNY_9GU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
