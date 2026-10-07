@@ -1,0 +1,32 @@
+{
+  "id": "bedon_waraq",
+  "title": "جديد بودكاست بدون ورق",
+  "emoji": "🎥",
+  "description": "فيديوهات قناة جديد بودكاست بدون ورق على يوتيوب",
+  "gradientColors": [
+    "#8B0000",
+    "#FF6347"
+  ],
+  "imageUrl": "",
+  "items": [
+    {
+      "title": "بثوث مباشرة — جديد بودكاست بدون ورق",
+      "subtitle": "يوتيوب",
+      "emoji": "🔴",
+      "imageUrl": "",
+      "audioUrl": "",
+      "subItems": [
+        {
+          "title": "تؤثر الصحة النفسية للأب بشكل مباشر في الأبناء | د. محمد السويدان #تربية #أبوي",
+          "subtitle": "جديد بودكاست بدون ورق",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ErQuYX3cNx4",
+          "imageUrl": "https://i.ytimg.com/vi/ErQuYX3cNx4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ErQuYX3cNx4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        }
+      ]
+    }
+  ]
+}
