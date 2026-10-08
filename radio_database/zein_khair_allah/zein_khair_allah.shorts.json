@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "الأخلاء",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=yXeisPw5iog",
+          "imageUrl": "https://i.ytimg.com/vi/yXeisPw5iog/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=yXeisPw5iog",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "اللين والشدة",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
