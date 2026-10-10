@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "رفض أن يقرأ حتى جلس بجانبه حامد شاكر نجاد وحسنين الحلو ! صالح مهدي زاده زلزلت تلاوته باكستان HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=qh1JmY10EWA",
-          "imageUrl": "https://i.ytimg.com/vi/qh1JmY10EWA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=qh1JmY10EWA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "كأنك تعيش أحداث قصة يوسف الصديق مع عبقري #دولة_التلاوة محمد رضا بورصفر - شاب معجزة مستقبله قادم HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=17DAyjBe4oU",
           "imageUrl": "https://i.ytimg.com/vi/17DAyjBe4oU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=17DAyjBe4oU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "رفض أن يقرأ حتى جلس بجانبه حامد شاكر نجاد وحسنين الحلو ! صالح مهدي زاده زلزلت تلاوته باكستان HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qh1JmY10EWA",
+          "imageUrl": "https://i.ytimg.com/vi/qh1JmY10EWA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qh1JmY10EWA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
