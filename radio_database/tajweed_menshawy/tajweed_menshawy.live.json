@@ -17,22 +17,32 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=Zkd0fFWQSJA",
-          "imageUrl": "https://i.ytimg.com/vi/Zkd0fFWQSJA/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=Zkd0fFWQSJA",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "أرح قلبك قليلًا 🤍 دقائق من الطمأنينة مع كلام الله | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=qEd-vS-tpSc",
           "imageUrl": "https://i.ytimg.com/vi/qEd-vS-tpSc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=qEd-vS-tpSc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع يُبكي القلوب تلاوة مؤثرة ... الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=1C-O4DCPyLI",
+          "imageUrl": "https://i.ytimg.com/vi/1C-O4DCPyLI/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=1C-O4DCPyLI",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "اترك الدنيا وراء ظهرك وأرح سمعك قليلاً.. تلاوة هادئة للشيخ المنشاوي تريح قلبك 🤍 تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=Zkd0fFWQSJA",
+          "imageUrl": "https://i.ytimg.com/vi/Zkd0fFWQSJA/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=Zkd0fFWQSJA",
           "videoSource": "youtube",
           "mediaType": "both"
         },
