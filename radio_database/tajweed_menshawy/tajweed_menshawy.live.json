@@ -17,12 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=fekyo53Glcw",
-          "imageUrl": "https://i.ytimg.com/vi/fekyo53Glcw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=fekyo53Glcw",
+          "audioUrl": "https://www.youtube.com/watch?v=as-fNz9UfQU",
+          "imageUrl": "https://i.ytimg.com/vi/as-fNz9UfQU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=as-fNz9UfQU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "خشوع وإبداع لا يوصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=v2vtcBGDOQU",
+          "imageUrl": "https://i.ytimg.com/vi/v2vtcBGDOQU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=v2vtcBGDOQU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +43,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=OZVoQuO0MmU",
           "imageUrl": "https://i.ytimg.com/vi/OZVoQuO0MmU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=OZVoQuO0MmU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=fekyo53Glcw",
+          "imageUrl": "https://i.ytimg.com/vi/fekyo53Glcw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=fekyo53Glcw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
