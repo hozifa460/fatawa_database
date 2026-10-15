@@ -47,16 +47,6 @@
           "mediaType": "both"
         },
         {
-          "title": "انشروا المقطع إبراء للذمة",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=lUH_ktR9twk",
-          "imageUrl": "https://i.ytimg.com/vi/lUH_ktR9twk/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=lUH_ktR9twk",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "نصراني يقع ثم يقوم ثم وقع وقعة نهائية 😄",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -83,6 +73,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=_zUgpJQSCTc",
           "imageUrl": "https://i.ytimg.com/vi/_zUgpJQSCTc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=_zUgpJQSCTc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "انشروا المقطع إبراء للذمة",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=lUH_ktR9twk",
+          "imageUrl": "https://i.ytimg.com/vi/lUH_ktR9twk/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=lUH_ktR9twk",
           "videoSource": "youtube",
           "mediaType": "both"
         },
