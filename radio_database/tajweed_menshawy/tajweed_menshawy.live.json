@@ -17,16 +17,6 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=as-fNz9UfQU",
-          "imageUrl": "https://i.ytimg.com/vi/as-fNz9UfQU/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=as-fNz9UfQU",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "روائع الصوت الباكي... تلاوة تدمع لها العين وتخشع لها القلوب | الشيخ محمد صديق المنشاوي",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -43,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=lMvWDwr4mFw",
           "imageUrl": "https://i.ytimg.com/vi/lMvWDwr4mFw/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=lMvWDwr4mFw",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أرح قلبك المتعب... صوت يأخذك إلى السكينة وتلاوة تريح النفس | الشيخ المنشاوي",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=as-fNz9UfQU",
+          "imageUrl": "https://i.ytimg.com/vi/as-fNz9UfQU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=as-fNz9UfQU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
