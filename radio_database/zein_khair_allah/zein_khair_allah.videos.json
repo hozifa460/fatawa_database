@@ -37,16 +37,6 @@
           "mediaType": "both"
         },
         {
-          "title": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ",
-          "subtitle": "جديد الشيخ زين خير الله",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=csA860Bl_mo",
-          "imageUrl": "https://i.ytimg.com/vi/csA860Bl_mo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=csA860Bl_mo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "شاهد نصراني يتعرض لصـ ـدمات كثيرة وراء بعضها بسبب كتابه ",
           "subtitle": "جديد الشيخ زين خير الله",
           "emoji": "",
@@ -83,6 +73,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=gasUg7FPZnc",
           "imageUrl": "https://i.ytimg.com/vi/gasUg7FPZnc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=gasUg7FPZnc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ",
+          "subtitle": "جديد الشيخ زين خير الله",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=csA860Bl_mo",
+          "imageUrl": "https://i.ytimg.com/vi/csA860Bl_mo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=csA860Bl_mo",
           "videoSource": "youtube",
           "mediaType": "both"
         },
