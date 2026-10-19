@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الفجر... ابدأ يومك بكلام الله🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=9gT-FU8nZas",
-          "imageUrl": "https://i.ytimg.com/vi/9gT-FU8nZas/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=9gT-FU8nZas",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "خشوع وعذوبة لا توصف | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=umN-OvZ80qU",
           "imageUrl": "https://i.ytimg.com/vi/umN-OvZ80qU/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=umN-OvZ80qU",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الفجر... ابدأ يومك بكلام الله🎙 تلاوة تأخذك في رحلة إيمانية | الشيخ المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=9gT-FU8nZas",
+          "imageUrl": "https://i.ytimg.com/vi/9gT-FU8nZas/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=9gT-FU8nZas",
           "videoSource": "youtube",
           "mediaType": "both"
         },
