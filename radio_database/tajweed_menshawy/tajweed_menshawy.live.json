@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة فاقت الجمال... تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
+          "title": "قرآن الصباح... ابدأ يومك بكلام الله🎙 لبداية يوم مبارك | الشيخ المنشاوي 🎧 Morning Quran",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=xHN3gme1PR0",
-          "imageUrl": "https://i.ytimg.com/vi/xHN3gme1PR0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=xHN3gme1PR0",
+          "audioUrl": "https://www.youtube.com/watch?v=dVcaSb1gwFs",
+          "imageUrl": "https://i.ytimg.com/vi/dVcaSb1gwFs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dVcaSb1gwFs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=zne3eG5GoRs",
           "imageUrl": "https://i.ytimg.com/vi/zne3eG5GoRs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zne3eG5GoRs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة فاقت الجمال... تريح الأعصاب وتمحو حزن قلبك للشيخ المنشاوي | تجويد بث مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=xHN3gme1PR0",
+          "imageUrl": "https://i.ytimg.com/vi/xHN3gme1PR0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=xHN3gme1PR0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
