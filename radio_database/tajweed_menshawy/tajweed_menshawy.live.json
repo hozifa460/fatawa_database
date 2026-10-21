@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الصباح... ابدأ يومك بكلام الله🎙 لبداية يوم مبارك | الشيخ المنشاوي 🎧 Morning Quran",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=dVcaSb1gwFs",
-          "imageUrl": "https://i.ytimg.com/vi/dVcaSb1gwFs/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=dVcaSb1gwFs",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=zne3eG5GoRs",
           "imageUrl": "https://i.ytimg.com/vi/zne3eG5GoRs/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zne3eG5GoRs",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الصباح... ابدأ يومك بكلام الله🎙 لبداية يوم مبارك | الشيخ المنشاوي 🎧 Morning Quran",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=dVcaSb1gwFs",
+          "imageUrl": "https://i.ytimg.com/vi/dVcaSb1gwFs/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=dVcaSb1gwFs",
           "videoSource": "youtube",
           "mediaType": "both"
         },
