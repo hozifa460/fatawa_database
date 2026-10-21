@@ -17,6 +17,16 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "ازاي أنا شيخ وعندي تليفزيون ؟!",
+          "subtitle": "جديد الشيخ علاء ابراهيم",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=gFSuO9dIEu8",
+          "imageUrl": "https://i.ytimg.com/vi/gFSuO9dIEu8/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=gFSuO9dIEu8",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أين النسويات والمدافعين عن حقوق المرأة ؟",
           "subtitle": "جديد الشيخ علاء ابراهيم",
           "emoji": "",
