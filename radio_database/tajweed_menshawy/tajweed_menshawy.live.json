@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "تلاوة هادئة تأخذك بعيدًا عن ضجيج الدنيا | الشيخ محمد صديق المنشاوي | جودة نقية 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=qKl0ou6ER3E",
+          "imageUrl": "https://i.ytimg.com/vi/qKl0ou6ER3E/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=qKl0ou6ER3E",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
+          "imageUrl": "https://i.ytimg.com/vi/If-FLQl2p20/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "أجمل ساعتين تقضيهما مع القرآن 🤍 روائع الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=GJ41uw4ZvC4",
           "imageUrl": "https://i.ytimg.com/vi/GJ41uw4ZvC4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=GJ41uw4ZvC4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
-          "imageUrl": "https://i.ytimg.com/vi/If-FLQl2p20/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
           "videoSource": "youtube",
           "mediaType": "both"
         },
