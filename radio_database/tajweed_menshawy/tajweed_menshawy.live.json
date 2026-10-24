@@ -17,12 +17,12 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "title": "أجمل ساعتين تقضيهما مع القرآن 🤍 روائع الشيخ المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
-          "imageUrl": "https://i.ytimg.com/vi/If-FLQl2p20/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
+          "audioUrl": "https://www.youtube.com/watch?v=r8U67gEjotU",
+          "imageUrl": "https://i.ytimg.com/vi/r8U67gEjotU/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=r8U67gEjotU",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -33,6 +33,16 @@
           "audioUrl": "https://www.youtube.com/watch?v=GJ41uw4ZvC4",
           "imageUrl": "https://i.ytimg.com/vi/GJ41uw4ZvC4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=GJ41uw4ZvC4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "الشيخ المنشاوي في أروع وأجمل تجلياته... التلاوة الخالدة التي أبكت الملايين 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
+          "imageUrl": "https://i.ytimg.com/vi/If-FLQl2p20/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=If-FLQl2p20",
           "videoSource": "youtube",
           "mediaType": "both"
         },
