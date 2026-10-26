@@ -17,22 +17,62 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=bfBsXq7d1v0",
-          "imageUrl": "https://i.ytimg.com/vi/bfBsXq7d1v0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=bfBsXq7d1v0",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوات تهدّئ الروح... أنصت بقلبك | من سورة النحل | محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=ugCIypsFlXk",
           "imageUrl": "https://i.ytimg.com/vi/ugCIypsFlXk/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=ugCIypsFlXk",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "فاتك الكثير إن لم تسمعها... من التلاوات الخاشعة | الشيخ محمد صديق المنشاوي 🎙 | جودة عالية ᴴᴰ",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=gdYoMMLCTeo",
+          "imageUrl": "https://i.ytimg.com/vi/gdYoMMLCTeo/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=gdYoMMLCTeo",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "إبداع المنشاوي يبلغ قمته في هذه التلاوة ... سورة آل عمران كاملة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=0VqB9LHSOh0",
+          "imageUrl": "https://i.ytimg.com/vi/0VqB9LHSOh0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=0VqB9LHSOh0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن يوم الجمعة بصوت مذهل يريح القلوب | الشيخ المنشاوي | سورة الكهف كاملة – Surah Al-Kahf",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=oRM_W0_6f40",
+          "imageUrl": "https://i.ytimg.com/vi/oRM_W0_6f40/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=oRM_W0_6f40",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة جميلة تريح القلب وتهدئ الروح | الشيخ المنشاوي 🎙 سورة الأنفال | جودة عالية ᴴᴰ",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=CHvjE7uvag4",
+          "imageUrl": "https://i.ytimg.com/vi/CHvjE7uvag4/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=CHvjE7uvag4",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "قرآن الصباح 🌿 تلاوة هادئة تملأ النفس طمأنينة | الشيخ محمد صديق المنشاوي 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=bfBsXq7d1v0",
+          "imageUrl": "https://i.ytimg.com/vi/bfBsXq7d1v0/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=bfBsXq7d1v0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -77,32 +117,12 @@
           "mediaType": "both"
         },
         {
-          "title": "فاتك الكثير إن لم تسمعها... من التلاوات الخاشعة | الشيخ محمد صديق المنشاوي 🎙 | جودة عالية ᴴᴰ",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=gdYoMMLCTeo",
-          "imageUrl": "https://i.ytimg.com/vi/gdYoMMLCTeo/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=gdYoMMLCTeo",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "خشوع يُبكي القلوب تلاوة مؤثرة ... الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=GJ41uw4ZvC4",
           "imageUrl": "https://i.ytimg.com/vi/GJ41uw4ZvC4/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=GJ41uw4ZvC4",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "إبداع المنشاوي يبلغ قمته في هذه التلاوة ... سورة آل عمران كاملة | الشيخ محمد صديق المنشاوي 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=0VqB9LHSOh0",
-          "imageUrl": "https://i.ytimg.com/vi/0VqB9LHSOh0/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=0VqB9LHSOh0",
           "videoSource": "youtube",
           "mediaType": "both"
         },
@@ -117,32 +137,12 @@
           "mediaType": "both"
         },
         {
-          "title": "قرآن يوم الجمعة بصوت مذهل يريح القلوب | الشيخ المنشاوي | سورة الكهف كاملة – Surah Al-Kahf",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=oRM_W0_6f40",
-          "imageUrl": "https://i.ytimg.com/vi/oRM_W0_6f40/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=oRM_W0_6f40",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "آيات لراحة قلبك... النفس تحتاج هذا الخشوع | أجمل تلاوات الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=HLjSLaadHxg",
           "imageUrl": "https://i.ytimg.com/vi/HLjSLaadHxg/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=HLjSLaadHxg",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "تلاوة جميلة تريح القلب وتهدئ الروح | الشيخ المنشاوي 🎙 سورة الأنفال | جودة عالية ᴴᴰ",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=CHvjE7uvag4",
-          "imageUrl": "https://i.ytimg.com/vi/CHvjE7uvag4/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=CHvjE7uvag4",
           "videoSource": "youtube",
           "mediaType": "both"
         },
