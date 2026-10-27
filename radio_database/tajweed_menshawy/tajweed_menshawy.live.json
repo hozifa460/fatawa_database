@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=WlCrHkrbNzw",
-          "imageUrl": "https://i.ytimg.com/vi/WlCrHkrbNzw/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=WlCrHkrbNzw",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "تلاوة هادئة جدا تفتح لك أبواب السكينة وتدخلك في عالم من الهدوء الشيخ #المنشاوي | جودة نقية 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=2PWJf2kXxRc",
           "imageUrl": "https://i.ytimg.com/vi/2PWJf2kXxRc/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=2PWJf2kXxRc",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=WlCrHkrbNzw",
+          "imageUrl": "https://i.ytimg.com/vi/WlCrHkrbNzw/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=WlCrHkrbNzw",
           "videoSource": "youtube",
           "mediaType": "both"
         },
