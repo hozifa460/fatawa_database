@@ -17,6 +17,26 @@
       "audioUrl": "",
       "subItems": [
         {
+          "title": "أنصت بخشوع | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=sYFOWZAtsus",
+          "imageUrl": "https://i.ytimg.com/vi/sYFOWZAtsus/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=sYFOWZAtsus",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "أجمل تلاوة في يوم الجمعة المباركة | سورة الكهف - surah al kahf | الشيخ المنشاوي | تجويد مباشر",
+          "subtitle": "جديد التجويد والشيخ المنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=AsBZRgdvPGY",
+          "imageUrl": "https://i.ytimg.com/vi/AsBZRgdvPGY/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=AsBZRgdvPGY",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
           "title": "قرآن الصباح 🌿 أجمل بداية ليومك | الشيخ محمد صديق المنشاوي 🎧",
           "subtitle": "جديد التجويد والشيخ المنشاوي",
           "emoji": "",
@@ -33,16 +53,6 @@
           "audioUrl": "https://www.youtube.com/watch?v=zh9X9Jr2TmQ",
           "imageUrl": "https://i.ytimg.com/vi/zh9X9Jr2TmQ/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=zh9X9Jr2TmQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
-          "title": "أنصت بخشوع | تلاوة تخطت حدود الجمال لقارئ القلوب الشيخ #المنشاوي | جودة ممتازة 🎧",
-          "subtitle": "جديد التجويد والشيخ المنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=sYFOWZAtsus",
-          "imageUrl": "https://i.ytimg.com/vi/sYFOWZAtsus/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=sYFOWZAtsus",
           "videoSource": "youtube",
           "mediaType": "both"
         },
