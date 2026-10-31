@@ -17,22 +17,22 @@
       "audioUrl": "",
       "subItems": [
         {
-          "title": "سيبكي قلبك قبل عينك من بطل #دولة_التلاوة وصاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
-          "subtitle": "جديد التلاوات والمنشاوي",
-          "emoji": "",
-          "audioUrl": "https://www.youtube.com/watch?v=ojoQGaswlaQ",
-          "imageUrl": "https://i.ytimg.com/vi/ojoQGaswlaQ/hqdefault.jpg",
-          "videoUrl": "https://www.youtube.com/watch?v=ojoQGaswlaQ",
-          "videoSource": "youtube",
-          "mediaType": "both"
-        },
-        {
           "title": "ساعة تذهب حزنك قلبك بدون توقف في جميع تلاوات صالح مهدي زاده ! ارح سمعك وقلبك بصوت نزل من الجنة HD",
           "subtitle": "جديد التلاوات والمنشاوي",
           "emoji": "",
           "audioUrl": "https://www.youtube.com/watch?v=PU6a7y9MPx0",
           "imageUrl": "https://i.ytimg.com/vi/PU6a7y9MPx0/hqdefault.jpg",
           "videoUrl": "https://www.youtube.com/watch?v=PU6a7y9MPx0",
+          "videoSource": "youtube",
+          "mediaType": "both"
+        },
+        {
+          "title": "سيبكي قلبك قبل عينك من بطل #دولة_التلاوة وصاحب الصوت الأسطوري محمد رضا بورصفر  يجنن المستمعين HD",
+          "subtitle": "جديد التلاوات والمنشاوي",
+          "emoji": "",
+          "audioUrl": "https://www.youtube.com/watch?v=ojoQGaswlaQ",
+          "imageUrl": "https://i.ytimg.com/vi/ojoQGaswlaQ/hqdefault.jpg",
+          "videoUrl": "https://www.youtube.com/watch?v=ojoQGaswlaQ",
           "videoSource": "youtube",
           "mediaType": "both"
         },
